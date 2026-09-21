@@ -1,0 +1,105 @@
+{
+  "pages": {
+    "faq": {
+      "subtitle": "Ürünlerimiz ve hizmetlerimiz hakkında sık sorulan sorular.",
+      "items": [
+        { "q": "Ürünleriniz ne için kullanılıyor?", "a": "Tüm ürünlerimiz yalnızca laboratuvar araştırma amaçları içindir. Bunlar in-vitro araştırma, biyokimyasal deneyler ve bilimsel incelemeler için tasarlanmıştır. Ürünlerimizin hiçbiri insan kullanımı, tüketimi veya klinik uygulamalar için tasarlanmamıştır." },
+        { "q": "Peptitleri nasıl saklarım?", "a": "Çoğu peptit -20°C veya altında bir dondurucuda saklanmalıdır. Yeniden yapılandırıldıktan sonra peptitler genellikle 4°C'de saklanmalı ve önerilen süre içinde kullanılmalıdır. Saklama talimatları için her zaman ürüne özel belgelere bakın." },
+        { "q": "Minimum sipariş miktarınız nedir?", "a": "Çoğu ürün için katı bir minimum sipariş miktarı olmadan esnek sipariş sunuyoruz. Ancak toplu fiyat avantajları ürün başına 10+ adet siparişlerde başlar. Belirli gereksinimler için satış ekibimizle iletişime geçin." },
+        { "q": "Uluslararası gönderim yapıyor musunuz?", "a": "Evet, dünya genelinde 50'den fazla ülkeye gönderim yapıyoruz. Gönderim maliyetleri ve teslim süreleri varış noktasına göre değişir. Güvenilir kurye hizmetleri kullanıyoruz ve sıcaklığa duyarlı bileşikler için özel işlem ayarlayabiliyoruz." },
+        { "q": "Ürün saflığını nasıl doğrulayabilirim?", "a": "Her parti, saflık seviyelerini doğrulayan üçüncü taraf laboratuvarlardan alınan Analiz Sertifikası (COA) ile birlikte gelir. COA'lar HPLC ve kütle spektrometrisi sonuçlarını içerir. COA'ları Test Sonuçları sayfamızdan indirebilirsiniz." },
+        { "q": "Hangi ödeme yöntemlerini kabul ediyorsunuz?", "a": "Banka havalesi, kredi kartı (müsait olduğunda) ve kripto para (belirli siparişler için) dahil olmak üzere çeşitli ödeme yöntemlerini kabul ediyoruz. Bölgenize uygun ödeme seçenekleri için bizimle iletişime geçin." },
+        { "q": "Ürünleriniz GMP sertifikalı mı?", "a": "Üretim ortaklarımız ISO sertifikalı kalite yönetim sistemleri altında faaliyet göstermektedir. Belirli ürünler için talep üzerine üretim standartlarına ilişkin dokümantasyon sağlayabiliriz." },
+        { "q": "Özel peptit sipariş edebilir miyim?", "a": "Evet, özel peptit sentezi hizmetleri sunuyoruz. Çeşitli modifikasyonlarla 5 ile 100+ amino asit arası diziler üretebiliriz. Fiyat teklifi ve zaman çizelgesi için gereksinimlerinizle birlikte ekibimizle iletişime geçin." }
+      ],
+      "ctaText": "Hâlâ sorularınız mı var? Ekibimiz size yardımcı olmak için burada.",
+      "contact": "İletişime Geçin"
+    },
+    "shipping": {
+      "subtitle": "Gönderim yöntemlerimiz, destinasyonlarımız ve teslim süreleri hakkında bilgiler.",
+      "cards": [
+        { "title": "Gönderim Destinasyonları", "description": "Tüm AB ülkelerine ve Kuzey Amerika, Asya, Avustralya ve Güney Amerika dahil dünya genelindeki destinasyonlara gönderim yapıyoruz. 50'den fazla ülkeye gönderim mevcuttur." },
+        { "title": "Teslim Süreleri", "description": "AB teslimatı: 3-7 iş günü. Uluslararası teslimat: 7-14 iş günü. Acil siparişler için ekspres gönderim seçenekleri mevcuttur." },
+        { "title": "Paketleme", "description": "Tüm gönderiler uygun korumayla özenle paketlenir. Sıcaklığa duyarlı bileşikler, stabiliteyi sağlamak için soğuk zincir malzemeleriyle gönderilir." },
+        { "title": "Soğuk Zincir Lojistiği", "description": "Hassas peptitler ve bileşikler için, taşıma sırasında optimum sıcaklığı korumak üzere jel paketleri ve izole ambalaj dahil soğuk zincir gönderim yöntemleri kullanıyoruz." }
+      ],
+      "costsTitle": "Gönderim Ücretleri",
+      "costsText1": "Gönderim ücretleri, destinasyon, ağırlık ve soğuk zincir işlem gerekip gerekmediğine göre hesaplanır. Nihai gönderim ücretleri, sipariş onayından önce ödeme sayfasında gösterilir.",
+      "costsText2": "Toplu siparişler veya özel gönderim gereksinimleri için ekibimizle özel teklif için iletişime geçin.",
+      "processingTitle": "Sipariş İşleme",
+      "processingText": "Siparişler genellikle 1-2 iş günü içinde işlenir ve gönderilir. Siparişiniz kargoya verildiğinde takip bilgilerini e-postayla alacaksınız."
+    },
+    "quality": {
+      "subtitle": "Kalite güvencesi ve ürün doğrulamasına olan taahhüdümüz.",
+      "points": [
+        { "title": "ISO Sertifikalı Üretim", "description": "Üretim ortaklarımız ISO sertifikalı kalite yönetim sistemleri altında faaliyet göstererek tutarlı kalite ve uluslararası standartlara uyum sağlar." },
+        { "title": "Üçüncü Taraf Testleri", "description": "Her parti, bağımsız akredite laboratuvarlarda titiz testlere tabi tutulur. Saflık doğrulaması için HPLC (Yüksek Performanslı Sıvı Kromatografisi) ve kütle spektrometrisi kullanıyoruz." },
+        { "title": "Tam İzlenebilirlik", "description": "Hammadde tedarikinden üretime ve nihai ürün serbest bırakmaya kadar eksiksiz dokümantasyon. Her parti, kaynak malzemelerine kadar izlenebilir." },
+        { "title": "%99+ Saflık Standardı", "description": "Tüm peptit ürünlerimiz için minimum %99 saflığı garanti ediyor, üçüncü taraf laboratuvar analiziyle doğruluyor ve Analiz Sertifikalarında belgeliyoruz." }
+      ],
+      "coaTitle": "Analiz Sertifikası",
+      "coaIntro": "Her ürün partisi şunları içeren kapsamlı bir Analiz Sertifikası (COA) içerir:",
+      "coaList": [
+        "HPLC ile saflık doğrulaması",
+        "Kütle spektrometrisi onayı",
+        "Görünüm ve fiziksel özellikler",
+        "Su içeriği analizi",
+        "Parti numarası ve üretim tarihi"
+      ],
+      "commitmentTitle": "Kalite Taahhüdü",
+      "commitmentText": "Ürünlerimizin kalitesinin arkasındayız. Bir ürünün kalitesi veya belgeleriyle ilgili endişeleriniz varsa lütfen hemen bizimle iletişime geçin. Tam müşteri memnuniyeti sağlamaya kararlıyız."
+    },
+    "privacy": {
+      "subtitle": "Bilgilerinizi nasıl topladığımız, kullandığımız ve koruduğumuz.",
+      "updated": "Son güncelleme: Mayıs 2026",
+      "sections": [
+        { "title": "Topladığımız Bilgiler", "body": "Hesap oluşturduğunuzda, sipariş verdiğinizde, haber bültenimize abone olduğunuzda veya destek için bizimle iletişime geçtiğinizde bize doğrudan sağladığınız bilgileri toplarız. Bu, adınızı, e-posta adresini, telefon numarasını, şirket adını, fatura adresini ve teslimat adresini içerebilir." },
+        { "title": "Bilgilerinizi Nasıl Kullanıyoruz", "body": "Topladığımız bilgileri siparişleri işlemek ve yerine getirmek, ürünler ve hizmetler hakkında sizinle iletişim kurmak, müşteri desteği sağlamak ve size promosyon iletişimleri göndermek (gerektiğinde onayınızla) için kullanırız." },
+        { "title": "Bilgi Paylaşımı", "body": "Hizmetlerimizi sağlamak için gerekli olmadıkça (ör. gönderim şirketleri ve ödeme işlemcileri) veya yasanın gerektirmediği sürece, kişisel bilgilerinizi onayınız olmadan üçüncü taraflara satmaz, takas etmez veya aktarmayız." },
+        { "title": "Veri Güvenliği", "body": "Kişisel bilgilerinizi yetkisiz erişime, değiştirmeye, ifşa etmeye veya imhaya karşı korumak için uygun güvenlik önlemleri uyguluyoruz. Ancak İnternet üzerinden hiçbir iletim yöntemi %100 güvenli değildir." },
+        { "title": "Çerezler ve İzleme", "body": "Tarama deneyiminizi iyileştirmek, site trafiğini analiz etmek ve ziyaretçilerin nereden geldiğini anlamak için çerezler ve benzeri izleme teknolojileri kullanıyoruz. Çerezleri tarayıcı ayarlarınızdan kontrol edebilirsiniz." },
+        { "title": "Haklarınız", "body": "Bulunduğunuz yere bağlı olarak, verilerinize erişme, düzeltme veya silme hakkı dahil kişisel bilgilerinize ilişkin belirli haklara sahip olabilirsiniz. Bu hakları kullanmak için bizimle iletişime geçin." },
+        { "title": "GDPR Uyumluluğu (AB Müşterileri)", "body": "Avrupa Birliği'ndeki müşteriler için Genel Veri Koruma Yönetmeliği'ne (GDPR) uyuyoruz. Kişisel verileri yalnızca yasal gerekçelerle işliyor ve tam veri sahibi hakları sunuyoruz." },
+        { "title": "İletişime Geçin", "body": "Bu Gizlilik Politikası hakkında sorularınız varsa lütfen privacy@ankhpeptide.com adresinden bizimle iletişime geçin." }
+      ]
+    },
+    "terms": {
+      "subtitle": "Hizmetlerimizi kullanmaya ilişkin şartlar ve koşullar.",
+      "updated": "Son güncelleme: Mayıs 2026",
+      "sections": [
+        { "title": "Şartları Kabul", "body": "Web sitemize ve hizmetlerimize erişerek veya bunları kullanarak bu Hizmet Şartları'na bağlı olmayı kabul edersiniz. Bu şartları kabul etmiyorsanız lütfen hizmetlerimizi kullanmayın." },
+        { "title": "Ürünler ve Amaçlanan Kullanım", "body": "AnkhPeptide tarafından satılan tüm ürünler yalnızca laboratuvar araştırma amaçları içindir. Bu ürünler ilaç, tıbbi ürün veya kozmetik değildir ve insan kullanımı, teşhis veya tedavi için tasarlanmamıştır. Ürünlerimizi satın alarak nitelikli bir araştırmacı veya profesyonel olduğunuzu onaylarsınız." },
+        { "title": "Siparişler ve Ödeme", "body": "Tüm siparişler stok durumuna ve onaya tabidir. Fiyatlar önceden bildirilmeksizin değiştirilebilir. Herhangi bir nedenle siparişi reddetme veya iptal etme hakkını saklı tutarız. Sipariş işlemeden önce ödemenin tamamı alınmalıdır." },
+        { "title": "Gönderim ve Teslimat", "body": "Gönderim süreleri yalnızca tahmindir ve garanti edilmez. Ürünlerin kayıp riski ve mülkiyeti, gönderim şirketine teslim edildiğinde alıcıya geçer. Gümrük veya gönderim şirketlerinin neden olduğu gecikmelerden sorumlu değiliz." },
+        { "title": "İadeler ve Geri Ödemeler", "body": "Ürünlerimizin doğası gereği açılmış veya kullanılmış ürünlerin iadesini kabul edemeyiz. Hasar görmüş veya kusurlu bir ürün alırsanız, değişim veya geri ödeme ayarlamak için 14 gün içinde bizimle iletişime geçin." },
+        { "title": "Sorumluluğun Sınırlandırılması", "body": "AnkhPeptide, ürünlerimizin veya hizmetlerimizin kullanımından kaynaklanan dolaylı, arızi, özel, sonuçsal veya cezai zararlardan sorumlu olmayacaktır. Toplam sorumluluğumuz, söz konusu ürün için ödenen tutarı aşmayacaktır." },
+        { "title": "Araştırma Feragatnamesi", "body": "AnkhPeptide ürünleri yalnızca laboratuvar araştırma amaçları için sağlar. Şirket, bu ürünlerin belirli bir uygulama için kullanılmasını önermez, desteklemez veya teşvik etmez. Kullanıcılar geçerli yasa ve yönetmeliklere uyumu sağlamakla yükümlüdür." },
+        { "title": "Fikri Mülkiyet", "body": "Metin, grafik, logo ve görseller dahil bu web sitesindeki tüm içerik AnkhPeptide'in mülkiyetindedir ve fikri mülkiyet yasalarıyla korunur." },
+        { "title": "Uygulanacak Hukuk", "body": "Bu Hizmet Şartları, çatışan yasa ilkeleri dikkate alınmaksızın geçerli yasalara göre yönetilecek ve yorumlanacaktır." },
+        { "title": "Şartlardaki Değişiklikler", "body": "Bu şartları istediğimiz zaman değiştirme hakkını saklı tutarız. Değişikliklerden sonra hizmetlerimizi kullanmaya devam etmeniz, değiştirilen şartların kabulü anlamına gelir." },
+        { "title": "İletişim Bilgileri", "body": "Bu Hizmet Şartları ile ilgili sorular için lütfen legal@ankhpeptide.com adresinden bize ulaşın." }
+      ]
+    },
+    "disclaimer": {
+      "subtitle": "Ürünlerimizin amaçlanan kullanımı hakkında önemli bilgiler.",
+      "alertTitle": "Yalnızca Araştırma Kullanımı",
+      "alertText": "AnkhPeptide tarafından satılan tüm ürünler kesinlikle yalnızca laboratuvar araştırma amaçları içindir. İnsan kullanımı, tüketimi veya uygulanması için tasarlanmamıştır.",
+      "sections": [
+        { "title": "Ürünün Amaçlanan Kullanımı", "body": "AnkhPeptide tarafından tedarik edilen ürünler yalnızca in-vitro laboratuvar araştırma ve deneyleri için tasarlanmıştır. Bu bileşikler, kontrollü laboratuvar ortamlarında nitelikli araştırmacılar, laboratuvar profesyonelleri ve bilimsel araştırmacılar tarafından kullanılmak üzere tasarlanmıştır." },
+        { "title": "İnsan Tüketimi İçin Değildir", "body": "Ürünlerimiz ilaç, farmasötik, gıda katkı maddesi veya kozmetik değildir. İnsanlarda güvenlik veya etkinlik için hiçbir düzenleyici otorite (FDA, EMA veya benzer kurumlar dahil) tarafından değerlendirilmemiştir. Ürünlerimizin hiçbiri yutulmamalı, enjekte edilmemeli veya insan maruziyetiyle sonuçlanabilecek hiçbir şekilde kullanılmamalıdır." },
+        { "title": "Nitelik Gereksinimleri", "body": "Sitemizden satın alarak aşağıdaki özelliklere sahip olduğunuzu onaylar ve garanti edersiniz:" },
+        { "title": "Sorumluluk", "body": "AnkhPeptide ürünlerimizin yanlış kullanımından sorumlu tutulmayacaktır. Kullanıcılar, ürünlerin tüm geçerli yasalar, yönetmelikler ve güvenlik kurallarına uygun olarak kullanılmasını sağlamanın tüm sorumluluğunu üstlenirler." },
+        { "title": "Üçüncü Taraf Test Doğrulaması", "body": "Saflık seviyelerini doğrulayan üçüncü taraf Analiz Sertifikaları sağlasak da, bu doğrulamalar yalnızca araştırma dokümantasyon amaçları için yapılır ve insan kullanımı için onay teşkil etmez." },
+        { "title": "Bu Feragatnamede Değişiklikler", "body": "Bu feragatnameyi istediğimiz zaman değiştirme hakkını saklı tutarız. Değişikliklerden sonra web sitemizi ve hizmetlerimizi kullanmaya devam etmeniz, değiştirilen şartların kabulü anlamına gelir." }
+      ],
+      "qualificationList": [
+        "Nitelikli bir araştırmacı veya laboratuvar profesyoneli",
+        "Uygun bir araştırma veya eğitim kurumunda çalışan",
+        "Tüm geçerli yasa ve yönetmeliklere uygun olarak ürün kullanan",
+        "Uygun laboratuvar güvenlik protokollerini takip eden"
+      ],
+      "ctaText": "Bu feragatname hakkında sorularınız varsa, satın alma işleminden önce lütfen bizimle iletişime geçin.",
+      "contact": "İletişime Geçin"
+    }
+  }
+}

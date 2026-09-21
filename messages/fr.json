@@ -1,0 +1,474 @@
+{
+  "nav": {
+    "products": "Produits",
+    "testResults": "Résultats",
+    "about": "À propos",
+    "b2b": "B2B",
+    "contact": "Contact"
+  },
+  "language": {
+    "select": "Choisir la langue"
+  },
+  "hero": {
+    "title": "Fournisseur de peptides de recherche",
+    "subtitle": "Peptides de recherche ultra-purs et composés de laboratoire pour la recherche in-vitro. Testés par des tiers à 99%+ de pureté. Expédition UE et mondiale.",
+    "viewProducts": "Voir les produits",
+    "getQuote": "Demander un devis",
+    "disclaimer": "Pour la recherche en laboratoire uniquement. Pas pour un usage humain."
+  },
+  "features": {
+    "highPurity": {
+      "title": "Pureté 99%+ vérifiée",
+      "description": "Chaque lot est testé par des tiers avec vérification HPLC et spectrométrie de masse. Certificats disponibles pour tous les produits."
+    },
+    "globalShipping": {
+      "title": "Expédition mondiale",
+      "description": "Expédition rapide et fiable vers l'UE et les destinations mondiales. Logistique en chaîne du froid pour les composés sensibles."
+    },
+    "qualityAssurance": {
+      "title": "Assurance qualité",
+      "description": "Fabrication certifiée ISO. Traçabilité complète des matières premières au produit final. Rapports de qualité inclus."
+    }
+  },
+  "product": {
+    "categories": {
+      "title": "Catégories de produits",
+      "peptides": "Peptides",
+      "glp1": "Analogue GLP-1",
+      "sarms": "SARMs",
+      "bioregulators": "Biorégulateurs",
+      "nootropics": "Nootropiques",
+      "ghAnalogs": "Analogue GH & Sécatagogues",
+      "myostatin": "Inhibiteurs de la myostatine",
+      "gonadotropins": "Gonadotrophines",
+      "injectables": "Injectables",
+      "nasal": "Sprays nasaux",
+      "pellets": "Granulés & Pilules",
+      "researchSupplies": "Fournitures de recherche"
+    },
+    "catalog": {
+      "title": "Catalogue produits",
+      "subtitle": "Parcourez notre gamme complète de peptides et composés de recherche"
+    },
+    "filters": "Filtres",
+    "search": "Rechercher",
+    "searchPlaceholder": "Rechercher des produits...",
+    "application": "Application",
+    "purity": "Pureté",
+    "noProducts": "Aucun produit disponible.",
+    "specifications": "Spécifications",
+    "technicalDocuments": "Documents techniques",
+    "literature": "Littérature",
+    "productNotFound": "Produit introuvable",
+    "productNotFoundDesc": "Le produit recherché n'existe pas.",
+    "moleculeHint": "Structure 3D interactive - faites glisser pour pivoter, faites défiler pour zoomer"
+  },
+  "testResults": {
+    "title": "Résultats des tests",
+    "subtitle": "Voir les rapports de laboratoire tiers pour tous nos produits",
+    "download": "Télécharger COA",
+    "badgeVerified": "Vérifié par un tiers",
+    "badgeHplc": "HPLC et spectrométrie de masse",
+    "badgePurity": "Standard de pureté 99 %+",
+    "purity": "Pureté",
+    "processTitle": "Notre processus de vérification",
+    "proc1": {
+      "title": "Collecte d'échantillons",
+      "desc": "Chaque lot est échantillonné dans notre installation de fabrication certifiée ISO avant sa sortie."
+    },
+    "proc2": {
+      "title": "Tests de laboratoire par un tiers",
+      "desc": "Les échantillons sont envoyés à des laboratoires indépendants accrédités pour analyse par HPLC et spectrométrie de masse."
+    },
+    "proc3": {
+      "title": "Émission du certificat",
+      "desc": "Les résultats vérifiés sont compilés dans des certificats d'analyse téléchargeables."
+    },
+    "ctaTitle": "Besoin de tests sur mesure ?",
+    "ctaDesc": "Nous pouvons organiser des tests tiers personnalisés pour des besoins spécifiques ou fournir une documentation supplémentaire pour le respect des réglementations.",
+    "contactUs": "Contact"
+  },
+  "about": {
+    "title": "À propos",
+    "content": "AnkhPeptide est un fournisseur leader de peptides de recherche ultra-purs et de composés de laboratoire. Nous approvisionnons chercheurs, laboratoires et sociétés pharmaceutiques du monde entier avec des peptides de haute qualité pour des applications de recherche in-vitro.",
+    "mission": "Notre mission est de fournir aux chercheurs un accès fiable à des composés peptidiques de haute pureté à des prix compétitifs.",
+    "missionTitle": "Notre mission",
+    "stats": {
+      "purity": "Pureté vérifiée",
+      "countries": "Pays de livraison",
+      "products": "Produits",
+      "response": "Délai de réponse"
+    },
+    "forResearchers": "Pour les chercheurs",
+    "forResearchersDesc": "Nous offrons un accès fiable à des composés peptidiques de haute pureté pour la recherche in vitro, favorisant le progrès scientifique.",
+    "forLaboratories": "Pour les laboratoires",
+    "forLaboratoriesDesc": "Une qualité constante et une documentation complète soutiennent les flux de travail en laboratoire et les exigences réglementaires.",
+    "whyTitle": "Pourquoi choisir AnkhPeptide ?",
+    "valQA": {
+      "title": "Assurance qualité",
+      "desc": "Chaque lot est soumis à des tests tiers rigoureux avec vérification par HPLC et spectrométrie de masse avant sa sortie."
+    },
+    "valISO": {
+      "title": "Normes ISO",
+      "desc": "Nos partenaires de fabrication opèrent sous des systèmes de gestion de la qualité certifiés ISO, garantissant la cohérence."
+    },
+    "valGlobal": {
+      "title": "Portée mondiale",
+      "desc": "Livraison fiable aux chercheurs, laboratoires et entreprises pharmaceutiques dans plus de 50 pays."
+    },
+    "valService": {
+      "title": "Service fiable",
+      "desc": "Une équipe d'assistance dédiée fournit une aide réactive pour les demandes de produits et les questions techniques."
+    },
+    "processTitle": "Notre processus qualité",
+    "proc1": {
+      "title": "Vérification des matières premières",
+      "desc": "Toutes les matières premières entrantes sont vérifiées et documentées avant utilisation en fabrication."
+    },
+    "proc2": {
+      "title": "Normes de fabrication",
+      "desc": "Les peptides sont synthétisés dans des conditions de contrôle qualité strictes dans des installations certifiées ISO."
+    },
+    "proc3": {
+      "title": "Tests par un tiers",
+      "desc": "Chaque lot est envoyé à des laboratoires indépendants accrédités pour la vérification de pureté par HPLC et spectrométrie de masse."
+    },
+    "proc4": {
+      "title": "Certificat d'analyse",
+      "desc": "Chaque sortie est accompagnée d'un certificat d'analyse complet téléchargeable sur notre page de résultats de tests."
+    },
+    "ctaTitle": "Prêt à commencer ?",
+    "ctaDesc": "Parcourez notre catalogue complet de peptides de recherche ou contactez notre équipe pour des prix de gros et des demandes de synthèse sur mesure.",
+    "contactUs": "Contact"
+  },
+  "b2b": {
+    "title": "Partenariats B2B",
+    "subtitle": "Commandes en gros et synthèse personnalisée pour institutions de recherche et sociétés pharmaceutiques",
+    "contact": "Contactez-nous pour les prix de gros",
+    "servicesTitle": "Nos services B2B",
+    "svBulk": {
+      "title": "Commandes en gros",
+      "desc": "Prix compétitifs pour les commandes en grandes quantités. Remises sur volume dès 10+ unités par produit."
+    },
+    "svCustom": {
+      "title": "Synthèse sur mesure",
+      "desc": "Séquences peptidiques sur mesure de 5 à plus de 100 acides aminés avec diverses modifications, y compris les peptides agrafés et les structures cycliques."
+    },
+    "svChain": {
+      "title": "Chaîne d'approvisionnement fiable",
+      "desc": "Approvisionnement constant avec disponibilité du stock garantie. Fabrication prioritaire pour les partenaires de long terme."
+    },
+    "svPartner": {
+      "title": "Partenariats B2B",
+      "desc": "Des solutions sur mesure pour les instituts de recherche, les entreprises pharmaceutiques et les organisations de recherche sous contrat."
+    },
+    "benefitsTitle": "Avantages du partenariat",
+    "ben0": "Grilles de prix selon le volume",
+    "ben1": "Gestion de compte dédiée",
+    "ben2": "Planification de production prioritaire",
+    "ben3": "Conditions de paiement flexibles pour les comptes éligibles",
+    "ben4": "Options d'étiquetage et d'emballage personnalisées",
+    "ben5": "Support documentaire technique",
+    "ben6": "Assistance en conformité réglementaire",
+    "customTitle": "Besoin sur mesure ?",
+    "customDesc": "Nous satisfaisons également les demandes personnalisées concernant des séquences peptidiques, des niveaux de pureté et des configurations d'emballage spécifiques.",
+    "contactQuote": "Contacter pour un devis sur mesure",
+    "serveTitle": "Qui nous servons",
+    "serveDesc": "Nos solutions B2B sont conçues pour répondre aux besoins de diverses organisations de recherche et pharmaceutiques.",
+    "mktInstitutions": {
+      "title": "Instituts de recherche",
+      "desc": "Universités, collèges et laboratoires de recherche indépendants menant des études in vitro."
+    },
+    "mktPharma": {
+      "title": "Entreprises pharmaceutiques",
+      "desc": "Équipes de développement de médicaments nécessitant des composés de haute pureté pour la recherche préclinique."
+    },
+    "mktCRO": {
+      "title": "Organisations de recherche sous contrat",
+      "desc": "CRO ayant besoin de fournisseurs de peptides fiables pour les projets de recherche de leurs clients."
+    },
+    "ctaDesc": "Notre équipe B2B est prête à discuter de vos besoins, fournir des devis personnalisés et explorer des opportunités de partenariat.",
+    "getInTouch": "Contactez-nous",
+    "browseCatalog": "Parcourir le catalogue"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Contactez-nous pour les demandes de produits, les commandes en gros ou le support technique",
+    "lead": "Contactez notre équipe pour toute question sur nos produits, un support technique ou des opportunités de partenariat.",
+    "sendInquiry": "Envoyez-nous votre demande",
+    "info": "Coordonnées",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "address": "Adresse",
+    "responseTime": "Délai de réponse",
+    "responseText": "Nous répondons généralement à toutes les demandes sous 24 heures en jours ouvrés.",
+    "bulkOrders": "Commandes en gros",
+    "bulkText": "Pour les commandes en gros ou les demandes de synthèse de peptides sur mesure, veuillez préciser vos quantités et délais. Notre équipe vous fournira un devis détaillé sous 12 heures."
+  },
+  "footer": {
+    "products": "Produits",
+    "company": "Entreprise",
+    "support": "Support",
+    "legal": "Légal",
+    "allProducts": "Tous les produits",
+    "testResults": "Résultats des tests",
+    "about": "À propos",
+    "b2b": "B2B",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "shipping": "Infos livraison",
+    "quality": "Assurance qualité",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "disclaimer": "Pour recherche uniquement. Pas pour consommation humaine.",
+    "copyright": "Tous droits réservés."
+  },
+  "form": {
+    "contactName": "Nom du contact",
+    "email": "E-mail",
+    "companyName": "Nom de l'entreprise",
+    "phone": "Téléphone",
+    "country": "Pays",
+    "product": "Produit d'intérêt",
+    "quantity": "Quantité",
+    "message": "Message",
+    "submit": "Envoyer la demande",
+    "submitting": "Envoi en cours...",
+    "success": "Merci pour votre demande. Nous vous répondrons sous 24 heures.",
+    "error": "Une erreur est survenue lors de l'envoi de votre demande. Veuillez réessayer.",
+    "errName": "Le nom du contact est requis",
+    "errEmail": "Un e-mail valide est requis",
+    "errCompany": "Le nom de l'entreprise est requis",
+    "errMessage": "Le message doit contenir au moins 10 caractères"
+  },
+  "meta": {
+    "title": "AnkhPeptide - Fournisseur de peptides de recherche",
+    "description": "Peptides de recherche ultra-purs et composés de laboratoire pour la recherche in-vitro. Testés par des tiers à 99%+ de pureté. Expédition UE et mondiale."
+  },
+  "pages": {
+    "faq": {
+      "subtitle": "Questions fréquentes sur nos produits et services.",
+      "items": [
+        {
+          "q": "À quoi servent vos produits ?",
+          "a": "Tous nos produits sont destinés uniquement à des fins de recherche en laboratoire. Ils sont destinés à la recherche in vitro, aux expériences biochimiques et aux investigations scientifiques. Aucun de nos produits n'est destiné à un usage humain, à la consommation ou à des applications cliniques."
+        },
+        {
+          "q": "Comment conserver les peptides ?",
+          "a": "La plupart des peptides doivent être conservés à -20°C ou moins dans un congélateur. Une fois reconstitués, les peptides doivent généralement être conservés à 4°C et utilisés dans les délais recommandés. Référez-vous toujours à la documentation spécifique du produit pour les instructions de conservation."
+        },
+        {
+          "q": "Quelle est votre quantité minimale de commande ?",
+          "a": "Nous offrons des commandes flexibles sans quantité minimale stricte pour la plupart des produits. Cependant, les avantages de prix de gros commencent à partir de 10 unités ou plus par produit. Contactez notre équipe commerciale pour des exigences spécifiques."
+        },
+        {
+          "q": "Expédiez-vous à l'international ?",
+          "a": "Oui, nous expédions dans plus de 50 pays dans le monde. Les frais d'expédition et les délais de livraison varient selon la destination. Nous utilisons des services de messagerie fiables et pouvons organiser un traitement spécial pour les composés sensibles à la température."
+        },
+        {
+          "q": "Comment vérifier la pureté des produits ?",
+          "a": "Chaque lot est livré avec un Certificat d'Analyse (COA) de laboratoires tiers confirmant les niveaux de pureté. Les COA incluent les résultats HPLC et de spectrométrie de masse. Vous pouvez télécharger les COA depuis notre page Résultats des Tests."
+        },
+        {
+          "q": "Quels modes de paiement acceptez-vous ?",
+          "a": "Nous acceptons divers modes de paiement, notamment le virement bancaire, la carte de crédit (lorsqu'elle est disponible) et la crypto-monnaie (pour certaines commandes). Contactez-nous pour des options de paiement adaptées à votre région."
+        },
+        {
+          "q": "Vos produits sont-ils certifiés GMP ?",
+          "a": "Nos partenaires de fabrication opèrent sous des systèmes de gestion de la qualité certifiés ISO. Nous pouvons fournir une documentation concernant les normes de fabrication sur demande pour des produits spécifiques."
+        },
+        {
+          "q": "Puis-je commander des peptides personnalisés ?",
+          "a": "Oui, nous proposons des services de synthèse de peptides sur mesure. Nous pouvons produire des séquences de 5 à plus de 100 acides aminés avec diverses modifications. Contactez notre équipe avec vos exigences pour un devis et un calendrier."
+        }
+      ],
+      "ctaText": "Encore des questions ? Notre équipe est là pour vous aider.",
+      "contact": "Contactez-nous"
+    },
+    "shipping": {
+      "subtitle": "Informations sur nos méthodes d'expédition, destinations et délais de livraison.",
+      "cards": [
+        {
+          "title": "Destinations d'expédition",
+          "description": "Nous expédions dans tous les pays de l'UE et vers des destinations mondiales, y compris l'Amérique du Nord, l'Asie, l'Australie et l'Amérique du Sud. L'expédition est disponible vers plus de 50 pays."
+        },
+        {
+          "title": "Délais de livraison",
+          "description": "Livraison UE : 3-7 jours ouvrables. Livraison internationale : 7-14 jours ouvrables. Des options d'expédition express disponibles pour les commandes urgentes."
+        },
+        {
+          "title": "Emballage",
+          "description": "Toutes les expéditions sont soigneusement emballées avec une protection adéquate. Les composés sensibles à la température sont expédiés avec des matériaux de chaîne du froid pour garantir la stabilité."
+        },
+        {
+          "title": "Logistique de chaîne du froid",
+          "description": "Pour les peptides et composés sensibles, nous utilisons des méthodes d'expédition en chaîne du froid, notamment des packs de gel et un emballage isolé, pour maintenir une température optimale pendant le transport."
+        }
+      ],
+      "costsTitle": "Frais d'expédition",
+      "costsText1": "Les frais d'expédition sont calculés en fonction de la destination, du poids et de la nécessité d'une gestion en chaîne du froid. Les frais d'expédition finaux seront affichés lors du paiement avant confirmation de la commande.",
+      "costsText2": "Pour les commandes en gros ou les exigences d'expédition spéciales, veuillez contacter notre équipe pour un devis personnalisé.",
+      "processingTitle": "Traitement des commandes",
+      "processingText": "Les commandes sont généralement traitées et expédiées dans un délai de 1 à 2 jours ouvrables. Vous recevrez les informations de suivi par e-mail une fois votre commande expédiée."
+    },
+    "quality": {
+      "subtitle": "Notre engagement envers l'assurance qualité et la vérification des produits.",
+      "points": [
+        {
+          "title": "Fabrication certifiée ISO",
+          "description": "Nos partenaires de fabrication opèrent sous des systèmes de gestion de la qualité certifiés ISO, garantissant une qualité constante et la conformité aux normes internationales."
+        },
+        {
+          "title": "Tests par des tiers",
+          "description": "Chaque lot subit des tests rigoureux dans des laboratoires accrédités indépendants. Nous utilisons la HPLC (chromatographie liquide à haute performance) et la spectrométrie de masse pour la vérification de la pureté."
+        },
+        {
+          "title": "Traçabilité complète",
+          "description": "Documentation complète de l'approvisionnement en matières premières à la fabrication jusqu'à la libération du produit final. Chaque lot peut être retracé jusqu'à ses matériaux sources."
+        },
+        {
+          "title": "Norme de pureté 99%+",
+          "description": "Nous garantissons une pureté minimale de 99% pour tous nos produits peptidiques, vérifiée par analyse de laboratoire tierce et documentée dans des Certificats d'Analyse."
+        }
+      ],
+      "coaTitle": "Certificat d'Analyse",
+      "coaIntro": "Chaque lot de produit comprend un Certificat d'Analyse (COA) complet contenant :",
+      "coaList": [
+        "Vérification de la pureté par HPLC",
+        "Confirmation par spectrométrie de masse",
+        "Apparence et caractéristiques physiques",
+        "Analyse de la teneur en eau",
+        "Numéro de lot et date de fabrication"
+      ],
+      "commitmentTitle": "Engagement qualité",
+      "commitmentText": "Nous soutenons la qualité de nos produits. Si vous avez des préoccupations concernant la qualité ou la documentation d'un produit, veuillez nous contacter immédiatement. Nous nous engageons à garantir une entière satisfaction client."
+    },
+    "privacy": {
+      "subtitle": "Comment nous collectons, utilisons et protégeons vos informations.",
+      "updated": "Dernière mise à jour : mai 2026",
+      "sections": [
+        {
+          "title": "Informations que nous collectons",
+          "body": "Nous collectons les informations que vous nous fournissez directement, par exemple lorsque vous créez un compte, passez une commande, vous abonnez à notre newsletter ou nous contactez pour obtenir de l'aide. Cela peut inclure votre nom, adresse e-mail, numéro de téléphone, nom de société, adresse de facturation et adresse de livraison."
+        },
+        {
+          "title": "Comment nous utilisons vos informations",
+          "body": "Nous utilisons les informations collectées pour traiter et exécuter les commandes, communiquer avec vous sur les produits et services, fournir un support client et vous envoyer des communications promotionnelles (avec votre consentement lorsque requis)."
+        },
+        {
+          "title": "Partage d'informations",
+          "body": "Nous ne vendons, échangeons ou transférons pas vos informations personnelles à des tiers sans votre consentement, sauf si nécessaire pour fournir nos services (comme les transporteurs et les processeurs de paiement) ou si la loi l'exige."
+        },
+        {
+          "title": "Sécurité des données",
+          "body": "Nous mettons en œuvre des mesures de sécurité appropriées pour protéger vos informations personnelles contre tout accès, modification, divulgation ou destruction non autorisés. Cependant, aucune méthode de transmission sur Internet n'est 100% sûre."
+        },
+        {
+          "title": "Cookies et suivi",
+          "body": "Nous utilisons des cookies et des technologies de suivi similaires pour améliorer votre expérience de navigation, analyser le trafic du site et comprendre d'où viennent les visiteurs. Vous pouvez contrôler les cookies via les paramètres de votre navigateur."
+        },
+        {
+          "title": "Vos droits",
+          "body": "Selon votre emplacement, vous pouvez avoir certains droits concernant vos informations personnelles, y compris le droit d'accéder, de corriger ou de supprimer vos données. Contactez-nous pour exercer ces droits."
+        },
+        {
+          "title": "Conformité RGPD (clients UE)",
+          "body": "Pour les clients de l'Union européenne, nous respectons le Règlement Général sur la Protection des Données (RGPD). Nous traitons les données personnelles uniquement sur des bases légales et offrons des droits complets aux personnes concernées."
+        },
+        {
+          "title": "Contactez-nous",
+          "body": "Si vous avez des questions sur cette politique de confidentialité, veuillez nous contacter à privacy@ankhpeptide.com."
+        }
+      ]
+    },
+    "terms": {
+      "subtitle": "Conditions générales d'utilisation de nos services.",
+      "updated": "Dernière mise à jour : mai 2026",
+      "sections": [
+        {
+          "title": "Acceptation des conditions",
+          "body": "En accédant ou en utilisant notre site Web et nos services, vous acceptez d'être lié par ces conditions de service. Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser nos services."
+        },
+        {
+          "title": "Produits et usage prévu",
+          "body": "Tous les produits vendus par AnkhPeptide sont destinés uniquement à des fins de recherche en laboratoire. Ces produits ne sont pas des drogues, médicaments ou cosmétiques et ne sont pas destinés à un usage humain, au diagnostic ou au traitement. En achetant nos produits, vous confirmez que vous êtes un chercheur ou professionnel qualifié."
+        },
+        {
+          "title": "Commandes et paiement",
+          "body": "Toutes les commandes sont soumises à disponibilité et confirmation. Les prix sont sujets à modification sans préavis. Nous nous réservons le droit de refuser ou d'annuler toute commande pour quelque raison que ce soit. Le paiement doit être reçu en totalité avant le traitement de la commande."
+        },
+        {
+          "title": "Expédition et livraison",
+          "body": "Les délais d'expédition sont des estimations uniquement et ne sont pas garantis. Le risque de perte et le titre des produits passent à l'acheteur à la livraison au transporteur. Nous ne sommes pas responsables des retards causés par les douanes ou les transporteurs."
+        },
+        {
+          "title": "Retours et remboursements",
+          "body": "En raison de la nature de nos produits, nous ne pouvons accepter le retour de produits ouverts ou utilisés. Si vous recevez un produit endommagé ou défectueux, contactez-nous dans les 14 jours pour organiser un remplacement ou un remboursement."
+        },
+        {
+          "title": "Limitation de responsabilité",
+          "body": "AnkhPeptide ne sera pas responsable des dommages indirects, accessoires, spéciaux, consécutifs ou punitifs découlant de l'utilisation de nos produits ou services. Notre responsabilité totale ne dépassera pas le montant payé pour le produit spécifique concerné."
+        },
+        {
+          "title": "Avertissement de recherche",
+          "body": "AnkhPeptide fournit des produits uniquement à des fins de recherche en laboratoire. La société ne recommande, n'approuve ou n'encourage pas l'utilisation de ces produits pour une application spécifique. Les utilisateurs sont responsables de garantir la conformité aux lois et réglementations applicables."
+        },
+        {
+          "title": "Propriété intellectuelle",
+          "body": "Tout le contenu de ce site Web, y compris le texte, les graphiques, les logos et les images, est la propriété d'AnkhPeptide et est protégé par les lois sur la propriété intellectuelle."
+        },
+        {
+          "title": "Droit applicable",
+          "body": "Ces conditions de service seront régies et interprétées conformément aux lois applicables, sans égard aux principes de conflit de lois."
+        },
+        {
+          "title": "Modifications des conditions",
+          "body": "Nous nous réservons le droit de modifier ces conditions à tout moment. L'utilisation continue de nos services après les modifications constitue l'acceptation des conditions modifiées."
+        },
+        {
+          "title": "Informations de contact",
+          "body": "Pour des questions concernant ces conditions de service, veuillez nous contacter à legal@ankhpeptide.com."
+        }
+      ]
+    },
+    "disclaimer": {
+      "subtitle": "Informations importantes sur l'usage prévu de nos produits.",
+      "alertTitle": "Usage de recherche uniquement",
+      "alertText": "Tous les produits vendus par AnkhPeptide sont strictement destinés à des fins de recherche en laboratoire. Ils ne sont pas destinés à un usage, une consommation ou une administration humaine.",
+      "sections": [
+        {
+          "title": "Usage prévu du produit",
+          "body": "Les produits fournis par AnkhPeptide sont conçus exclusivement pour la recherche et l'expérimentation de laboratoire in vitro. Ces composés sont destinés à être utilisés par des chercheurs qualifiés, des professionnels de laboratoire et des investigateurs scientifiques dans des environnements de laboratoire contrôlés."
+        },
+        {
+          "title": "Non destiné à la consommation humaine",
+          "body": "Nos produits ne sont pas des drogues, des produits pharmaceutiques, des additifs alimentaires ou des cosmétiques. Ils n'ont pas été évalués par aucune autorité réglementaire (y compris la FDA, l'EMA ou des agences similaires) pour la sécurité ou l'efficacité chez l'homme. Aucun de nos produits ne doit être ingéré, injecté ou utilisé d'une manière qui pourrait entraîner une exposition humaine."
+        },
+        {
+          "title": "Exigences de qualification",
+          "body": "En achetant sur notre site, vous confirmez et garantissez que vous êtes :"
+        },
+        {
+          "title": "Responsabilité",
+          "body": "AnkhPeptide ne sera pas tenu responsable de tout usage abusif de nos produits. Les utilisateurs assument l'entière responsabilité de s'assurer que les produits sont utilisés conformément à toutes les lois, réglementations et directives de sécurité applicables."
+        },
+        {
+          "title": "Vérification par des tests tiers",
+          "body": "Bien que nous fournissions des Certificats d'Analyse de tiers confirmant les niveaux de pureté, ces vérifications sont effectuées à des fins de documentation de recherche uniquement et ne constituent pas une approbation pour un usage humain."
+        },
+        {
+          "title": "Modifications de cet avertissement",
+          "body": "Nous nous réservons le droit de modifier cet avertissement à tout moment. L'utilisation continue de notre site Web et de nos services après les modifications constitue l'acceptation des conditions modifiées."
+        }
+      ],
+      "qualificationList": [
+        "Un chercheur ou professionnel de laboratoire qualifié",
+        "Opérant au sein d'une institution de recherche ou d'enseignement appropriée",
+        "Utilisant des produits conformément à toutes les lois et réglementations applicables",
+        "Suivant des protocoles de sécurité de laboratoire appropriés"
+      ],
+      "ctaText": "Si vous avez des questions sur cet avertissement, veuillez nous contacter avant de faire un achat.",
+      "contact": "Contactez-nous"
+    }
+  }
+}

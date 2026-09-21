@@ -1,0 +1,248 @@
+{
+  "nav": {
+    "products": "產品",
+    "testResults": "檢測報告",
+    "about": "關於我們",
+    "b2b": "企業採購",
+    "contact": "聯繫我們"
+  },
+  "language": {
+    "select": "選擇語言"
+  },
+  "hero": {
+    "title": "科研多肽供應商",
+    "subtitle": "超高純度科研多肽和實驗室化合物，用於體外研究。第三方檢測，純度99%+。歐盟及全球配送。",
+    "viewProducts": "瀏覽產品",
+    "getQuote": "獲取報價",
+    "disclaimer": "僅用於實驗室研究用途。不可用於人體。"
+  },
+  "features": {
+    "highPurity": {
+      "title": "99%+ 純度驗證",
+      "description": "每批次均通過第三方HPLC和質譜檢測。所有產品均提供檢測證書。"
+    },
+    "globalShipping": {
+      "title": "全球配送",
+      "description": "快速可靠的配送服務，覆蓋歐盟及全球目的地。敏感化合物冷鏈物流。"
+    },
+    "qualityAssurance": {
+      "title": "質量保証",
+      "description": "ISO認證製造商。從原材料到成品的全程可追溯。提供質量報告。"
+    }
+  },
+  "product": {
+    "categories": {
+      "title": "產品分類",
+      "peptides": "多肽",
+      "glp1": "GLP-1 類似物",
+      "sarms": "SARMs",
+      "bioregulators": "生物調節劑",
+      "nootropics": "促智劑",
+      "ghAnalogs": "生長激素類似物",
+      "myostatin": "肌抑素抑制劑",
+      "gonadotropins": "促性腺激素",
+      "injectables": "注射劑",
+      "nasal": "鼻噴劑",
+      "pellets": "pellet",
+      "researchSupplies": "研究用品"
+    },
+    "catalog": {
+      "title": "產品目錄",
+      "subtitle": "瀏覽我們的全系列科研多肽和化合物"
+    },
+    "filters": "篩選",
+    "search": "搜尋",
+    "searchPlaceholder": "搜尋產品...",
+    "application": "應用",
+    "purity": "純度",
+    "noProducts": "暫無可用產品。",
+    "specifications": "規格",
+    "technicalDocuments": "技術文件",
+    "literature": "文獻",
+    "productNotFound": "找不到產品",
+    "productNotFoundDesc": "您查詢的產品不存在。",
+    "moleculeHint": "互動式3D結構 - 拖曳旋轉，滾動縮放"
+  },
+  "testResults": {
+    "title": "檢測報告",
+    "subtitle": "查看所有產品的第三方實驗室報告",
+    "download": "下載COA",
+    "badgeVerified": "第三方認證",
+    "badgeHplc": "HPLC 與質譜分析",
+    "badgePurity": "99% 以上純度標準",
+    "purity": "純度",
+    "processTitle": "我們的驗證流程",
+    "proc1": {
+      "title": "樣品採集",
+      "desc": "每批產品在出廠前均在通過 ISO 認證的生產設施中取樣。"
+    },
+    "proc2": {
+      "title": "第三方實驗室檢測",
+      "desc": "樣品送往獨立的認可實驗室進行 HPLC 和質譜分析。"
+    },
+    "proc3": {
+      "title": "證書簽發",
+      "desc": "經驗證的結果會整理成分析證書供下載。"
+    },
+    "ctaTitle": "需要客製化檢測？",
+    "ctaDesc": "針對特定需求，我們可以安排客製化第三方檢測，或提供額外的法規合規文件。",
+    "contactUs": "聯繫我們"
+  },
+  "about": {
+    "title": "關於我們",
+    "content": "AnkhPeptide 是領先的科研多肽和實驗室化合物供應商。我們為全球研究人員、實驗室和製藥公司提供用於體外研究的高質量多肽。",
+    "mission": "我們的使命是為研究人員提供可靠的、高純度多肽化合物，價格優惠。",
+    "missionTitle": "我們的使命",
+    "stats": {
+      "purity": "純度已認證",
+      "countries": "出貨國家/地區",
+      "products": "產品",
+      "response": "回覆時間"
+    },
+    "forResearchers": "面向研究人員",
+    "forResearchersDesc": "為體外研究應用提供可靠的高純度胜肽化合物取得管道，助力科學研究進步。",
+    "forLaboratories": "面向實驗室",
+    "forLaboratoriesDesc": "穩定的品質和全面的文件支援實驗室工作流程及法規合規要求。",
+    "whyTitle": "為什麼選擇 AnkhPeptide？",
+    "valQA": {
+      "title": "品質保證",
+      "desc": "每批產品在出廠前均經過嚴格的第三方檢測，並通過 HPLC 和質譜驗證。"
+    },
+    "valISO": {
+      "title": "ISO 標準",
+      "desc": "我們的生產合作夥伴均依照 ISO 認證的品質管理系統營運，確保產品品質一致。"
+    },
+    "valGlobal": {
+      "title": "全球覆蓋",
+      "desc": "可靠的物流配送，覆蓋全球 50 多個國家和地區的研究人員、實驗室及製藥公司。"
+    },
+    "valService": {
+      "title": "可靠服務",
+      "desc": "專業支援團隊為產品諮詢和技術問題提供即時回覆。"
+    },
+    "processTitle": "我們的品質流程",
+    "proc1": {
+      "title": "原材料驗證",
+      "desc": "所有進廠原材料在使用前均經過驗證並記錄在案。"
+    },
+    "proc2": {
+      "title": "生產標準",
+      "desc": "胜肽在通過 ISO 認證的設施中、嚴格的品質管制條件下合成。"
+    },
+    "proc3": {
+      "title": "第三方檢測",
+      "desc": "每批產品都會送往獨立的認可實驗室，透過 HPLC 和質譜進行純度驗證。"
+    },
+    "proc4": {
+      "title": "分析證書",
+      "desc": "每次出貨均附有完整的分析證書，可在檢測報告頁面下載。"
+    },
+    "ctaTitle": "準備好開始了嗎？",
+    "ctaDesc": "瀏覽我們全面的研究胜肽產品目錄，或聯繫我們的團隊取得批量價格和客製化合成報價。",
+    "contactUs": "聯繫我們"
+  },
+  "b2b": {
+    "title": "企業合作",
+    "subtitle": "為研究機構和製藥公司提供批量採購和定制合成服務",
+    "contact": "聯繫獲取批量報價",
+    "servicesTitle": "我們的企業採購服務",
+    "svBulk": {
+      "title": "批量訂購",
+      "desc": "大批量訂單享具競爭力的價格，單品 10 件起享階梯折扣。"
+    },
+    "svCustom": {
+      "title": "客製化合成",
+      "desc": "客製化 5 至 100 個以上氨基酸的胜肽序列，支援多種修飾，包括釘書針狀胜肽和環狀結構。"
+    },
+    "svChain": {
+      "title": "可靠的供應鏈",
+      "desc": "穩定的供貨與庫存保障。長期合作夥伴享有優先生產安排。"
+    },
+    "svPartner": {
+      "title": "企業合作夥伴關係",
+      "desc": "為研究機構、製藥公司和合約研究組織提供客製化解決方案。"
+    },
+    "benefitsTitle": "合作優勢",
+    "ben0": "基於數量的定價階梯",
+    "ben1": "專屬客戶經理",
+    "ben2": "優先生產排程",
+    "ben3": "合格帳戶享有彈性付款條件",
+    "ben4": "客製化標籤與包裝選項",
+    "ben5": "技術文件支援",
+    "ben6": "法規合規協助",
+    "customTitle": "有客製化需求？",
+    "customDesc": "我們也承接特定胜肽序列、純度等級和包裝配置的客製化需求。",
+    "contactQuote": "聯絡取得客製化報價",
+    "serveTitle": "我們的客戶",
+    "serveDesc": "我們的企業解決方案旨在滿足各類研究機構與製藥企業的需求。",
+    "mktInstitutions": {
+      "title": "研究機構",
+      "desc": "進行體外研究的大學、學院及獨立研究實驗室。"
+    },
+    "mktPharma": {
+      "title": "製藥公司",
+      "desc": "需要高純度化合物用於臨床前研究的藥物開發團隊。"
+    },
+    "mktCRO": {
+      "title": "合約研究組織（CRO）",
+      "desc": "為客戶研究專案尋求可靠胜肽供應商的 CRO。"
+    },
+    "ctaDesc": "我們的企業團隊隨時準備與您討論需求、提供客製報價並探討合作機會。",
+    "getInTouch": "聯繫我們",
+    "browseCatalog": "瀏覽目錄"
+  },
+  "contact": {
+    "title": "聯繫我們",
+    "subtitle": "產品諮詢、批量採購或技術支持請聯繫我們",
+    "lead": "就產品諮詢、技術支援或合作機會，請聯繫我們的團隊。",
+    "sendInquiry": "向我們發送詢價",
+    "info": "聯絡資訊",
+    "email": "電子郵件",
+    "phone": "電話",
+    "address": "地址",
+    "responseTime": "回覆時間",
+    "responseText": "工作日期間，我們通常會在24小時內回覆所有詢價。",
+    "bulkOrders": "批量訂購",
+    "bulkText": "如需批量訂購或客製化胜肽合成，請在詢盤中註明數量和交期。我們的團隊將在12小時內提供詳細報價。"
+  },
+  "footer": {
+    "products": "產品",
+    "company": "公司",
+    "support": "支持",
+    "legal": "法律信息",
+    "allProducts": "全部產品",
+    "testResults": "檢測報告",
+    "about": "關於我們",
+    "b2b": "企業採購",
+    "contact": "聯繫我們",
+    "faq": "常見問題",
+    "shipping": "配送信息",
+    "quality": "質量保証",
+    "privacy": "隱私政策",
+    "terms": "服務條款",
+    "disclaimer": "僅供研究使用。不可用於人體攝入。",
+    "copyright": "版權所有。"
+  },
+  "form": {
+    "contactName": "聯絡人姓名",
+    "email": "電子郵件",
+    "companyName": "公司名稱",
+    "phone": "電話",
+    "country": "國家/地區",
+    "product": "感興趣的產品",
+    "quantity": "數量",
+    "message": "留言",
+    "submit": "提交詢價",
+    "submitting": "提交中...",
+    "success": "感謝您的詢價，我們將在24小時內回覆。",
+    "error": "提交詢價時出錯，請重試。",
+    "errName": "請填寫聯絡人姓名",
+    "errEmail": "請輸入有效的電子郵件",
+    "errCompany": "請填寫公司名稱",
+    "errMessage": "留言至少需要10個字元"
+  },
+  "meta": {
+    "title": "AnkhPeptide - 科研多肽供應商",
+    "description": "超高純度科研多肽和實驗室化合物，用於體外研究。第三方檢測，純度99%+。歐盟及全球配送。"
+  }
+}

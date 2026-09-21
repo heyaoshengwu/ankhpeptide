@@ -1,0 +1,126 @@
+====================================================
+  APEPTIDE - Next.js 15 Deployment Guide
+====================================================
+
+Source code: /opt/apeptide-source.tar.gz
+Deployed at: /opt/apeptide
+
+有两种部署方式：PM2（直接运行）和 Docker（容器化）。选择一种即可。
+
+====================================================
+  方式一：PM2 部署（主机直接运行）
+====================================================
+
+Prerequisites for a NEW server:
+--------------------------------
+1. Node.js >= 18.18 (recommended 20.x or 22.x)
+   curl -fsSL https://deb.nodesource.com/setup_22.x | bash -
+   apt-get install -y nodejs
+
+2. PostgreSQL >= 14
+   apt-get install -y postgresql postgresql-client
+   systemctl start postgresql
+
+3. PM2 (process manager)
+   npm install -g pm2
+
+
+Deployment Steps:
+-----------------
+
+1. Copy source tarball to new server:
+   scp apeptide-source.tar.gz user@new-server:/opt/
+
+2. Extract and set up:
+   cd /opt
+   tar xzf apeptide-source.tar.gz
+   cd apeptide
+
+3. Create database:
+   su - postgres
+   psql -c "CREATE USER apeptide WITH PASSWORD 'your_password';"
+   psql -c "CREATE DATABASE ankpiptide OWNER apeptide;"
+   psql -c "GRANT ALL PRIVILEGES ON DATABASE ankpiptide TO apeptide;"
+   exit
+
+4. Configure environment:
+   cp .env.example .env
+   # Edit .env with your database URL and other settings:
+   # DATABASE_URL="postgresql://apeptide:your_password@localhost:5432/ankpiptide"
+   # NEXT_PUBLIC_ALGOLIA_APP_ID=...
+   # NEXT_PUBLIC_ALGOLIA_SEARCH_KEY=...
+   # ALGOLIA_ADMIN_KEY=...
+   # MAKE_WEBHOOK_URL=...
+   # NEXT_PUBLIC_SITE_URL=http://your-domain.com
+
+5. Install dependencies & build:
+   npm install
+   npx prisma generate
+   npx prisma db push
+   npm run build
+
+Admin Panel:
+   - URL: http://your-domain.com/admin/login
+   - Default password: admin (change in .env: ADMIN_PASSWORD=your_secure_password)
+   - Features: Dashboard, Product CRUD (create/read/update/delete)
+
+6. Start with PM2:
+   pm2 start npm --name "apeptide" -- run start -- -p 3000
+   pm2 save
+   pm2 startup   # enables auto-start on boot
+
+7. (Optional) Nginx reverse proxy:
+   apt-get install -y nginx
+   # Create /etc/nginx/sites-available/apeptide:
+   server {
+       listen 80;
+       server_name your-domain.com;
+
+       location / {
+           proxy_pass http://127.0.0.1:3000;
+           proxy_http_version 1.1;
+           proxy_set_header Upgrade $http_upgrade;
+           proxy_set_header Connection 'upgrade';
+           proxy_set_header Host $host;
+           proxy_cache_bypass $http_upgrade;
+       }
+   }
+   ln -s /etc/nginx/sites-available/apeptide /etc/nginx/sites-enabled/
+   systemctl restart nginx
+
+8. (Optional) SSL with Let's Encrypt:
+   apt-get install -y certbot python3-certbot-nginx
+   certbot --nginx -d your-domain.com
+
+
+====================================================
+  方式二：Docker 部署（推荐）
+====================================================
+
+前提条件：Docker 和 Docker Compose
+
+   apt-get install -y docker.io docker-compose-v2
+
+部署步骤：
+
+1. 复制源码到服务器：
+   scp apeptide-source.tar.gz user@new-server:/opt/
+
+2. 解压并进入目录：
+   cd /opt
+   tar xzf apeptide-source.tar.gz
+   cd apeptide
+
+3. 启动（自动构建镜像并启动 PostgreSQL + App）：
+   docker compose up -d --build
+
+4. 查看状态：
+   docker compose ps
+   docker compose logs app
+
+5. 停止：
+   docker compose down
+
+环境变量配置在 docker-compose.yml 的 app.environment 中，按需修改。
+
+====================================================

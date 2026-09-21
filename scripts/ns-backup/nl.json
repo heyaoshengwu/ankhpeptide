@@ -1,0 +1,248 @@
+{
+  "nav": {
+    "products": "Producten",
+    "testResults": "Testresultaten",
+    "about": "Over ons",
+    "b2b": "B2B",
+    "contact": "Contact"
+  },
+  "language": {
+    "select": "Taal kiezen"
+  },
+  "hero": {
+    "title": "Onderzoekspeptide leverancier",
+    "subtitle": "Ultra zuivere onderzoekspeptiden en laboratoriumverbindingen voor in-vitro onderzoek. Derde partij getest met 99%+ zuiverheid. EU & wereldwijde verzending.",
+    "viewProducts": "Bekijk producten",
+    "getQuote": "Offerte aanvragen",
+    "disclaimer": "Alleen voor laboratoriumonderzoek. Niet voor menselijk gebruik."
+  },
+  "features": {
+    "highPurity": {
+      "title": "99%+ Zuiverheid geverifieerd",
+      "description": "Elke batch wordt door derden getest met HPLC en massaspectrometrie verificatie. Certificaten beschikbaar voor alle producten."
+    },
+    "globalShipping": {
+      "title": "Wereldwijde verzending",
+      "description": "Snelle, betrouwbare verzending naar EU en wereldwijde bestemmingen. Koudeketenlogistiek voor gevoelige verbindingen."
+    },
+    "qualityAssurance": {
+      "title": "Kwaliteitsborging",
+      "description": "ISO-gecertificeerde productie. Volledige traceerbaarheid van grondstoffen tot eindproduct. Kwaliteitsrapporten inbegrepen."
+    }
+  },
+  "product": {
+    "categories": {
+      "title": "Productcategorieën",
+      "peptides": "Peptiden",
+      "glp1": "GLP-1 Analogen",
+      "sarms": "SARMs",
+      "bioregulators": "Bioregulatoren",
+      "nootropics": "Nootropica",
+      "ghAnalogs": "GH Analogen & Secatagoga",
+      "myostatin": "Myostatineremmers",
+      "gonadotropins": "Gonadotropines",
+      "injectables": "Injectables",
+      "nasal": "Neussprays",
+      "pellets": "Pellets & Pillen",
+      "researchSupplies": "Onderzoeksbenodigdheden"
+    },
+    "catalog": {
+      "title": "Productcatalogus",
+      "subtitle": "Bekijk ons complete assortiment onderzoekspeptiden en verbindingen"
+    },
+    "filters": "Filters",
+    "search": "Zoeken",
+    "searchPlaceholder": "Producten zoeken...",
+    "application": "Toepassing",
+    "purity": "Zuiverheid",
+    "noProducts": "Geen producten beschikbaar.",
+    "specifications": "Specificaties",
+    "technicalDocuments": "Technische documenten",
+    "literature": "Literatuur",
+    "productNotFound": "Product niet gevonden",
+    "productNotFoundDesc": "Het product dat u zoekt bestaat niet.",
+    "moleculeHint": "Interactieve 3D-structuur - sleep om te draaien, scroll om te zoomen"
+  },
+  "testResults": {
+    "title": "Testresultaten",
+    "subtitle": "Bekijk laboratoriumrapporten van derden voor al onze producten",
+    "download": "Download COA",
+    "badgeVerified": "Door derden geverifieerd",
+    "badgeHplc": "HPLC en massaspectrometrie",
+    "badgePurity": "Zuiverheidsstandaard 99%+",
+    "purity": "Zuiverheid",
+    "processTitle": "Ons verificatieproces",
+    "proc1": {
+      "title": "Monsterafname",
+      "desc": "Elke batch wordt vóór vrijgave bemonsterd in onze ISO-gecertificeerde productiefaciliteit."
+    },
+    "proc2": {
+      "title": "Testing door externe laboratoria",
+      "desc": "Monsters worden naar onafhankelijke geaccrediteerde laboratoria gestuurd voor HPLC- en massaspectrometrieanalyses."
+    },
+    "proc3": {
+      "title": "Certificaatuitgifte",
+      "desc": "Geverifieerde resultaten worden samengevoegd in analysecertificaten die beschikbaar zijn om te downloaden."
+    },
+    "ctaTitle": "Aangepaste testing nodig?",
+    "ctaDesc": "Wij kunnen aangepaste tests door derden regelen voor specifieke vereisten of extra documentatie voor wettelijke naleving leveren.",
+    "contactUs": "Contact"
+  },
+  "about": {
+    "title": "Over ons",
+    "content": "AnkhPeptide is een toonaangevende leverancier van ultra zuivere onderzoekspeptiden en laboratoriumverbindingen. Wij voorzien onderzoekers, laboratoria en farmaceutische bedrijven wereldwijd van hoogwaardige peptiden voor in-vitro onderzoekstoepassingen.",
+    "mission": "Onze missie is onderzoekers betrouwbare toegang te geven tot hoogzuivere peptideverbindingen tegen concurrerende prijzen.",
+    "missionTitle": "Onze missie",
+    "stats": {
+      "purity": "Zuiverheid geverifieerd",
+      "countries": "Verzonden landen",
+      "products": "Producten",
+      "response": "Reactietijd"
+    },
+    "forResearchers": "Voor onderzoekers",
+    "forResearchersDesc": "Wij bieden betrouwbare toegang tot hoogzuivere peptideverbindingen voor in-vitro-onderzoek en stimuleren zo de wetenschappelijke vooruitgang.",
+    "forLaboratories": "Voor laboratoria",
+    "forLaboratoriesDesc": "Consistente kwaliteit en uitgebreide documentatie ondersteunen labwerkstromen en wettelijke nalevingsvereisten.",
+    "whyTitle": "Waarom AnkhPeptide kiezen?",
+    "valQA": {
+      "title": "Kwaliteitsborging",
+      "desc": "Elke batch ondergaat strenge tests door derden met HPLC- en massaspectrometrische verificatie voordat deze wordt vrijgegeven."
+    },
+    "valISO": {
+      "title": "ISO-normen",
+      "desc": "Onze productiepartners werken onder ISO-gecertificeerde kwaliteitsmanagementsystemen die consistentie waarborgen."
+    },
+    "valGlobal": {
+      "title": "Wereldwijd bereik",
+      "desc": "Betrouwbare verzending naar onderzoekers, labs en farmaceutische bedrijven in meer dan 50 landen wereldwijd."
+    },
+    "valService": {
+      "title": "Betrouwbare service",
+      "desc": "Een toegewijd supportteam biedt snelle hulp bij productvragen en technische vragen."
+    },
+    "processTitle": "Ons kwaliteitsproces",
+    "proc1": {
+      "title": "Grondstofverificatie",
+      "desc": "Alle inkomende grondstoffen worden vóór gebruik in de productie geverifieerd en gedocumenteerd."
+    },
+    "proc2": {
+      "title": "Productienormen",
+      "desc": "Peptiden worden gesynthetiseerd onder strikte kwaliteitscontrole in ISO-gecertificeerde faciliteiten."
+    },
+    "proc3": {
+      "title": "Testing door derden",
+      "desc": "Elke batch wordt naar onafhankelijke geaccrediteerde laboratoria gestuurd voor zuiverheidsverificatie via HPLC en massaspectrometrie."
+    },
+    "proc4": {
+      "title": "Analysecertificaat",
+      "desc": "Elke release bevat een uitgebreid analysecertificaat dat beschikbaar is om te downloaden op onze testresultatenpagina."
+    },
+    "ctaTitle": "Klaar om te beginnen?",
+    "ctaDesc": "Bekijk onze uitgebreide catalogus van onderzoekspeptiden of neem contact op met ons team voor groothandelsprijzen en aangepaste synthese.",
+    "contactUs": "Contact"
+  },
+  "b2b": {
+    "title": "B2B partnerschappen",
+    "subtitle": "Bulkbestellingen en custom synthese voor onderzoeksinstellingen en farmaceutische bedrijven",
+    "contact": "Neem contact op voor bulkprijzen",
+    "servicesTitle": "Onze B2B-diensten",
+    "svBulk": {
+      "title": "Grootorders",
+      "desc": "Concurrerende prijzen voor grote bestellingen. Kortingen vanaf 10+ eenheden per product."
+    },
+    "svCustom": {
+      "title": "Aangepaste synthese",
+      "desc": "Aangepaste peptidesequenties van 5 tot meer dan 100 aminozuren met diverse modificaties, waaronder gestaplede peptiden en cyclische structuren."
+    },
+    "svChain": {
+      "title": "Betrouwbare toeleveringsketen",
+      "desc": "Consistente levering met gegarandeerde voorraadbeschikbaarheid. Prioritaire productie voor langetermijnpartners."
+    },
+    "svPartner": {
+      "title": "B2B-partnerschappen",
+      "desc": "Op maat gemaakte oplossingen voor onderzoeksinstellingen, farmaceutische bedrijven en contractonderzoeksorganisaties."
+    },
+    "benefitsTitle": "Partnerschapsvoordelen",
+    "ben0": "Volumeprijsniveaus",
+    "ben1": "Dedicated accountmanagement",
+    "ben2": "Prioritaire productieplanning",
+    "ben3": "Flexibele betalingsvoorwaarden voor gekwalificeerde accounts",
+    "ben4": "Aangepaste etiketterings- en verpakkingsopties",
+    "ben5": "Ondersteuning technische documentatie",
+    "ben6": "Hulp bij wettelijke naleving",
+    "customTitle": "Speciale vereisten?",
+    "customDesc": "Wij komen ook tegemoet aan aangepaste verzoeken voor specifieke peptidesequenties, zuiverheidsniveaus en verpakkingsconfiguraties.",
+    "contactQuote": "Contact voor aangepaste offerte",
+    "serveTitle": "Voor wie we werken",
+    "serveDesc": "Onze B2B-oplossingen zijn ontworpen om te voldoen aan de behoeften van diverse onderzoeks- en farmaceutische organisaties.",
+    "mktInstitutions": {
+      "title": "Onderzoeksinstellingen",
+      "desc": "Universiteiten, hogescholen en onafhankelijke onderzoekslaboratoria die in-vitro-onderzoek uitvoeren."
+    },
+    "mktPharma": {
+      "title": "Farmaceutische bedrijven",
+      "desc": "Teams voor geneesmiddelenontwikkeling die hoogzuivere verbindingen nodig hebben voor preklinisch onderzoek."
+    },
+    "mktCRO": {
+      "title": "Contractresearchorganisaties",
+      "desc": "CRO's die betrouwbare peptideleveranciers nodig hebben voor onderzoeksprojecten van klanten."
+    },
+    "ctaDesc": "Ons B2B-team staat klaar om uw vereisten te bespreken, aangepaste offertes te geven en partnerschapskansen te verkennen.",
+    "getInTouch": "Neem contact op",
+    "browseCatalog": "Catalogus bekijken"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Neem contact op voor productvragen, bulkbestellingen of technische ondersteuning",
+    "lead": "Neem contact op met ons team voor productvragen, technische ondersteuning of samenwerkingsmogelijkheden.",
+    "sendInquiry": "Stuur ons een aanvraag",
+    "info": "Contactinformatie",
+    "email": "E-mail",
+    "phone": "Telefoon",
+    "address": "Adres",
+    "responseTime": "Reactietijd",
+    "responseText": "Wij reageren doorgaans binnen 24 uur op werkdagen.",
+    "bulkOrders": "Grootorders",
+    "bulkText": "Voor grootorders of aangepaste peptidesynthese, vermeld uw hoeveelheid en tijdlijn in uw aanvraag. Ons team biedt binnen 12 uur een gedetailleerde offerte."
+  },
+  "footer": {
+    "products": "Producten",
+    "company": "Bedrijf",
+    "support": "Ondersteuning",
+    "legal": "Juridisch",
+    "allProducts": "Alle producten",
+    "testResults": "Testresultaten",
+    "about": "Over ons",
+    "b2b": "B2B",
+    "contact": "Contact",
+    "faq": "Veelgestelde vragen",
+    "shipping": "Verzendinfo",
+    "quality": "Kwaliteitsborging",
+    "privacy": "Privacy",
+    "terms": "Voorwaarden",
+    "disclaimer": "Alleen voor onderzoek. Niet voor menselijke consumptie.",
+    "copyright": "Alle rechten voorbehouden."
+  },
+  "form": {
+    "contactName": "Contactnaam",
+    "email": "E-mail",
+    "companyName": "Bedrijfsnaam",
+    "phone": "Telefoon",
+    "country": "Land",
+    "product": "Product of interesse",
+    "quantity": "Hoeveelheid",
+    "message": "Bericht",
+    "submit": "Aanvraag verzenden",
+    "submitting": "Verzenden...",
+    "success": "Bedankt voor uw aanvraag. Wij reageren binnen 24 uur.",
+    "error": "Er is een fout opgetreden bij het verzenden van uw aanvraag. Probeer het opnieuw.",
+    "errName": "Contactnaam is verplicht",
+    "errEmail": "Een geldig e-mailadres is verplicht",
+    "errCompany": "Bedrijfsnaam is verplicht",
+    "errMessage": "Het bericht moet minimaal 10 tekens bevatten"
+  },
+  "meta": {
+    "title": "AnkhPeptide - Onderzoekspeptide leverancier",
+    "description": "Ultra zuivere onderzoekspeptiden en laboratoriumverbindingen voor in-vitro onderzoek. Derde partij getest met 99%+ zuiverheid. EU & wereldwijde verzending."
+  }
+}

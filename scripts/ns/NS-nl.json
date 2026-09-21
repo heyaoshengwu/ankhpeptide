@@ -1,0 +1,105 @@
+{
+  "pages": {
+    "faq": {
+      "subtitle": "Veelgestelde vragen over onze producten en diensten.",
+      "items": [
+        { "q": "Waarvoor worden uw producten gebruikt?", "a": "Al onze producten zijn uitsluitend bedoeld voor onderzoeksdoeleinden in het laboratorium. Ze zijn bestemd voor in-vitro-onderzoek, biochemische experimenten en wetenschappelijk onderzoek. Geen van onze producten is bedoeld voor menselijk gebruik, consumptie of klinische toepassingen." },
+        { "q": "Hoe bewaar ik peptiden?", "a": "De meeste peptiden moeten bij -20°C of lager in de vriezer worden bewaard. Na reconstitutie moeten peptiden doorgaans bij 4°C worden bewaard en binnen de aanbevolen periode worden gebruikt. Raadpleeg altijd de productspecifieke documentatie voor bewaarinstructies." },
+        { "q": "Wat is uw minimale bestelhoeveelheid?", "a": "We bieden flexibele bestellingen zonder strikte minimale bestelhoeveelheid voor de meeste producten. Bulkkortingen beginnen echter bij bestellingen van 10+ eenheden per product. Neem contact op met ons verkoopteam voor specifieke vereisten." },
+        { "q": "Verzendt u internationaal?", "a": "Ja, we verzenden naar meer dan 50 landen wereldwijd. Verzendkosten en levertijden variëren per bestemming. We gebruiken betrouwbare koeriersdiensten en kunnen speciaal transport regelen voor temperatuurgevoelige verbindingen." },
+        { "q": "Hoe kan ik productzuiverheid verifiëren?", "a": "Elke batch wordt geleverd met een Analysecertificaat (COA) van externe laboratoria dat de zuiverheidsniveaus bevestigt. COA's bevatten HPLC- en massaspectrometrieresultaten. U kunt COA's downloaden van onze pagina Testresultaten." },
+        { "q": "Welke betaalmethoden accepteert u?", "a": "We accepteren verschillende betaalmethoden, waaronder bankoverschrijving, creditcard (waar beschikbaar) en cryptovaluta (voor geselecteerde bestellingen). Neem contact op voor betaalmogelijkheden die geschikt zijn voor uw regio." },
+        { "q": "Zijn uw producten GMP-gecertificeerd?", "a": "Onze productiepartners werken onder ISO-gecertificeerde kwaliteitsmanagementsystemen. We kunnen op verzoek documentatie over productienormen voor specifieke producten verstrekken." },
+        { "q": "Kan ik aangepaste peptiden bestellen?", "a": "Ja, we bieden op maat gemaakte peptidesynthese. We kunnen sequenties van 5 tot 100+ aminozuren produceren met verschillende modificaties. Neem contact op met ons team met uw vereisten voor een offerte en planning." }
+      ],
+      "ctaText": "Nog vragen? Ons team staat klaar om u te helpen.",
+      "contact": "Neem contact op"
+    },
+    "shipping": {
+      "subtitle": "Informatie over onze verzendmethoden, bestemmingen en levertijden.",
+      "cards": [
+        { "title": "Verzendbestemmingen", "description": "We verzenden naar alle EU-landen en wereldwijde bestemmingen, waaronder Noord-Amerika, Azië, Australië en Zuid-Amerika. Verzending is beschikbaar naar meer dan 50 landen." },
+        { "title": "Levertijden", "description": "EU-levering: 3-7 werkdagen. Internationale levering: 7-14 werkdagen. Express verzendopties beschikbaar voor dringende bestellingen." },
+        { "title": "Verpakking", "description": "Alle zendingen worden zorgvuldig verpakt met voldoende bescherming. Temperatuurgevoelige verbindingen worden verzonden met koelketenmaterialen om stabiliteit te garanderen." },
+        { "title": "Koudeketenlogistiek", "description": "Voor gevoelige peptiden en verbindingen gebruiken we koelketenverzending, waaronder gelpacks en geïsoleerde verpakkingen, om tijdens het transport een optimale temperatuur te behouden." }
+      ],
+      "costsTitle": "Verzendkosten",
+      "costsText1": "Verzendkosten worden berekend op basis van bestemming, gewicht en of koelketenbehandeling vereist is. De uiteindelijke verzendkosten worden vóór bevestiging van de bestelling bij het afrekenen weergegeven.",
+      "costsText2": "Voor bulkbestellingen of speciale verzendvereisten kunt u contact opnemen met ons team voor een offerte op maat.",
+      "processingTitle": "Orderverwerking",
+      "processingText": "Bestellingen worden doorgaans binnen 1-2 werkdagen verwerkt en verzonden. U ontvangt trackinginformatie per e-mail zodra uw bestelling is verzonden."
+    },
+    "quality": {
+      "subtitle": "Onze toewijding aan kwaliteitsborging en productverificatie.",
+      "points": [
+        { "title": "ISO-gecertificeerde productie", "description": "Onze productiepartners werken onder ISO-gecertificeerde kwaliteitsmanagementsystemen, wat consistente kwaliteit en naleving van internationale normen garandeert." },
+        { "title": "Tests door derden", "description": "Elke batch ondergaat strenge tests bij onafhankelijke geaccrediteerde laboratoria. We gebruiken HPLC (hoge druk vloeistofchromatografie) en massaspectrometrie voor zuiverheidsverificatie." },
+        { "title": "Volledige traceerbaarheid", "description": "Volledige documentatie van grondstoffenvoorziening via productie tot vrijgave van het eindproduct. Elke batch kan worden teruggevoerd naar de oorspronkelijke materialen." },
+        { "title": "99%+ zuiverheidsnorm", "description": "We garanderen een minimum van 99% zuiverheid voor al onze peptideproducten, geverifieerd door externe laboratoriumanalyse en gedocumenteerd in Analysecertificaten." }
+      ],
+      "coaTitle": "Analysecertificaat",
+      "coaIntro": "Elke productbatch bevat een uitgebreid Analysecertificaat (COA) met:",
+      "coaList": [
+        "Zuiverheidsverificatie door HPLC",
+        "Bevestiging door massaspectrometrie",
+        "Uiterlijk en fysieke kenmerken",
+        "Analyse van watergehalte",
+        "Batchnummer en productiedatum"
+      ],
+      "commitmentTitle": "Kwaliteitsbelofte",
+      "commitmentText": "We staan achter de kwaliteit van onze producten. Als u zorgen heeft over de kwaliteit of documentatie van een product, neem dan direct contact op. We zetten ons in voor volledige klanttevredenheid."
+    },
+    "privacy": {
+      "subtitle": "Hoe we uw informatie verzamelen, gebruiken en beschermen.",
+      "updated": "Laatst bijgewerkt: mei 2026",
+      "sections": [
+        { "title": "Informatie die we verzamelen", "body": "We verzamelen informatie die u rechtstreeks aan ons verstrekt, bijvoorbeeld wanneer u een account aanmaakt, een bestelling plaatst, zich abonneert op onze nieuwsbrief of contact opneemt voor ondersteuning. Dit kan uw naam, e-mailadres, telefoonnummer, bedrijfsnaam, factuuradres en verzendadres omvatten." },
+        { "title": "Hoe we uw informatie gebruiken", "body": "We gebruiken de verzamelde informatie om bestellingen te verwerken en uit te voeren, met u te communiceren over producten en diensten, klantenondersteuning te bieden en u promotionele berichten te sturen (met uw toestemming waar vereist)." },
+        { "title": "Informatie delen", "body": "We verkopen, verhandelen of dragen uw persoonlijke gegevens niet over aan derden zonder uw toestemming, behalve wanneer nodig om onze diensten te leveren (zoals vervoerders en betalingsverwerkers) of zoals door de wet vereist." },
+        { "title": "Gegevensbeveiliging", "body": "We implementeren passende beveiligingsmaatregelen om uw persoonlijke gegevens te beschermen tegen ongeoorloofde toegang, wijziging, openbaarmaking of vernietiging. Geen enkele transmissiemethode via internet is echter 100% veilig." },
+        { "title": "Cookies en tracking", "body": "We gebruiken cookies en vergelijkbare trackingtechnologieën om uw browse-ervaring te verbeteren, siteverkeer te analyseren en te begrijpen waar bezoekers vandaan komen. U kunt cookies beheren via uw browserinstellingen." },
+        { "title": "Uw rechten", "body": "Afhankelijk van uw locatie kunt u bepaalde rechten hebben met betrekking tot uw persoonlijke gegevens, waaronder het recht om uw gegevens in te zien, te corrigeren of te verwijderen. Neem contact op om deze rechten uit te oefenen." },
+        { "title": "AVG-naleving (EU-klanten)", "body": "Voor klanten in de Europese Unie voldoen we aan de Algemene Verordening Gegevensbescherming (AVG). We verwerken persoonsgegevens uitsluitend op rechtmatige gronden en bieden volledige rechten van betrokkenen." },
+        { "title": "Contact opnemen", "body": "Als u vragen heeft over dit privacybeleid, neem dan contact met ons op via privacy@ankhpeptide.com." }
+      ]
+    },
+    "terms": {
+      "subtitle": "Voorwaarden voor het gebruik van onze diensten.",
+      "updated": "Laatst bijgewerkt: mei 2026",
+      "sections": [
+        { "title": "Instemming met voorwaarden", "body": "Door toegang te krijgen tot of gebruik te maken van onze website en diensten gaat u akkoord met deze servicevoorwaarden. Als u niet akkoord gaat met deze voorwaarden, gebruik onze diensten dan niet." },
+        { "title": "Producten en beoogd gebruik", "body": "Alle producten die door AnkhPeptide worden verkocht, zijn uitsluitend bedoeld voor onderzoeksdoeleinden in het laboratorium. Deze producten zijn geen drugs, medicijnen of cosmetica en zijn niet bedoeld voor menselijk gebruik, diagnose of behandeling. Door onze producten te kopen bevestigt u dat u een gekwalificeerde onderzoeker of professional bent." },
+        { "title": "Bestellingen en betaling", "body": "Alle bestellingen zijn onderworpen aan beschikbaarheid en bevestiging. Prijzen kunnen zonder voorafgaande kennisgeving worden gewijzigd. We behouden het recht om elke bestelling om welke reden dan ook te weigeren of te annuleren. Betaling moet volledig worden ontvangen vóór de verwerking van de bestelling." },
+        { "title": "Verzending en levering", "body": "Verzendtijden zijn slechts schattingen en worden niet gegarandeerd. Het verliesrisico en de eigendom van producten gaan op de koper over bij levering aan de vervoerder. We zijn niet verantwoordelijk voor vertragingen veroorzaakt door douane of vervoerders." },
+        { "title": "Retouren en restituties", "body": "Vanwege de aard van onze producten kunnen we geen retouren van geopende of gebruikte producten accepteren. Als u een beschadigd of defect product ontvangt, neem dan binnen 14 dagen contact met ons op om een vervanging of restitutie te regelen." },
+        { "title": "Beperking van aansprakelijkheid", "body": "AnkhPeptide is niet aansprakelijk voor indirecte, incidentele, speciale of punitieve schade als gevolg van het gebruik van onze producten of diensten. Onze totale aansprakelijkheid overschrijdt niet het bedrag dat voor het betreffende product is betaald." },
+        { "title": "Onderzoeksdisclaimer", "body": "AnkhPeptide biedt producten uitsluitend voor onderzoeksdoeleinden in het laboratorium aan. Het bedrijf beveelt, steunt of stimuleert het gebruik van deze producten voor geen enkele specifieke toepassing aan. Gebruikers zijn verantwoordelijk voor naleving van toepasselijke wet- en regelgeving." },
+        { "title": "Intellectueel eigendom", "body": "Alle inhoud van deze website, inclusief tekst, afbeeldingen, logo's en beelden, is eigendom van AnkhPeptide en wordt beschermd door intellectueel eigendomsrecht." },
+        { "title": "Toepasselijk recht", "body": "Deze servicevoorwaarden worden beheerst door en geïnterpreteerd in overeenstemming met toepasselijke wetgeving, zonder rekening te houden met beginselen van conflictrecht." },
+        { "title": "Wijzigingen van voorwaarden", "body": "We behouden het recht om deze voorwaarden op elk moment te wijzigen. Voortgezet gebruik van onze diensten na wijzigingen vormt aanvaarding van de gewijzigde voorwaarden." },
+        { "title": "Contactgegevens", "body": "Voor vragen over deze servicevoorwaarden kunt u contact met ons opnemen via legal@ankhpeptide.com." }
+      ]
+    },
+    "disclaimer": {
+      "subtitle": "Belangrijke informatie over het beoogde gebruik van onze producten.",
+      "alertTitle": "Alleen voor onderzoeksdoeleinden",
+      "alertText": "Alle producten die door AnkhPeptide worden verkocht, zijn strikt uitsluitend voor onderzoeksdoeleinden in het laboratorium. Ze zijn niet bedoeld voor menselijk gebruik, consumptie of toediening.",
+      "sections": [
+        { "title": "Beoogd productgebruik", "body": "De door AnkhPeptide geleverde producten zijn uitsluitend ontworpen voor in-vitro-laboratoriumonderzoek en experimenten. Deze verbindingen zijn bedoeld voor gebruik door gekwalificeerde onderzoekers, laboratoriumprofessionals en wetenschappelijk onderzoekers in gecontroleerde laboratoriumomgevingen." },
+        { "title": "Niet voor menselijke consumptie", "body": "Onze producten zijn geen drugs, farmaceutica, levensmiddelenadditieven of cosmetica. Ze zijn door geen enkele regelgevende instantie (waaronder de FDA, EMA of vergelijkbare agentschappen) geëvalueerd voor veiligheid of werkzaamheid bij mensen. Geen van onze producten mag worden ingenomen, geïnjecteerd of op een manier worden gebruikt die kan leiden tot blootstelling van mensen." },
+        { "title": "Kwalificatievereisten", "body": "Door op onze site te kopen bevestigt en garandeert u dat u:" },
+        { "title": "Aansprakelijkheid", "body": "AnkhPeptide is niet verantwoordelijk voor misbruik van onze producten. Gebruikers dragen de volledige verantwoordelijkheid om ervoor te zorgen dat producten worden gebruikt in overeenstemming met alle toepasselijke wetten, voorschriften en veiligheidsrichtlijnen." },
+        { "title": "Verificatie door tests van derden", "body": "Hoewel we analysecertificaten van derden leveren die zuiverheidsniveaus bevestigen, worden deze verificaties uitsluitend voor onderzoeksdocumentatiedoeleinden uitgevoerd en vormen ze geen goedkeuring voor menselijk gebruik." },
+        { "title": "Wijzigingen in deze disclaimer", "body": "We behouden het recht om deze disclaimer op elk moment te wijzigen. Voortgezet gebruik van onze website en diensten na wijzigingen vormt aanvaarding van de gewijzigde voorwaarden." }
+      ],
+      "qualificationList": [
+        "Een gekwalificeerde onderzoeker of laboratoriumprofessional",
+        "Werkzaam binnen een passende onderzoeks- of onderwijsinstelling",
+        "Producten gebruiken in overeenstemming met alle toepasselijke wetten en voorschriften",
+        "De juiste laboratoriumveiligheidsprotocollen volgen"
+      ],
+      "ctaText": "Als u vragen heeft over deze disclaimer, neem dan contact met ons op vóór aankoop.",
+      "contact": "Neem contact op"
+    }
+  }
+}

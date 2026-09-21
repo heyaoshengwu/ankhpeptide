@@ -1,0 +1,248 @@
+{
+  "nav": {
+    "products": "Produk",
+    "testResults": "Hasil Uji",
+    "about": "Tentang kami",
+    "b2b": "B2B",
+    "contact": "Hubungi"
+  },
+  "language": {
+    "select": "Pilih bahasa"
+  },
+  "hero": {
+    "title": "Penyedia Peptida Penelitian",
+    "subtitle": "Peptida penelitian ultra-murni dan senyawa laboratorium untuk penelitian in-vitro. Diuji pihak ketiga pada kemurnian 99%+. Pengiriman UE & worldwide.",
+    "viewProducts": "Lihat Produk",
+    "getQuote": "Dapatkan Penawaran",
+    "disclaimer": "Hanya untuk penelitian laboratorium. Bukan untuk penggunaan manusia."
+  },
+  "features": {
+    "highPurity": {
+      "title": "Kemurnian 99%+ Terverifikasi",
+      "description": "Setiap batch diuji oleh pihak ketiga dengan verifikasi HPLC dan spektrometri massa. Sertifikat tersedia untuk semua produk."
+    },
+    "globalShipping": {
+      "title": "Pengiriman Worldwide",
+      "description": "Pengiriman cepat dan andal ke UE dan tujuan worldwide. Logistik rantai dingin untuk senyawa sensitif."
+    },
+    "qualityAssurance": {
+      "title": "Jaminan Kualitas",
+      "description": "Manufaktur bersertifikat ISO. Pelacakan lengkap dari bahan baku hingga produk akhir. Laporan kualitas termasuk."
+    }
+  },
+  "product": {
+    "categories": {
+      "title": "Kategori Produk",
+      "peptides": "Peptida",
+      "glp1": "Analog GLP-1",
+      "sarms": "SARMs",
+      "bioregulators": "Bioregulator",
+      "nootropics": "Nootropik",
+      "ghAnalogs": "Analog GH",
+      "myostatin": "Penghambat Miostatin",
+      "gonadotropins": "Gonadotropin",
+      "injectables": "Suntik",
+      "nasal": "Semprot Hidung",
+      "pellets": "Pelet & Tablet",
+      "researchSupplies": "Perlengkapan Penelitian"
+    },
+    "catalog": {
+      "title": "Katalog Produk",
+      "subtitle": "Jelajahi berbagai peptida dan senyawa penelitian komprehensif kami"
+    },
+    "filters": "Filter",
+    "search": "Cari",
+    "searchPlaceholder": "Cari produk...",
+    "application": "Aplikasi",
+    "purity": "Kemurnian",
+    "noProducts": "Belum ada produk tersedia.",
+    "specifications": "Spesifikasi",
+    "technicalDocuments": "Dokumen teknis",
+    "literature": "Referensi",
+    "productNotFound": "Produk tidak ditemukan",
+    "productNotFoundDesc": "Produk yang Anda cari tidak ada.",
+    "moleculeHint": "Struktur 3D interaktif - seret untuk memutar, geser untuk memperbesar"
+  },
+  "testResults": {
+    "title": "Hasil Uji",
+    "subtitle": "Lihat laporan laboratorium pihak ketiga untuk semua produk kami",
+    "download": "Unduh COA",
+    "badgeVerified": "Terverifikasi pihak ketiga",
+    "badgeHplc": "HPLC dan spektrometri massa",
+    "badgePurity": "Standar kemurnian 99%+",
+    "purity": "Kemurnian",
+    "processTitle": "Proses verifikasi kami",
+    "proc1": {
+      "title": "Pengambilan sampel",
+      "desc": "Setiap batch diambil sampelnya di fasilitas manufaktur bersertifikat ISO kami sebelum dirilis."
+    },
+    "proc2": {
+      "title": "Pengujian laboratorium pihak ketiga",
+      "desc": "Sampel dikirim ke laboratorium terakreditasi independen untuk analisis HPLC dan spektrometri massa."
+    },
+    "proc3": {
+      "title": "Penerbitan sertifikat",
+      "desc": "Hasil yang terverifikasi disusun menjadi sertifikat analisis yang tersedia untuk diunduh."
+    },
+    "ctaTitle": "Perlu pengujian khusus?",
+    "ctaDesc": "Kami dapat mengatur pengujian pihak ketiga khusus untuk kebutuhan tertentu atau menyediakan dokumentasi tambahan untuk kepatuhan regulasi.",
+    "contactUs": "Hubungi"
+  },
+  "about": {
+    "title": "Tentang kami",
+    "content": "AnkhPeptide adalah penyedia terkemuka peptida penelitian ultra-murni dan senyawa laboratorium. Kami menyuplai peptida berkualitas tinggi kepada peneliti, laboratorium, dan perusahaan farmasi di seluruh dunia untuk aplikasi penelitian in-vitro.",
+    "mission": "Misi kami adalah menyediakan peneliti dengan akses yang dapat diandalkan ke senyawa peptida kemurnian tinggi dengan harga kompetitif.",
+    "missionTitle": "Misi kami",
+    "stats": {
+      "purity": "Kemurnian terverifikasi",
+      "countries": "Negara pengiriman",
+      "products": "Produk",
+      "response": "Waktu respons"
+    },
+    "forResearchers": "Untuk peneliti",
+    "forResearchersDesc": "Kami menyediakan akses andal ke senyawa peptida berkemurnian tinggi untuk aplikasi penelitian in-vitro, mendorong kemajuan ilmiah.",
+    "forLaboratories": "Untuk laboratorium",
+    "forLaboratoriesDesc": "Kualitas konsisten dan dokumentasi lengkap mendukung alur kerja laboratorium dan persyaratan kepatuhan regulasi.",
+    "whyTitle": "Mengapa memilih AnkhPeptide?",
+    "valQA": {
+      "title": "Jaminan kualitas",
+      "desc": "Setiap batch menjalani pengujian pihak ketiga yang ketat dengan verifikasi HPLC dan spektrometri massa sebelum dirilis."
+    },
+    "valISO": {
+      "title": "Standar ISO",
+      "desc": "Mitra manufaktur kami beroperasi di bawah sistem manajemen mutu bersertifikat ISO yang memastikan konsistensi."
+    },
+    "valGlobal": {
+      "title": "Jangkauan global",
+      "desc": "Pengiriman andal ke peneliti, laboratorium, dan perusahaan farmasi di lebih dari 50 negara."
+    },
+    "valService": {
+      "title": "Layanan andal",
+      "desc": "Tim dukungan khusus memberikan bantuan responsif untuk pertanyaan produk dan masalah teknis."
+    },
+    "processTitle": "Proses kualitas kami",
+    "proc1": {
+      "title": "Verifikasi bahan baku",
+      "desc": "Semua bahan baku yang masuk diverifikasi dan didokumentasikan sebelum digunakan dalam produksi."
+    },
+    "proc2": {
+      "title": "Standar manufaktur",
+      "desc": "Peptida disintesis dalam kondisi kontrol kualitas ketat di fasilitas bersertifikat ISO."
+    },
+    "proc3": {
+      "title": "Pengujian pihak ketiga",
+      "desc": "Setiap batch dikirim ke laboratorium terakreditasi independen untuk verifikasi kemurnian melalui HPLC dan spektrometri massa."
+    },
+    "proc4": {
+      "title": "Sertifikat analisis",
+      "desc": "Setiap rilis menyertakan sertifikat analisis lengkap yang dapat diunduh di halaman hasil uji kami."
+    },
+    "ctaTitle": "Siap untuk memulai?",
+    "ctaDesc": "Jelajahi katalog lengkap peptide penelitian kami atau hubungi tim kami untuk harga grosir dan permintaan sintesis khusus.",
+    "contactUs": "Hubungi"
+  },
+  "b2b": {
+    "title": "Kemitraan B2B",
+    "subtitle": "Pesanan massal dan sintesis kustom untuk institusi penelitian dan perusahaan farmasi",
+    "contact": "Hubungi kami untuk harga massal",
+    "servicesTitle": "Layanan B2B kami",
+    "svBulk": {
+      "title": "Pesanan dalam jumlah besar",
+      "desc": "Harga kompetitif untuk pesanan dalam jumlah besar. Diskon volume mulai dari 10+ unit per produk."
+    },
+    "svCustom": {
+      "title": "Sintesis khusus",
+      "desc": "Urutan peptida khusus dari 5 hingga 100+ asam amino dengan berbagai modifikasi termasuk peptida ter-staples dan struktur siklik."
+    },
+    "svChain": {
+      "title": "Rantai pasok yang andal",
+      "desc": "Pasokan konsisten dengan ketersediaan stok terjamin. Produksi prioritas untuk mitra jangka panjang."
+    },
+    "svPartner": {
+      "title": "Kemitraan B2B",
+      "desc": "Solusi yang disesuaikan untuk lembaga penelitian, perusahaan farmasi, dan organisasi riset kontrak."
+    },
+    "benefitsTitle": "Manfaat kemitraan",
+    "ben0": "Tingkat harga berdasarkan volume",
+    "ben1": "Manajemen akun khusus",
+    "ben2": "Penjadwalan produksi prioritas",
+    "ben3": "Syarat pembayaran fleksibel untuk akun yang memenuhi syarat",
+    "ben4": "Opsi pelabelan dan pengemasan khusus",
+    "ben5": "Dukungan dokumentasi teknis",
+    "ben6": "Bantuan kepatuhan regulasi",
+    "customTitle": "Punya kebutuhan khusus?",
+    "customDesc": "Kami juga melayani permintaan khusus untuk urutan peptida tertentu, tingkat kemurnian, dan konfigurasi kemasan.",
+    "contactQuote": "Hubungi untuk penawaran khusus",
+    "serveTitle": "Siapa yang kami layani",
+    "serveDesc": "Solusi B2B kami dirancang untuk memenuhi kebutuhan berbagai organisasi penelitian dan farmasi.",
+    "mktInstitutions": {
+      "title": "Lembaga penelitian",
+      "desc": "Universitas, perguruan tinggi, dan laboratorium riset independen yang melakukan studi in-vitro."
+    },
+    "mktPharma": {
+      "title": "Perusahaan farmasi",
+      "desc": "Tim pengembangan obat yang membutuhkan senyawa berkemurnian tinggi untuk riset praklinis."
+    },
+    "mktCRO": {
+      "title": "Organisasi riset kontrak (CRO)",
+      "desc": "CRO yang membutuhkan pemasok peptida andal untuk proyek riset klien."
+    },
+    "ctaDesc": "Tim B2B kami siap membahas kebutuhan Anda, memberikan penawaran khusus, dan mengeksplorasi peluang kemitraan.",
+    "getInTouch": "Hubungi kami",
+    "browseCatalog": "Jelajahi katalog"
+  },
+  "contact": {
+    "title": "Hubungi",
+    "subtitle": "Hubungi kami untuk inquiries produk, pesanan massal, atau dukungan teknis",
+    "lead": "Hubungi tim kami untuk pertanyaan produk, dukungan teknis, atau peluang kemitraan.",
+    "sendInquiry": "Kirimkan permintaan kepada kami",
+    "info": "Informasi kontak",
+    "email": "Email",
+    "phone": "Telepon",
+    "address": "Alamat",
+    "responseTime": "Waktu respons",
+    "responseText": "Kami biasanya merespons semua permintaan dalam 24 jam pada hari kerja.",
+    "bulkOrders": "Pesanan dalam jumlah besar",
+    "bulkText": "Untuk pesanan dalam jumlah besar atau permintaan sintesis peptida khusus, harap cantumkan jumlah dan tenggat waktu dalam permintaan Anda. Tim kami akan memberikan penawaran terperinci dalam 12 jam."
+  },
+  "footer": {
+    "products": "Produk",
+    "company": "Perusahaan",
+    "support": "Dukungan",
+    "legal": "Hukum",
+    "allProducts": "Semua Produk",
+    "testResults": "Hasil Uji",
+    "about": "Tentang kami",
+    "b2b": "B2B",
+    "contact": "Hubungi",
+    "faq": "Pertanyaan Umum",
+    "shipping": "Info Pengiriman",
+    "quality": "Jaminan Kualitas",
+    "privacy": "Privasi",
+    "terms": "Ketentuan",
+    "disclaimer": "Hanya untuk penggunaan penelitian. Bukan untuk konsumsi manusia.",
+    "copyright": "Semua hak dilindungi."
+  },
+  "form": {
+    "contactName": "Nama kontak",
+    "email": "Email",
+    "companyName": "Nama perusahaan",
+    "phone": "Telepon",
+    "country": "Negara",
+    "product": "Produk yang diminati",
+    "quantity": "Jumlah",
+    "message": "Pesan",
+    "submit": "Kirim permintaan",
+    "submitting": "Mengirim...",
+    "success": "Terima kasih atas permintaan Anda. Kami akan merespons dalam 24 jam.",
+    "error": "Terjadi kesalahan saat mengirim permintaan Anda. Silakan coba lagi.",
+    "errName": "Nama kontak wajib diisi",
+    "errEmail": "Email yang valid diperlukan",
+    "errCompany": "Nama perusahaan wajib diisi",
+    "errMessage": "Pesan minimal 10 karakter"
+  },
+  "meta": {
+    "title": "AnkhPeptide - Penyedia Peptida Penelitian",
+    "description": "Peptida penelitian ultra-murni dan senyawa laboratorium untuk penelitian in-vitro. Diuji pihak ketiga pada kemurnian 99%+. Pengiriman UE & worldwide."
+  }
+}

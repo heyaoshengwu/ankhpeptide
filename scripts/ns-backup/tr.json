@@ -1,0 +1,248 @@
+{
+  "nav": {
+    "products": "Ürünler",
+    "testResults": "Test Sonuçları",
+    "about": "Hakkımızda",
+    "b2b": "B2B",
+    "contact": "İletişim"
+  },
+  "language": {
+    "select": "Dil seçin"
+  },
+  "hero": {
+    "title": "Araştırma Peptit Tedarikçisi",
+    "subtitle": "In-vitro araştırma için ultra saf araştırma peptitleri ve laboratuvar bileşikleri. %99+ saflıkta üçüncü taraf test. AB ve dünya çapında gönderim.",
+    "viewProducts": "Ürünleri görüntüle",
+    "getQuote": "Teklif alın",
+    "disclaimer": "Yalnızca laboratuvar araştırması için. İnsan kullanımı için değildir."
+  },
+  "features": {
+    "highPurity": {
+      "title": "%99+ Saflık Doğrulandı",
+      "description": "Her parti, HPLC ve kütle spektrometrisi doğrulaması ile üçüncü taraf testinden geçer. Tüm ürünler için sertifikalar mevcuttur."
+    },
+    "globalShipping": {
+      "title": "Dünya Çapında Gönderim",
+      "description": "AB ve dünya çapındaki destinasyonlara hızlı, güvenilir gönderim. Hassas bileşikler için soğuk zincir lojistiği."
+    },
+    "qualityAssurance": {
+      "title": "Kalite Güvencesi",
+      "description": "ISO sertifikalı üretim. Hammaddeyi nihai ürüne kadar tam izlenebilirlik. Kalite raporları dahildir."
+    }
+  },
+  "product": {
+    "categories": {
+      "title": "Ürün Kategorileri",
+      "peptides": "Peptitler",
+      "glp1": "GLP-1 Analogları",
+      "sarms": "SARMs",
+      "bioregulators": "Biyoregülatörler",
+      "nootropics": "Nootropikler",
+      "ghAnalogs": "GH Analogları & Sektagoglar",
+      "myostatin": "Miyostatin İnhibitörleri",
+      "gonadotropins": "Gonadotropinler",
+      "injectables": "Enjektabl Ürünler",
+      "nasal": "Burun Spreyleri",
+      "pellets": "Pelletler & Haplar",
+      "researchSupplies": "Araştırma Malzemeleri"
+    },
+    "catalog": {
+      "title": "Ürün Kataloğu",
+      "subtitle": "Kapsamlı araştırma peptitleri ve bileşikleri yelpazemizi inceleyin"
+    },
+    "filters": "Filtreler",
+    "search": "Ara",
+    "searchPlaceholder": "Ürün ara...",
+    "application": "Uygulama",
+    "purity": "Saflık",
+    "noProducts": "Kullanılabilir ürün yok.",
+    "specifications": "Spesifikasyonlar",
+    "technicalDocuments": "Teknik Dokümanlar",
+    "literature": "Literatür",
+    "productNotFound": "Ürün bulunamadı",
+    "productNotFoundDesc": "Aradığınız ürün mevcut değil.",
+    "moleculeHint": "İnteraktif 3D yapı - döndürmek için sürükleyin, yakınlaştırmak için kaydırın"
+  },
+  "testResults": {
+    "title": "Test Sonuçları",
+    "subtitle": "Tüm ürünlerimiz için üçüncü taraf laboratuvar raporlarını görüntüleyin",
+    "download": "COA İndir",
+    "badgeVerified": "Üçüncü Taraf Doğrulaması",
+    "badgeHplc": "HPLC ve Kütle Spektrometrisi",
+    "badgePurity": "%99+ Saflık Standardı",
+    "purity": "Saflık",
+    "processTitle": "Doğrulama Sürecimiz",
+    "proc1": {
+      "title": "Numune Toplama",
+      "desc": "Her parti, piyasaya sürülmeden önce ISO sertifikalı üretim tesisimizde numunelenir."
+    },
+    "proc2": {
+      "title": "Üçüncü Taraf Laboratuvar Testleri",
+      "desc": "Numuneler, HPLC ve kütle spektrometrisi analizi için bağımsız akredite laboratuvarlara gönderilir."
+    },
+    "proc3": {
+      "title": "Sertifika Düzenleme",
+      "desc": "Doğrulanan sonuçlar, indirilebilir Analiz Sertifikaları halinde derlenir."
+    },
+    "ctaTitle": "Özel Test mi Gerekiyor?",
+    "ctaDesc": "Belirli gereksinimler için özel üçüncü taraf testleri düzenleyebilir veya düzenleyici uyumluluk için ek dokümantasyon sağlayabiliriz.",
+    "contactUs": "İletişim"
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "content": "AnkhPeptide, ultra saf araştırma peptitleri ve laboratuvar bileşiklerinin önde gelen tedarikçisidir. In-vitro araştırma uygulamaları için dünya çapındaki araştırmacılara, laboratuvarlara ve farmasötik şirketlere yüksek kaliteli peptitler tedarik ediyoruz.",
+    "mission": "Misyonumuz, araştırmacılara rekabetçi fiyatlarla yüksek saflıkta peptit bileşiklerine güvenilir erişim sağlamaktır.",
+    "missionTitle": "Misyonumuz",
+    "stats": {
+      "purity": "Saflık Doğrulanmış",
+      "countries": "Gönderim Ülkeleri",
+      "products": "Ürünler",
+      "response": "Yanıt Süresi"
+    },
+    "forResearchers": "Araştırmacılar için",
+    "forResearchersDesc": "İn vitro araştırma uygulamaları için yüksek saflıkta peptit bileşiklerine güvenilir erişim sağlıyor ve bilimsel ilerlemeyi destekliyoruz.",
+    "forLaboratories": "Laboratuvarlar için",
+    "forLaboratoriesDesc": "Tutarlı kalite ve kapsamlı dokümantasyon, laboratuvar iş akışlarını ve düzenleyici uyumluluk gereksinimlerini destekler.",
+    "whyTitle": "Neden AnkhPeptide?",
+    "valQA": {
+      "title": "Kalite Güvencesi",
+      "desc": "Her parti, piyasaya sürülmeden önce HPLC ve kütle spektrometrisi doğrulamasıyla sıkı üçüncü taraf testlerden geçer."
+    },
+    "valISO": {
+      "title": "ISO Standartları",
+      "desc": "Üretim ortaklarımız, tutarlılığı sağlayan ISO sertifikalı kalite yönetim sistemleri altında çalışır."
+    },
+    "valGlobal": {
+      "title": "Küresel Erişim",
+      "desc": "Dünya genelinde 50'den fazla ülkedeki araştırmacılara, laboratuvarlara ve ilaç firmalarına güvenilir gönderim."
+    },
+    "valService": {
+      "title": "Güvenilir Hizmet",
+      "desc": "Özel destek ekibi, ürün soruları ve teknik sorunlar için hızlı yardım sağlar."
+    },
+    "processTitle": "Kalite Sürecimiz",
+    "proc1": {
+      "title": "Hammadde Doğrulaması",
+      "desc": "Tüm gelen hammaddeler, üretimde kullanılmadan önce doğrulanır ve belgelenir."
+    },
+    "proc2": {
+      "title": "Üretim Standartları",
+      "desc": "Peptitler, ISO sertifikalı tesislerde sıkı kalite kontrol koşullarında sentezlenir."
+    },
+    "proc3": {
+      "title": "Üçüncü Taraf Testleri",
+      "desc": "Her parti, HPLC ve kütle spektrometrisi ile saflık doğrulaması için bağımsız akredite laboratuvarlara gönderilir."
+    },
+    "proc4": {
+      "title": "Analiz Sertifikası",
+      "desc": "Her sürüm, test sonuçları sayfamızdan indirilebilen kapsamlı bir Analiz Sertifikası içerir."
+    },
+    "ctaTitle": "Başlamaya hazır mısınız?",
+    "ctaDesc": "Araştırma peptitleri kataloğumuzu inceleyin veya toptan fiyatlar ve özel sentez talepleri için ekibimizle iletişime geçin.",
+    "contactUs": "İletişim"
+  },
+  "b2b": {
+    "title": "B2B Ortaklıkları",
+    "subtitle": "Araştırma kurumları ve farmasötik şirketler için toplu siparişler ve özel sentez",
+    "contact": "Toplu fiyat için iletişime geçin",
+    "servicesTitle": "B2B Hizmetlerimiz",
+    "svBulk": {
+      "title": "Toptan Siparişler",
+      "desc": "Büyük miktarlı siparişler için rekabetçi fiyatlar. Ürün başına 10+ adetten itibaren hacim indirimi."
+    },
+    "svCustom": {
+      "title": "Özel Sentez",
+      "desc": "5 ila 100+ amino asit arasında, staple peptitler ve halkasal yapılar dahil çeşitli modifikasyonlarla özel peptit dizileri."
+    },
+    "svChain": {
+      "title": "Güvenilir Tedarik Zinciri",
+      "desc": "Garantili stok durumuyla tutarlı tedarik. Uzun vadeli ortaklar için öncelikli üretim."
+    },
+    "svPartner": {
+      "title": "B2B Ortaklıkları",
+      "desc": "Araştırma kurumları, ilaç firmaları ve sözleşmeli araştırma kuruluşları için özel çözümler."
+    },
+    "benefitsTitle": "Ortaklık Avantajları",
+    "ben0": "Hacim bazlı fiyat seviyeleri",
+    "ben1": "Özel hesap yönetimi",
+    "ben2": "Öncelikli üretim planlaması",
+    "ben3": "Uygun hesaplar için esnek ödeme koşulları",
+    "ben4": "Özel etiketleme ve paketleme seçenekleri",
+    "ben5": "Teknik dokümantasyon desteği",
+    "ben6": "Düzenleyici uyumluluk desteği",
+    "customTitle": "Özel gereksinimler mi?",
+    "customDesc": "Belirli peptit dizileri, saflık seviyeleri ve paketleme düzenleri için özel talepleri de karşılıyoruz.",
+    "contactQuote": "Özel teklif için iletişime geçin",
+    "serveTitle": "Kime Hizmet Veriyoruz",
+    "serveDesc": "B2B çözümlerimiz, çeşitli araştırma ve ilaç kuruluşlarının ihtiyaçlarını karşılamak için tasarlanmıştır.",
+    "mktInstitutions": {
+      "title": "Araştırma Kurumları",
+      "desc": "İn vitro çalışmalar yürüten üniversiteler, kolejler ve bağımsız araştırma laboratuvarları."
+    },
+    "mktPharma": {
+      "title": "İlaç Firmaları",
+      "desc": "Klinik öncesi araştırma için yüksek saflıkta bileşikler gerektiren ilaç geliştirme ekipleri."
+    },
+    "mktCRO": {
+      "title": "Sözleşmeli Araştırma Kuruluşları",
+      "desc": "Müşteri araştırma projeleri için güvenilir peptit tedarikçilerine ihtiyaç duyan CRO'lar."
+    },
+    "ctaDesc": "B2B ekibimiz gereksinimlerinizi görüşmeye, özel teklifler sunmaya ve ortaklık fırsatlarını keşfetmeye hazır.",
+    "getInTouch": "İletişime Geç",
+    "browseCatalog": "Kataloğa Göz At"
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Ürün sorguları, toplu siparişler veya teknik destek için bizimle iletişime geçin",
+    "lead": "Ürün soruları, teknik destek veya iş birliği fırsatları için ekibimizle iletişime geçin.",
+    "sendInquiry": "Bize bir talep gönderin",
+    "info": "İletişim Bilgileri",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "address": "Adres",
+    "responseTime": "Yanıt Süresi",
+    "responseText": "İş günlerinde tüm taleplere genellikle 24 saat içinde yanıt veriyoruz.",
+    "bulkOrders": "Toptan Siparişler",
+    "bulkText": "Toptan siparişler veya özel peptit sentezi talepleri için lütfen talebinizde miktar ve zaman çizelgesini belirtin. Ekibimiz 12 saat içinde detaylı teklif sunacaktır."
+  },
+  "footer": {
+    "products": "Ürünler",
+    "company": "Şirket",
+    "support": "Destek",
+    "legal": "Yasal",
+    "allProducts": "Tüm Ürünler",
+    "testResults": "Test Sonuçları",
+    "about": "Hakkımızda",
+    "b2b": "B2B",
+    "contact": "İletişim",
+    "faq": "SSS",
+    "shipping": "Kargo Bilgileri",
+    "quality": "Kalite Güvencesi",
+    "privacy": "Gizlilik",
+    "terms": "Şartlar",
+    "disclaimer": "Yalnızca araştırma kullanımı. İnsan tüketimi için değildir.",
+    "copyright": "Tüm hakları saklıdır."
+  },
+  "form": {
+    "contactName": "İletişim Adı",
+    "email": "E-posta",
+    "companyName": "Şirket Adı",
+    "phone": "Telefon",
+    "country": "Ülke",
+    "product": "İlgilenilen Ürün",
+    "quantity": "Miktar",
+    "message": "Mesaj",
+    "submit": "Talep Gönder",
+    "submitting": "Gönderiliyor...",
+    "success": "Talebiniz için teşekkürler. 24 saat içinde yanıt vereceğiz.",
+    "error": "Talebiniz gönderilirken bir hata oluştu. Lütfen tekrar deneyin.",
+    "errName": "İletişim adı gereklidir",
+    "errEmail": "Geçerli bir e-posta gerekli",
+    "errCompany": "Şirket adı gereklidir",
+    "errMessage": "Mesaj en az 10 karakter olmalıdır"
+  },
+  "meta": {
+    "title": "AnkhPeptide - Araştırma Peptit Tedarikçisi",
+    "description": "In-vitro araştırma için ultra saf araştırma peptitleri ve laboratuvar bileşikleri. %99+ saflıkta üçüncü taraf test. AB ve dünya çapında gönderim."
+  }
+}

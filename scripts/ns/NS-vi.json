@@ -1,0 +1,105 @@
+{
+  "pages": {
+    "faq": {
+      "subtitle": "Các câu hỏi thường gặp về sản phẩm và dịch vụ của chúng tôi.",
+      "items": [
+        { "q": "Sản phẩm của bạn dùng để làm gì?", "a": "Tất cả sản phẩm của chúng tôi chỉ dành cho mục đích nghiên cứu trong phòng thí nghiệm. Chúng dành cho nghiên cứu in-vitro, thí nghiệm sinh hóa và điều tra khoa học. Không có sản phẩm nào của chúng tôi dùng cho người, tiêu thụ hoặc ứng dụng lâm sàng." },
+        { "q": "Làm thế nào để bảo quản peptide?", "a": "Hầu hết peptide nên được bảo quản ở -20°C hoặc thấp hơn trong tủ lạnh. Sau khi hoàn nguyên, peptide thường nên được bảo quản ở 4°C và sử dụng trong khung thời gian khuyến nghị. Luôn tham khảo tài liệu sản phẩm cụ thể để biết hướng dẫn bảo quản." },
+        { "q": "Số lượng đặt hàng tối thiểu của bạn là bao nhiêu?", "a": "Chúng tôi cung cấp đặt hàng linh hoạt mà không có số lượng tối thiểu nghiêm ngặt cho hầu hết các sản phẩm. Tuy nhiên, lợi ích giá sỉ bắt đầu từ đơn hàng 10+ đơn vị mỗi sản phẩm. Liên hệ với đội ngũ bán hàng để biết yêu cầu cụ thể." },
+        { "q": "Bạn có giao hàng quốc tế không?", "a": "Có, chúng tôi giao hàng đến hơn 50 quốc gia trên thế giới. Chi phí vận chuyển và thời gian giao hàng khác nhau tùy theo điểm đến. Chúng tôi sử dụng dịch vụ chuyển phát đáng tin cậy và có thể sắp xếp xử lý đặc biệt cho hợp chất nhạy cảm với nhiệt độ." },
+        { "q": "Làm cách nào để kiểm tra độ tinh khiết của sản phẩm?", "a": "Mỗi lô hàng đều kèm Giấy chứng nhận phân tích (COA) từ phòng thí nghiệm bên thứ ba xác nhận mức độ tinh khiết. COA bao gồm kết quả HPLC và khối phổ. Bạn có thể tải COA từ trang Kết quả kiểm tra của chúng tôi." },
+        { "q": "Bạn chấp nhận phương thức thanh toán nào?", "a": "Chúng tôi chấp nhận nhiều phương thức thanh toán bao gồm chuyển khoản ngân hàng, thẻ tín dụng (nơi có) và tiền điện tử (cho các đơn hàng chọn lọc). Liên hệ với chúng tôi để biết các tùy chọn thanh toán phù hợp với khu vực của bạn." },
+        { "q": "Sản phẩm của bạn có chứng nhận GMP không?", "a": "Các đối tác sản xuất của chúng tôi hoạt động trong hệ thống quản lý chất lượng chứng nhận ISO. Chúng tôi có thể cung cấp tài liệu về tiêu chuẩn sản xuất theo yêu cầu cho các sản phẩm cụ thể." },
+        { "q": "Tôi có thể đặt peptide tùy chỉnh không?", "a": "Có, chúng tôi cung cấp dịch vụ tổng hợp peptide tùy chỉnh. Chúng tôi có thể sản xuất chuỗi từ 5 đến 100+ axit amin với nhiều biến đổi khác nhau. Liên hệ với đội ngũ của chúng tôi với yêu cầu của bạn để được báo giá và thời gian." }
+      ],
+      "ctaText": "Vẫn còn thắc mắc? Đội ngũ của chúng tôi sẵn sàng hỗ trợ.",
+      "contact": "Liên hệ với chúng tôi"
+    },
+    "shipping": {
+      "subtitle": "Thông tin về phương thức vận chuyển, điểm đến và thời gian giao hàng.",
+      "cards": [
+        { "title": "Điểm đến vận chuyển", "description": "Chúng tôi giao đến tất cả các nước EU và các điểm đến trên toàn thế giới bao gồm Bắc Mỹ, Châu Á, Úc và Nam Mỹ. Vận chuyển có sẵn đến hơn 50 quốc gia." },
+        { "title": "Thời gian giao hàng", "description": "Giao hàng EU: 3-7 ngày làm việc. Giao hàng quốc tế: 7-14 ngày làm việc. Có các tùy chọn vận chuyển nhanh cho đơn hàng khẩn cấp." },
+        { "title": "Đóng gói", "description": "Tất cả lô hàng được đóng gói cẩn thận với sự bảo vệ đầy đủ. Các hợp chất nhạy cảm với nhiệt độ được vận chuyển bằng vật liệu chuỗi lạnh để đảm bảo độ ổn định." },
+        { "title": "Logistics chuỗi lạnh", "description": "Đối với peptide và hợp chất nhạy cảm, chúng tôi sử dụng phương pháp vận chuyển chuỗi lạnh bao gồm túi gel và bao bì cách nhiệt để duy trì nhiệt độ tối ưu trong quá trình vận chuyển." }
+      ],
+      "costsTitle": "Chi phí vận chuyển",
+      "costsText1": "Chi phí vận chuyển được tính dựa trên điểm đến, trọng lượng và có yêu cầu xử lý chuỗi lạnh hay không. Chi phí vận chuyển cuối cùng sẽ được hiển thị khi thanh toán trước khi xác nhận đơn hàng.",
+      "costsText2": "Đối với đơn hàng số lượng lớn hoặc yêu cầu vận chuyển đặc biệt, vui lòng liên hệ đội ngũ của chúng tôi để được báo giá riêng.",
+      "processingTitle": "Xử lý đơn hàng",
+      "processingText": "Đơn hàng thường được xử lý và gửi trong vòng 1-2 ngày làm việc. Bạn sẽ nhận được thông tin theo dõi qua email sau khi đơn hàng được gửi đi."
+    },
+    "quality": {
+      "subtitle": "Cam kết của chúng tôi về đảm bảo chất lượng và xác minh sản phẩm.",
+      "points": [
+        { "title": "Sản xuất chứng nhận ISO", "description": "Các đối tác sản xuất của chúng tôi hoạt động trong hệ thống quản lý chất lượng chứng nhận ISO, đảm bảo chất lượng nhất quán và tuân thủ các tiêu chuẩn quốc tế." },
+        { "title": "Kiểm tra bên thứ ba", "description": "Mỗi lô chịu kiểm tra nghiêm ngặt tại các phòng thí nghiệm được công nhận độc lập. Chúng tôi sử dụng HPLC và khối phổ để xác minh độ tinh khiết." },
+        { "title": "Truy xuất nguồn gốc đầy đủ", "description": "Tài liệu đầy đủ từ việc tìm nguồn nguyên liệu thô qua sản xuất đến khi phát hành sản phẩm cuối. Mỗi lô có thể được truy vết đến nguyên liệu nguồn." },
+        { "title": "Tiêu chuẩn tinh khiết 99%+", "description": "Chúng tôi đảm bảo độ tinh khiết tối thiểu 99% cho tất cả sản phẩm peptide, được xác minh bằng phân tích phòng thí nghiệm bên thứ ba và ghi trong Giấy chứng nhận phân tích." }
+      ],
+      "coaTitle": "Giấy chứng nhận phân tích",
+      "coaIntro": "Mỗi lô sản phẩm bao gồm Giấy chứng nhận phân tích (COA) toàn diện bao gồm:",
+      "coaList": [
+        "Xác minh độ tinh khiết bằng HPLC",
+        "Xác nhận bằng khối phổ",
+        "Hình thức và đặc điểm vật lý",
+        "Phân tích hàm lượng nước",
+        "Số lô và ngày sản xuất"
+      ],
+      "commitmentTitle": "Cam kết chất lượng",
+      "commitmentText": "Chúng tôi đứng sau chất lượng sản phẩm của mình. Nếu bạn có bất kỳ lo ngại nào về chất lượng hoặc tài liệu của sản phẩm, vui lòng liên hệ ngay với chúng tôi. Chúng tôi cam kết đảm bảo sự hài lòng hoàn toàn của khách hàng."
+    },
+    "privacy": {
+      "subtitle": "Cách chúng tôi thu thập, sử dụng và bảo vệ thông tin của bạn.",
+      "updated": "Cập nhật lần cuối: tháng 5 năm 2026",
+      "sections": [
+        { "title": "Thông tin chúng tôi thu thập", "body": "Chúng tôi thu thập thông tin bạn cung cấp trực tiếp cho chúng tôi, như khi bạn tạo tài khoản, đặt hàng, đăng ký bản tin hoặc liên hệ để được hỗ trợ. Điều này có thể bao gồm tên, email, số điện thoại, tên công ty, địa chỉ thanh toán và địa chỉ giao hàng." },
+        { "title": "Cách chúng tôi sử dụng thông tin của bạn", "body": "Chúng tôi sử dụng thông tin thu thập được để xử lý và hoàn tất đơn hàng, trao đổi với bạn về sản phẩm và dịch vụ, cung cấp hỗ trợ khách hàng và gửi cho bạn thông tin quảng cáo (với sự đồng ý của bạn khi cần thiết)." },
+        { "title": "Chia sẻ thông tin", "body": "Chúng tôi không bán, trao đổi hoặc chuyển giao thông tin cá nhân của bạn cho bên thứ ba mà không có sự đồng ý của bạn, trừ khi cần thiết để cung cấp dịch vụ (như đơn vị vận chuyển và xử lý thanh toán) hoặc theo yêu cầu của pháp luật." },
+        { "title": "Bảo mật dữ liệu", "body": "Chúng tôi thực hiện các biện pháp bảo mật phù hợp để bảo vệ thông tin cá nhân của bạn khỏi truy cập trái phép, thay đổi, tiết lộ hoặc hủy hoại. Tuy nhiên, không có phương thức truyền qua Internet nào là 100% an toàn." },
+        { "title": "Cookie và theo dõi", "body": "Chúng tôi sử dụng cookie và công nghệ theo dõi tương tự để cải thiện trải nghiệm duyệt web, phân tích lưu lượng truy cập và hiểu nguồn gốc của khách truy cập. Bạn có thể kiểm soát cookie qua cài đặt trình duyệt." },
+        { "title": "Quyền của bạn", "body": "Tùy theo vị trí của bạn, bạn có thể có một số quyền nhất định đối với thông tin cá nhân, bao gồm quyền truy cập, sửa hoặc xóa dữ liệu. Liên hệ với chúng tôi để thực hiện các quyền này." },
+        { "title": "Tuân thủ GDPR (khách hàng EU)", "body": "Đối với khách hàng ở Liên minh Châu Âu, chúng tôi tuân thủ Quy định bảo vệ dữ liệu chung (GDPR). Chúng tôi chỉ xử lý dữ liệu cá nhân trên cơ sở hợp pháp và cung cấp đầy đủ quyền của chủ thể dữ liệu." },
+        { "title": "Liên hệ với chúng tôi", "body": "Nếu bạn có câu hỏi về Chính sách bảo mật này, vui lòng liên hệ với chúng tôi tại privacy@ankhpeptide.com." }
+      ]
+    },
+    "terms": {
+      "subtitle": "Điều khoản và điều kiện sử dụng dịch vụ của chúng tôi.",
+      "updated": "Cập nhật lần cuối: tháng 5 năm 2026",
+      "sections": [
+        { "title": "Đồng ý với điều khoản", "body": "Bằng cách truy cập hoặc sử dụng trang web và dịch vụ của chúng tôi, bạn đồng ý bị ràng buộc bởi các Điều khoản dịch vụ này. Nếu bạn không đồng ý với các điều khoản này, vui lòng không sử dụng dịch vụ của chúng tôi." },
+        { "title": "Sản phẩm và mục đích sử dụng", "body": "Tất cả sản phẩm do AnkhPeptide bán chỉ dành cho mục đích nghiên cứu trong phòng thí nghiệm. Các sản phẩm này không phải thuốc, dược phẩm hay mỹ phẩm và không dành cho người, chẩn đoán hoặc điều trị. Bằng việc mua sản phẩm, bạn xác nhận mình là nhà nghiên cứu hoặc chuyên gia có đủ điều kiện." },
+        { "title": "Đặt hàng và thanh toán", "body": "Tất cả đơn hàng tùy thuộc vào tình trạng hàng và xác nhận. Giá có thể thay đổi mà không báo trước. Chúng tôi có quyền từ chối hoặc hủy bất kỳ đơn hàng nào vì bất kỳ lý do gì. Thanh toán phải được nhận đầy đủ trước khi xử lý đơn hàng." },
+        { "title": "Vận chuyển và giao hàng", "body": "Thời gian vận chuyển chỉ là ước tính và không được đảm bảo. Rủi ro mất mát và quyền sở hữu sản phẩm chuyển cho người mua khi giao cho đơn vị vận chuyển. Chúng tôi không chịu trách nhiệm về sự chậm trễ do hải quan hoặc đơn vị vận chuyển." },
+        { "title": "Trả lại và hoàn tiền", "body": "Do tính chất của sản phẩm, chúng tôi không thể chấp nhận trả lại sản phẩm đã mở hoặc đã sử dụng. Nếu bạn nhận được sản phẩm bị hư hỏng hoặc lỗi, vui lòng liên hệ trong vòng 14 ngày để sắp xếp thay thế hoặc hoàn tiền." },
+        { "title": "Giới hạn trách nhiệm", "body": "AnkhPeptide không chịu trách nhiệm về bất kỳ thiệt hại gián tiếp, ngẫu nhiên, đặc biệt, do hậu quả hoặc trừng phạt nào phát sinh từ việc sử dụng sản phẩm hoặc dịch vụ của chúng tôi. Tổng trách nhiệm của chúng tôi không vượt quá số tiền đã thanh toán cho sản phẩm cụ thể." },
+        { "title": "Tuyên bố miễn trừ nghiên cứu", "body": "AnkhPeptide cung cấp sản phẩm chỉ cho mục đích nghiên cứu trong phòng thí nghiệm. Công ty không khuyến nghị, xác nhận hoặc khuyến khích việc sử dụng các sản phẩm này cho bất kỳ ứng dụng cụ thể nào. Người dùng chịu trách nhiệm đảm bảo tuân thủ các luật và quy định hiện hành." },
+        { "title": "Sở hữu trí tuệ", "body": "Tất cả nội dung trên trang web này, bao gồm văn bản, đồ họa, logo và hình ảnh, là tài sản của AnkhPeptide và được bảo vệ bởi luật sở hữu trí tuệ." },
+        { "title": "Luật điều chỉnh", "body": "Các Điều khoản dịch vụ này sẽ được điều chỉnh và giải thích theo luật áp dụng, không xét đến các nguyên tắc xung đột pháp luật." },
+        { "title": "Thay đổi điều khoản", "body": "Chúng tôi có quyền sửa đổi các điều khoản này bất cứ lúc nào. Việc tiếp tục sử dụng dịch vụ sau khi có thay đổi cấu thành sự chấp nhận các điều khoản đã sửa đổi." },
+        { "title": "Thông tin liên hệ", "body": "Mọi thắc mắc về các Điều khoản dịch vụ này, vui lòng liên hệ với chúng tôi tại legal@ankhpeptide.com." }
+      ]
+    },
+    "disclaimer": {
+      "subtitle": "Thông tin quan trọng về mục đích sử dụng sản phẩm của chúng tôi.",
+      "alertTitle": "Chỉ dùng cho nghiên cứu",
+      "alertText": "Tất cả sản phẩm do AnkhPeptide bán đều nghiêm ngặt chỉ dành cho mục đích nghiên cứu trong phòng thí nghiệm. Chúng không dành cho người, tiêu thụ hoặc sử dụng.",
+      "sections": [
+        { "title": "Mục đích sử dụng sản phẩm", "body": "Các sản phẩm do AnkhPeptide cung cấp được thiết kế dành riêng cho nghiên cứu và thí nghiệm trong phòng thí nghiệm in-vitro. Các hợp chất này dành cho các nhà nghiên cứu có trình độ, chuyên gia phòng thí nghiệm và nhà điều tra khoa học trong môi trường phòng thí nghiệm có kiểm soát." },
+        { "title": "Không dùng cho con người", "body": "Sản phẩm của chúng tôi không phải thuốc, dược phẩm, phụ gia thực phẩm hoặc mỹ phẩm. Chúng chưa được bất kỳ cơ quan quản lý nào (bao gồm FDA, EMA hoặc các cơ quan tương tự) đánh giá về độ an toàn hoặc hiệu quả trên người. Không có sản phẩm nào của chúng tôi được uống, tiêm hoặc sử dụng theo bất kỳ cách nào có thể dẫn đến phơi nhiễm ở người." },
+        { "title": "Yêu cầu trình độ", "body": "Khi mua hàng từ trang web của chúng tôi, bạn xác nhận và đảm bảo rằng bạn:" },
+        { "title": "Trách nhiệm pháp lý", "body": "AnkhPeptide không chịu trách nhiệm về bất kỳ việc lạm dụng sản phẩm nào của chúng tôi. Người dùng hoàn toàn chịu trách nhiệm đảm bảo sản phẩm được sử dụng tuân thủ tất cả luật, quy định và hướng dẫn an toàn hiện hành." },
+        { "title": "Xác minh kiểm tra bên thứ ba", "body": "Mặc dù chúng tôi cung cấp Giấy chứng nhận phân tích bên thứ ba xác nhận mức độ tinh khiết, các xác minh này chỉ nhằm mục đích tài liệu nghiên cứu và không cấu thành sự chấp thuận sử dụng cho người." },
+        { "title": "Thay đổi tuyên bố miễn trừ này", "body": "Chúng tôi có quyền sửa đổi tuyên bố miễn trừ này bất cứ lúc nào. Việc tiếp tục sử dụng trang web và dịch vụ của chúng tôi sau khi có thay đổi cấu thành sự chấp nhận các điều khoản đã sửa đổi." }
+      ],
+      "qualificationList": [
+        "Nhà nghiên cứu hoặc chuyên gia phòng thí nghiệm có đủ điều kiện",
+        "Hoạt động trong một tổ chức nghiên cứu hoặc giáo dục phù hợp",
+        "Sử dụng sản phẩm tuân thủ tất cả luật và quy định hiện hành",
+        "Tuân theo các quy trình an toàn phòng thí nghiệm phù hợp"
+      ],
+      "ctaText": "Nếu bạn có câu hỏi về tuyên bố miễn trừ này, vui lòng liên hệ với chúng tôi trước khi mua hàng.",
+      "contact": "Liên hệ với chúng tôi"
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "pages": {
+    "faq": {
+      "subtitle": "Pertanyaan yang sering diajukan tentang produk dan layanan kami.",
+      "items": [
+        { "q": "Produk Anda digunakan untuk apa?", "a": "Semua produk kami hanya untuk tujuan penelitian laboratorium. Produk dirancang untuk penelitian in-vitro, eksperimen biokimia, dan penyelidikan ilmiah. Tidak ada satu pun produk kami yang dimaksudkan untuk penggunaan manusia, konsumsi, atau aplikasi klinis." },
+        { "q": "Bagaimana cara menyimpan peptida?", "a": "Kebanyakan peptida harus disimpan pada -20°C atau lebih rendah di dalam freezer. Setelah rekonstitusi, peptida biasanya harus disimpan pada 4°C dan digunakan dalam jangka waktu yang disarankan. Selalu rujuk dokumentasi produk spesifik untuk instruksi penyimpanan." },
+        { "q": "Berapa jumlah pesanan minimum Anda?", "a": "Kami menawarkan pesanan fleksibel tanpa jumlah minimum yang ketat untuk sebagian besar produk. Namun, keuntungan harga grosir dimulai pada pesanan 10+ unit per produk. Hubungi tim penjualan kami untuk kebutuhan spesifik." },
+        { "q": "Apakah Anda mengirim ke luar negeri?", "a": "Ya, kami mengirim ke lebih dari 50 negara di seluruh dunia. Biaya dan waktu pengiriman bervariasi berdasarkan tujuan. Kami menggunakan layanan kurir yang tepercaya dan dapat mengatur penanganan khusus untuk senyawa yang sensitif terhadap suhu." },
+        { "q": "Bagaimana cara memverifikasi kemurnian produk?", "a": "Setiap lot disertai Sertifikat Analisis (COA) dari laboratorium pihak ketiga yang mengonfirmasi tingkat kemurnian. COA mencakup hasil HPLC dan spektrometri massa. Anda dapat mengunduh COA dari halaman Hasil Pengujian kami." },
+        { "q": "Metode pembayaran apa yang Anda terima?", "a": "Kami menerima berbagai metode pembayaran termasuk transfer bank, kartu kredit (jika tersedia), dan mata uang kripto (untuk pesanan tertentu). Hubungi kami untuk opsi pembayaran yang sesuai untuk wilayah Anda." },
+        { "q": "Apakah produk Anda bersertifikasi GMP?", "a": "Mitra manufaktur kami beroperasi di bawah sistem manajemen mutu bersertifikat ISO. Kami dapat menyediakan dokumentasi tentang standar produksi berdasarkan permintaan untuk produk tertentu." },
+        { "q": "Bisakah saya memesan peptida khusus?", "a": "Ya, kami menawarkan layanan sintesis peptida khusus. Kami dapat memproduksi urutan 5 hingga 100+ asam amino dengan berbagai modifikasi. Hubungi tim kami dengan kebutuhan Anda untuk penawaran harga dan jadwal." }
+      ],
+      "ctaText": "Masih ada pertanyaan? Tim kami siap membantu Anda.",
+      "contact": "Hubungi Kami"
+    },
+    "shipping": {
+      "subtitle": "Informasi tentang metode pengiriman, tujuan, dan waktu pengiriman kami.",
+      "cards": [
+        { "title": "Tujuan Pengiriman", "description": "Kami mengirim ke semua negara Uni Eropa dan tujuan global termasuk Amerika Utara, Asia, Australia, dan Amerika Selatan. Pengiriman tersedia ke lebih dari 50 negara." },
+        { "title": "Waktu Pengiriman", "description": "Pengiriman UE: 3-7 hari kerja. Pengiriman internasional: 7-14 hari kerja. Opsi pengiriman ekspres tersedia untuk pesanan mendesak." },
+        { "title": "Pengemasan", "description": "Semua kiriman dikemas dengan hati-hati dengan perlindungan yang memadai. Senyawa yang sensitif terhadap suhu dikirim dengan material rantai dingin untuk memastikan stabilitas." },
+        { "title": "Logistik Rantai Dingin", "description": "Untuk peptida dan senyawa sensitif, kami menggunakan metode pengiriman rantai dingin termasuk gel pack dan kemasan berinsulasi untuk menjaga suhu optimal selama transit." }
+      ],
+      "costsTitle": "Biaya Pengiriman",
+      "costsText1": "Biaya pengiriman dihitung berdasarkan tujuan, berat, dan apakah penanganan rantai dingin diperlukan. Biaya pengiriman akhir akan ditampilkan saat pembayaran sebelum konfirmasi pesanan.",
+      "costsText2": "Untuk pesanan grosir atau persyaratan pengiriman khusus, silakan hubungi tim kami untuk penawaran harga khusus.",
+      "processingTitle": "Pemrosesan Pesanan",
+      "processingText": "Pesanan biasanya diproses dan dikirim dalam 1-2 hari kerja. Anda akan menerima informasi pelacakan melalui email setelah pesanan Anda dikirim."
+    },
+    "quality": {
+      "subtitle": "Komitmen kami terhadap jaminan kualitas dan verifikasi produk.",
+      "points": [
+        { "title": "Manufaktur Bersertifikat ISO", "description": "Mitra manufaktur kami beroperasi di bawah sistem manajemen mutu bersertifikat ISO, memastikan kualitas yang konsisten dan kepatuhan terhadap standar internasional." },
+        { "title": "Pengujian Pihak Ketiga", "description": "Setiap lot menjalani pengujian ketat di laboratorium terakreditasi independen. Kami menggunakan HPLC dan spektrometri massa untuk memverifikasi kemurnian." },
+        { "title": "Keterlacakan Penuh", "description": "Dokumentasi lengkap dari pengadaan bahan baku melalui produksi hingga pelepasan produk akhir. Setiap lot dapat dilacak kembali ke bahan sumbernya." },
+        { "title": "Standar Kemurnian 99%+", "description": "Kami menjamin kemurnian minimum 99% untuk semua produk peptida kami, diverifikasi oleh analisis laboratorium pihak ketiga dan didokumentasikan dalam Sertifikat Analisis." }
+      ],
+      "coaTitle": "Sertifikat Analisis",
+      "coaIntro": "Setiap lot produk mencakup Sertifikat Analisis (COA) komprehensif yang berisi:",
+      "coaList": [
+        "Verifikasi kemurnian oleh HPLC",
+        "Konfirmasi spektrometri massa",
+        "Penampilan dan karakteristik fisik",
+        "Analisis kadar air",
+        "Nomor lot dan tanggal produksi"
+      ],
+      "commitmentTitle": "Komitmen Kualitas",
+      "commitmentText": "Kami berdiri di belakang kualitas produk kami. Jika Anda memiliki kekhawatiran tentang kualitas atau dokumentasi produk, silakan hubungi kami segera. Kami berkomitmen untuk memastikan kepuasan pelanggan sepenuhnya."
+    },
+    "privacy": {
+      "subtitle": "Bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi Anda.",
+      "updated": "Pembaruan terakhir: Mei 2026",
+      "sections": [
+        { "title": "Informasi yang Kami Kumpulkan", "body": "Kami mengumpulkan informasi yang Anda berikan langsung kepada kami, seperti saat Anda membuat akun, melakukan pemesanan, berlangganan buletin, atau menghubungi kami untuk dukungan. Ini dapat mencakup nama, email, nomor telepon, nama perusahaan, alamat penagihan, dan alamat pengiriman Anda." },
+        { "title": "Bagaimana Kami Menggunakan Informasi Anda", "body": "Kami menggunakan informasi yang dikumpulkan untuk memproses dan memenuhi pesanan, berkomunikasi dengan Anda tentang produk dan layanan, memberikan dukungan pelanggan, dan mengirim komunikasi promosi kepada Anda (dengan persetujuan Anda jika diperlukan)." },
+        { "title": "Berbagi Informasi", "body": "Kami tidak menjual, memperdagangkan, atau mentransfer informasi pribadi Anda kepada pihak ketiga tanpa persetujuan Anda, kecuali saat diperlukan untuk menyediakan layanan kami (seperti perusahaan pengiriman dan pemroses pembayaran) atau sesuai ketentuan hukum." },
+        { "title": "Keamanan Data", "body": "Kami menerapkan langkah-langkah keamanan yang tepat untuk melindungi informasi pribadi Anda dari akses, perubahan, pengungkapan, atau penghancuran yang tidak sah. Namun, tidak ada metode transmisi melalui Internet yang 100% aman." },
+        { "title": "Cookie dan Pelacakan", "body": "Kami menggunakan cookie dan teknologi pelacakan serupa untuk meningkatkan pengalaman menjelajah, menganalisis lalu lintas situs, dan memahami dari mana pengunjung berasal. Anda dapat mengontrol cookie melalui pengaturan browser Anda." },
+        { "title": "Hak Anda", "body": "Tergantung pada lokasi Anda, Anda mungkin memiliki hak tertentu atas informasi pribadi Anda, termasuk hak untuk mengakses, mengoreksi, atau menghapus data Anda. Hubungi kami untuk menggunakan hak ini." },
+        { "title": "Kepatuhan GDPR (Pelanggan UE)", "body": "Untuk pelanggan di Uni Eropa, kami mematuhi Peraturan Perlindungan Data Umum (GDPR). Kami memproses data pribadi hanya atas dasar hukum yang sah dan menyediakan hak penuh subjek data." },
+        { "title": "Hubungi Kami", "body": "Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, silakan hubungi kami di privacy@ankhpeptide.com." }
+      ]
+    },
+    "terms": {
+      "subtitle": "Syarat dan ketentuan penggunaan layanan kami.",
+      "updated": "Pembaruan terakhir: Mei 2026",
+      "sections": [
+        { "title": "Penerimaan Ketentuan", "body": "Dengan mengakses atau menggunakan situs web dan layanan kami, Anda setuju untuk terikat dengan Ketentuan Layanan ini. Jika Anda tidak setuju dengan ketentuan ini, mohon jangan gunakan layanan kami." },
+        { "title": "Produk dan Penggunaan yang Dimaksudkan", "body": "Semua produk yang dijual oleh AnkhPeptide hanya untuk tujuan penelitian laboratorium. Produk ini bukan obat, produk medis, atau kosmetik dan tidak dimaksudkan untuk penggunaan manusia, diagnosis, atau pengobatan. Dengan membeli produk kami, Anda menegaskan bahwa Anda adalah peneliti atau profesional yang berkualifikasi." },
+        { "title": "Pesanan dan Pembayaran", "body": "Semua pesanan tergantung pada ketersediaan dan konfirmasi. Harga dapat berubah tanpa pemberitahuan. Kami berhak menolak atau membatalkan pesanan apa pun dengan alasan apa pun. Pembayaran penuh harus diterima sebelum pesanan diproses." },
+        { "title": "Pengiriman dan Transportasi", "body": "Waktu pengiriman hanya perkiraan dan tidak dijamin. Risiko kehilangan dan kepemilikan produk beralih ke pembeli saat diserahkan kepada perusahaan pengiriman. Kami tidak bertanggung jawab atas keterlambatan yang disebabkan oleh bea cukai atau perusahaan pengiriman." },
+        { "title": "Pengembalian dan Refund", "body": "Karena sifat produk kami, kami tidak dapat menerima pengembalian produk yang telah dibuka atau digunakan. Jika Anda menerima produk yang rusak atau cacat, silakan hubungi kami dalam waktu 14 hari untuk mengatur penggantian atau pengembalian dana." },
+        { "title": "Batasan Tanggung Jawab", "body": "AnkhPeptide tidak akan bertanggung jawab atas kerusakan tidak langsung, insidental, khusus, konsekuensial, atau punitif yang timbul dari penggunaan produk atau layanan kami. Total tanggung jawab kami tidak akan melebihi jumlah yang dibayarkan untuk produk terkait." },
+        { "title": "Pernyataan Pengabaian Riset", "body": "AnkhPeptide menyediakan produk hanya untuk tujuan penelitian laboratorium. Perusahaan tidak merekomendasikan, mendukung, atau mendorong penggunaan produk ini untuk aplikasi tertentu apa pun. Pengguna bertanggung jawab untuk memastikan kepatuhan terhadap undang-undang dan peraturan yang berlaku." },
+        { "title": "Kekayaan Intelektual", "body": "Semua konten di situs web ini, termasuk teks, grafik, logo, dan gambar, adalah milik AnkhPeptide dan dilindungi oleh undang-undang kekayaan intelektual." },
+        { "title": "Hukum yang Berlaku", "body": "Ketentuan Layanan ini akan diatur dan ditafsirkan sesuai dengan hukum yang berlaku, tanpa memperhatikan prinsip-prinsip benturan hukum." },
+        { "title": "Perubahan Ketentuan", "body": "Kami berhak untuk memodifikasi ketentuan ini kapan saja. Penggunaan layanan kami secara terus-menerus setelah perubahan merupakan penerimaan ketentuan yang telah dimodifikasi." },
+        { "title": "Informasi Kontak", "body": "Untuk pertanyaan tentang Ketentuan Layanan ini, silakan hubungi kami di legal@ankhpeptide.com." }
+      ]
+    },
+    "disclaimer": {
+      "subtitle": "Informasi penting tentang penggunaan produk kami yang dimaksudkan.",
+      "alertTitle": "Khusus Penelitian",
+      "alertText": "Semua produk yang dijual oleh AnkhPeptide secara ketat hanya untuk tujuan penelitian laboratorium. Produk tidak dimaksudkan untuk penggunaan manusia, konsumsi, atau pemberian.",
+      "sections": [
+        { "title": "Penggunaan Produk yang Dimaksudkan", "body": "Produk yang dipasok oleh AnkhPeptide dirancang khusus untuk penelitian dan eksperimen laboratorium in-vitro. Senyawa ini dimaksudkan untuk digunakan oleh peneliti berkualifikasi, profesional laboratorium, dan saintis dalam lingkungan laboratorium yang terkendali." },
+        { "title": "Bukan untuk Konsumsi Manusia", "body": "Produk kami bukan obat, farmasi, aditif makanan, atau kosmetik. Produk tidak dievaluasi oleh otoritas pengatur mana pun (termasuk FDA, EMA, atau lembaga serupa) untuk keamanan atau kemanjuran pada manusia. Tidak ada produk kami yang boleh ditelan, disuntikkan, atau digunakan dengan cara apa pun yang dapat menyebabkan paparan pada manusia." },
+        { "title": "Persyaratan Kualifikasi", "body": "Dengan membeli dari situs web kami, Anda menegaskan dan menjamin bahwa Anda:" },
+        { "title": "Tanggung Jawab", "body": "AnkhPeptide tidak akan bertanggung jawab atas segala penyalahgunaan produk kami. Pengguna memikul tanggung jawab penuh untuk memastikan produk digunakan sesuai dengan semua undang-undang, peraturan, dan pedoman keselamatan yang berlaku." },
+        { "title": "Verifikasi Pengujian Pihak Ketiga", "body": "Meskipun kami menyediakan Sertifikat Analisis pihak ketiga yang mengonfirmasi tingkat kemurnian, verifikasi ini dilakukan hanya untuk tujuan dokumentasi penelitian dan bukan merupakan persetujuan untuk penggunaan manusia." },
+        { "title": "Perubahan Pernyataan Ini", "body": "Kami berhak untuk memodifikasi pernyataan ini kapan saja. Penggunaan situs web dan layanan kami secara terus-menerus setelah perubahan merupakan penerimaan ketentuan yang telah dimodifikasi." }
+      ],
+      "qualificationList": [
+        "Peneliti atau profesional laboratorium yang berkualifikasi",
+        "Bekerja di institusi penelitian atau pendidikan yang sesuai",
+        "Menggunakan produk sesuai dengan semua undang-undang dan peraturan yang berlaku",
+        "Mengikuti protokol keselamatan laboratorium yang sesuai"
+      ],
+      "ctaText": "Jika Anda memiliki pertanyaan tentang pernyataan ini, silakan hubungi kami sebelum melakukan pembelian.",
+      "contact": "Hubungi Kami"
+    }
+  }
+}

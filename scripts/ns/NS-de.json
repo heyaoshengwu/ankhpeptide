@@ -1,0 +1,105 @@
+{
+  "pages": {
+    "faq": {
+      "subtitle": "Häufig gestellte Fragen zu unseren Produkten und Dienstleistungen.",
+      "items": [
+        { "q": "Wozu dienen Ihre Produkte?", "a": "Alle unsere Produkte dienen ausschließlich Laborforschungszwecken. Sie sind für In-vitro-Forschung, biochemische Experimente und wissenschaftliche Untersuchungen bestimmt. Keines unserer Produkte ist für die Verwendung, den Verzehr oder klinische Anwendungen durch Menschen bestimmt." },
+        { "q": "Wie lagere ich Peptide?", "a": "Die meisten Peptide sollten bei -20°C oder darunter im Gefrierschrank gelagert werden. Nach der Rekonstitution sollten Peptide in der Regel bei 4°C gelagert und innerhalb des empfohlenen Zeitrahmens verwendet werden. Beachten Sie stets die produktspezifische Dokumentation für Lagerungshinweise." },
+        { "q": "Wie hoch ist Ihre Mindestbestellmenge?", "a": "Wir bieten flexible Bestellungen ohne strenge Mindestbestellmenge für die meisten Produkte an. Mengenrabatte beginnen jedoch bei Bestellungen ab 10 Einheiten pro Produkt. Kontaktieren Sie unser Vertriebsteam für spezifische Anforderungen." },
+        { "q": "Liefern Sie international?", "a": "Ja, wir liefern in über 50 Länder weltweit. Versandkosten und Lieferzeiten variieren je nach Zielort. Wir nutzen zuverlässige Kurierdienste und können für temperaturempfindliche Verbindungen eine Sonderbehandlung organisieren." },
+        { "q": "Wie kann ich die Produktreinheit überprüfen?", "a": "Jede Charge wird mit einem Analysezertifikat (COA) von Drittlaboren geliefert, das die Reinheitsgrade bestätigt. Die COAs umfassen HPLC- und Massenspektrometrie-Ergebnisse. Sie können COAs von unserer Seite mit Testergebnissen herunterladen." },
+        { "q": "Welche Zahlungsmethoden akzeptieren Sie?", "a": "Wir akzeptieren verschiedene Zahlungsmethoden, darunter Überweisung, Kreditkarte (wo verfügbar) und Kryptowährung (für ausgewählte Bestellungen). Kontaktieren Sie uns für Zahlungsoptionen, die für Ihre Region geeignet sind." },
+        { "q": "Sind Ihre Produkte GMP-zertifiziert?", "a": "Unsere Fertigungspartner arbeiten unter ISO-zertifizierten Qualitätsmanagementsystemen. Wir können auf Anfrage für bestimmte Produkte Dokumentation zu Fertigungsstandards bereitstellen." },
+        { "q": "Kann ich individuelle Peptide bestellen?", "a": "Ja, wir bieten kundenspezifische Peptidsynthese an. Wir können Sequenzen von 5 bis über 100 Aminosäuren mit verschiedenen Modifikationen herstellen. Kontaktieren Sie unser Team mit Ihren Anforderungen für ein Angebot und einen Zeitplan." }
+      ],
+      "ctaText": "Haben Sie noch Fragen? Unser Team hilft Ihnen gerne.",
+      "contact": "Kontakt"
+    },
+    "shipping": {
+      "subtitle": "Informationen zu unseren Versandmethoden, Zielen und Lieferzeiten.",
+      "cards": [
+        { "title": "Versandziele", "description": "Wir liefern in alle EU-Länder und weltweite Ziele, einschließlich Nordamerika, Asien, Australien und Südamerika. Der Versand ist in über 50 Länder möglich." },
+        { "title": "Lieferzeiten", "description": "EU-Lieferung: 3-7 Werktage. Internationale Lieferung: 7-14 Werktage. Expressversand für eilige Bestellungen verfügbar." },
+        { "title": "Verpackung", "description": "Alle Sendungen werden sorgfältig mit ausreichendem Schutz verpackt. Temperaturempfindliche Verbindungen werden mit Kühlkettenmaterial versandt, um die Stabilität zu gewährleisten." },
+        { "title": "Kühlkettenlogistik", "description": "Für empfindliche Peptide und Verbindungen verwenden wir Kühlkettenversandmethoden, einschließlich Gelpacks und Isolierverpackungen, um während des Transports eine optimale Temperatur aufrechtzuerhalten." }
+      ],
+      "costsTitle": "Versandkosten",
+      "costsText1": "Die Versandkosten werden basierend auf Zielort, Gewicht und erforderlicher Kühlkettenbehandlung berechnet. Die endgültigen Versandkosten werden vor der Bestellbestätigung beim Checkout angezeigt.",
+      "costsText2": "Für Großbestellungen oder besondere Versandanforderungen kontaktieren Sie bitte unser Team für ein individuelles Angebot.",
+      "processingTitle": "Auftragsabwicklung",
+      "processingText": "Bestellungen werden in der Regel innerhalb von 1-2 Werktagen bearbeitet und versandt. Sie erhalten die Sendungsverfolgung per E-Mail, sobald Ihre Bestellung verschickt wurde."
+    },
+    "quality": {
+      "subtitle": "Unser Engagement für Qualitätssicherung und Produktverifikation.",
+      "points": [
+        { "title": "ISO-zertifizierte Fertigung", "description": "Unsere Fertigungspartner arbeiten unter ISO-zertifizierten Qualitätsmanagementsystemen und gewährleisten gleichbleibende Qualität und die Einhaltung internationaler Standards." },
+        { "title": "Drittparteien-Tests", "description": "Jede Charge wird in unabhängigen akkreditierten Laboren strengen Tests unterzogen. Für die Reinheitsprüfung verwenden wir HPLC (Hochleistungsflüssigkeitschromatographie) und Massenspektrometrie." },
+        { "title": "Volle Rückverfolgbarkeit", "description": "Vollständige Dokumentation von der Rohstoffbeschaffung über die Fertigung bis zur Freigabe des Endprodukts. Jede Charge kann bis zu ihren Ausgangsmaterialien zurückverfolgt werden." },
+        { "title": "99%+ Reinheitsstandard", "description": "Wir garantieren eine Mindestreinheit von 99 % für alle unsere Peptidprodukte, verifiziert durch Drittlaboranalysen und dokumentiert in Analysezertifikaten." }
+      ],
+      "coaTitle": "Analysezertifikat",
+      "coaIntro": "Jede Produktcharge enthält ein umfassendes Analysezertifikat (COA) mit:",
+      "coaList": [
+        "Reinheitsverifizierung mittels HPLC",
+        "Bestätigung durch Massenspektrometrie",
+        "Aussehen und physikalische Eigenschaften",
+        "Analyse des Wassergehalts",
+        "Chargennummer und Herstellungsdatum"
+      ],
+      "commitmentTitle": "Qualitätsversprechen",
+      "commitmentText": "Wir stehen hinter der Qualität unserer Produkte. Wenn Sie Bedenken bezüglich der Qualität oder Dokumentation eines Produkts haben, kontaktieren Sie uns bitte sofort. Wir sind bestrebt, die vollständige Kundenzufriedenheit sicherzustellen."
+    },
+    "privacy": {
+      "subtitle": "Wie wir Ihre Informationen sammeln, verwenden und schützen.",
+      "updated": "Zuletzt aktualisiert: Mai 2026",
+      "sections": [
+        { "title": "Gesammelte Informationen", "body": "Wir erfassen Informationen, die Sie uns direkt zur Verfügung stellen, z. B. wenn Sie ein Konto erstellen, eine Bestellung aufgeben, unseren Newsletter abonnieren oder uns um Unterstützung bitten. Dies kann Ihren Namen, E-Mail-Adresse, Telefonnummer, Firmenname, Rechnungsadresse und Versandadresse umfassen." },
+        { "title": "Wie wir Ihre Informationen verwenden", "body": "Wir verwenden die gesammelten Informationen zur Bearbeitung und Abwicklung von Bestellungen, zur Kommunikation über Produkte und Dienstleistungen, zur Bereitstellung von Kundensupport und zum Versand von Werbemitteilungen (mit Ihrer Zustimmung, wo erforderlich)." },
+        { "title": "Weitergabe von Informationen", "body": "Wir verkaufen, handeln oder übertragen Ihre persönlichen Daten nicht ohne Ihre Zustimmung an Dritte, außer soweit dies zur Bereitstellung unserer Dienste (z. B. Versanddienstleister und Zahlungsabwickler) erforderlich oder gesetzlich vorgeschrieben ist." },
+        { "title": "Datensicherheit", "body": "Wir implementieren angemessene Sicherheitsmaßnahmen, um Ihre persönlichen Daten vor unbefugtem Zugriff, Änderung, Offenlegung oder Zerstörung zu schützen. Allerdings ist keine Übertragungsmethode über das Internet zu 100 % sicher." },
+        { "title": "Cookies und Tracking", "body": "Wir verwenden Cookies und ähnliche Tracking-Technologien, um Ihr Surferlebnis zu verbessern, den Website-Verkehr zu analysieren und zu verstehen, woher Besucher kommen. Sie können Cookies über Ihre Browsereinstellungen steuern." },
+        { "title": "Ihre Rechte", "body": "Je nach Standort können Sie bestimmte Rechte in Bezug auf Ihre persönlichen Daten haben, einschließlich des Rechts auf Zugriff, Berichtigung oder Löschung Ihrer Daten. Kontaktieren Sie uns, um diese Rechte auszuüben." },
+        { "title": "DSGVO-Konformität (EU-Kunden)", "body": "Für Kunden in der Europäischen Union entsprechen wir der Datenschutz-Grundverordnung (DSGVO). Wir verarbeiten personenbezogene Daten nur auf rechtmäßiger Grundlage und gewähren vollständige Betroffenenrechte." },
+        { "title": "Kontakt", "body": "Wenn Sie Fragen zu dieser Datenschutzrichtlinie haben, kontaktieren Sie uns bitte unter privacy@ankhpeptide.com." }
+      ]
+    },
+    "terms": {
+      "subtitle": "Allgemeine Geschäftsbedingungen für die Nutzung unserer Dienste.",
+      "updated": "Zuletzt aktualisiert: Mai 2026",
+      "sections": [
+        { "title": "Zustimmung zu den Bedingungen", "body": "Mit dem Zugriff auf oder der Nutzung unserer Website und Dienste erklären Sie sich mit diesen Geschäftsbedingungen einverstanden. Wenn Sie diesen Bedingungen nicht zustimmen, nutzen Sie unsere Dienste bitte nicht." },
+        { "title": "Produkte und Verwendungszweck", "body": "Alle von AnkhPeptide verkauften Produkte sind ausschließlich für Laborforschungszwecke bestimmt. Diese Produkte sind keine Arzneimittel, Medikamente oder Kosmetika und nicht für den menschlichen Gebrauch, Diagnose oder Behandlung bestimmt. Durch den Kauf unserer Produkte bestätigen Sie, dass Sie ein qualifizierter Forscher oder Fachmann sind." },
+        { "title": "Bestellungen und Zahlung", "body": "Alle Bestellungen unterliegen der Verfügbarkeit und Bestätigung. Preise können ohne Vorankündigung geändert werden. Wir behalten uns das Recht vor, jede Bestellung aus beliebigem Grund abzulehnen oder zu stornieren. Die Zahlung muss vor der Auftragsabwicklung vollständig eingegangen sein." },
+        { "title": "Versand und Lieferung", "body": "Versandzeiten sind nur Schätzungen und nicht garantiert. Das Verlustrisiko und das Eigentum an Produkten gehen bei Übergabe an den Versanddienstleister auf den Käufer über. Wir sind nicht für Verzögerungen durch Zoll oder Versanddienstleister verantwortlich." },
+        { "title": "Rückgaben und Rückerstattungen", "body": "Aufgrund der Natur unserer Produkte können wir Rückgaben geöffneter oder gebrauchter Produkte nicht akzeptieren. Wenn Sie ein beschädigtes oder defektes Produkt erhalten, kontaktieren Sie uns bitte innerhalb von 14 Tagen, um einen Ersatz oder eine Rückerstattung zu arrangieren." },
+        { "title": "Haftungsbeschränkung", "body": "AnkhPeptide haftet nicht für indirekte, zufällige, besondere, Folge- oder Strafschäden, die aus der Nutzung unserer Produkte oder Dienstleistungen entstehen. Unsere Gesamthaftung übersteigt nicht den für das betreffende Produkt gezahlten Betrag." },
+        { "title": "Forschungshaftungsausschluss", "body": "AnkhPeptide stellt Produkte ausschließlich für Laborforschungszwecke bereit. Das Unternehmen empfiehlt, unterstützt oder fördert die Verwendung dieser Produkte für keine spezifische Anwendung. Die Benutzer sind für die Einhaltung geltender Gesetze und Vorschriften verantwortlich." },
+        { "title": "Geistiges Eigentum", "body": "Alle Inhalte dieser Website, einschließlich Text, Grafiken, Logos und Bilder, sind Eigentum von AnkhPeptide und durch Gesetze zum geistigen Eigentum geschützt." },
+        { "title": "Anwendbares Recht", "body": "Diese Geschäftsbedingungen unterliegen den anwendbaren Gesetzen und werden entsprechend ausgelegt, ohne Berücksichtigung von Kollisionsnormen." },
+        { "title": "Änderungen der Bedingungen", "body": "Wir behalten uns das Recht vor, diese Bedingungen jederzeit zu ändern. Die fortgesetzte Nutzung unserer Dienste nach Änderungen stellt die Annahme der geänderten Bedingungen dar." },
+        { "title": "Kontaktinformationen", "body": "Für Fragen zu diesen Geschäftsbedingungen kontaktieren Sie uns bitte unter legal@ankhpeptide.com." }
+      ]
+    },
+    "disclaimer": {
+      "subtitle": "Wichtige Informationen zum beabsichtigten Verwendungszweck unserer Produkte.",
+      "alertTitle": "Nur zu Forschungszwecken",
+      "alertText": "Alle von AnkhPeptide verkauften Produkte dienen streng ausschließlich Laborforschungszwecken. Sie sind nicht für menschliche Verwendung, Verzehr oder Verabreichung bestimmt.",
+      "sections": [
+        { "title": "Produktverwendungszweck", "body": "Die von AnkhPeptide gelieferten Produkte sind ausschließlich für In-vitro-Laborforschung und Experimente konzipiert. Diese Verbindungen sind für die Verwendung durch qualifizierte Forscher, Laborfachleute und wissenschaftliche Untersucher in kontrollierten Laborumgebungen bestimmt." },
+        { "title": "Nicht für den menschlichen Verzehr", "body": "Unsere Produkte sind keine Arzneimittel, Pharmazeutika, Lebensmittelzusatzstoffe oder Kosmetika. Sie wurden von keiner Regulierungsbehörde (einschließlich FDA, EMA oder ähnlicher Agenturen) auf Sicherheit oder Wirksamkeit beim Menschen bewertet. Keines unserer Produkte darf geschluckt, injiziert oder auf eine Weise verwendet werden, die zu menschlicher Exposition führen könnte." },
+        { "title": "Qualifikationsanforderungen", "body": "Durch den Kauf auf unserer Website bestätigen und gewährleisten Sie, dass Sie:" },
+        { "title": "Haftung", "body": "AnkhPeptide ist nicht für den Missbrauch unserer Produkte verantwortlich. Die Benutzer tragen die volle Verantwortung dafür, dass Produkte gemäß allen geltenden Gesetzen, Vorschriften und Sicherheitsrichtlinien verwendet werden." },
+        { "title": "Verifizierung durch Drittanbieter-Tests", "body": "Obwohl wir Analysezertifikate von Dritten bereitstellen, die die Reinheitsgrade bestätigen, dienen diese Verifizierungen nur Forschungsdokumentationszwecken und stellen keine Zulassung für die Verwendung am Menschen dar." },
+        { "title": "Änderungen dieses Haftungsausschlusses", "body": "Wir behalten uns das Recht vor, diesen Haftungsausschluss jederzeit zu ändern. Die fortgesetzte Nutzung unserer Website und Dienste nach Änderungen stellt die Annahme der geänderten Bedingungen dar." }
+      ],
+      "qualificationList": [
+        "Qualifizierter Forscher oder Laborfachmann",
+        "Tätigkeit in einer angemessenen Forschungs- oder Bildungseinrichtung",
+        "Verwendung von Produkten unter Einhaltung aller geltenden Gesetze und Vorschriften",
+        "Befolgung ordnungsgemäßer Laborsicherheitsprotokolle"
+      ],
+      "ctaText": "Wenn Sie Fragen zu diesem Haftungsausschluss haben, kontaktieren Sie uns bitte vor einem Kauf.",
+      "contact": "Kontakt"
+    }
+  }
+}

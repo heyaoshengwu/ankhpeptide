@@ -1,0 +1,248 @@
+{
+  "nav": {
+    "products": "제품",
+    "testResults": "검성 결과",
+    "about": "회사 소개",
+    "b2b": "기업 구매",
+    "contact": "문의"
+  },
+  "language": {
+    "select": "언어 선택"
+  },
+  "hero": {
+    "title": "연구용 펩타이드 공급업체",
+    "subtitle": "초고순도 연구용 펩타이드 및 실험실 화합물. 제3자 검사 99%+ 순도. EU 및 전 세계 배송.",
+    "viewProducts": "제품 보기",
+    "getQuote": "견적 요청",
+    "disclaimer": "연구실 전용. 인체 사용 금지."
+  },
+  "features": {
+    "highPurity": {
+      "title": "99%+ 순도 검증",
+      "description": "모든 배치는 HPLC 및 질량 분석을 통한 제3자 검사를 거칩니다. 모든 제품의 검사 인증서를 제공합니다."
+    },
+    "globalShipping": {
+      "title": "전 세계 배송",
+      "description": "EU 및 전 세계 목적지로 빠르고 신뢰할 수 있는 배송. 민감한 화합물을 위한 냉장 보관 물류."
+    },
+    "qualityAssurance": {
+      "title": "품질 보증",
+      "description": "ISO 인증 제조. 원재료에서 완제품까지 완전한 추적 가능성. 품질 보고서 제공."
+    }
+  },
+  "product": {
+    "categories": {
+      "title": "제품 카테고리",
+      "peptides": "펩타이드",
+      "glp1": "GLP-1 유사체",
+      "sarms": "SARMs",
+      "bioregulators": "생체조절제",
+      "nootropics": "노otropics",
+      "ghAnalogs": "성장호르몬 유사체",
+      "myostatin": "미오스타틴 억제제",
+      "gonadotropins": "성선자극호르몬",
+      "injectables": "주사제",
+      "nasal": "비강 스프레이",
+      "pellets": "펠릿",
+      "researchSupplies": "연구 용품"
+    },
+    "catalog": {
+      "title": "제품 카탈로그",
+      "subtitle": "당사의 종합 연구용 펩타이드 및 화합물 범위 탐색"
+    },
+    "filters": "필터",
+    "search": "검색",
+    "searchPlaceholder": "제품 검색...",
+    "application": "용도",
+    "purity": "순도",
+    "noProducts": "사용 가능한 제품이 없습니다.",
+    "specifications": "사양",
+    "technicalDocuments": "기술 문서",
+    "literature": "문헌",
+    "productNotFound": "제품을 찾을 수 없습니다",
+    "productNotFoundDesc": "찾고 계신 제품이 존재하지 않습니다.",
+    "moleculeHint": "대화형 3D 구조 - 드래그로 회전, 스크롤로 확대"
+  },
+  "testResults": {
+    "title": "검성 결과",
+    "subtitle": "모든 제품의 제3자 실험실 보고서 보기",
+    "download": "COA 다운로드",
+    "badgeVerified": "제3자 검증 완료",
+    "badgeHplc": "HPLC 및 질량 분석",
+    "badgePurity": "99% 이상 순도 기준",
+    "purity": "순도",
+    "processTitle": "우리의 검증 프로세스",
+    "proc1": {
+      "title": "샘플 수집",
+      "desc": "각 배치는 출하 전에 ISO 인증 제조 시설에서 샘플링됩니다."
+    },
+    "proc2": {
+      "title": "제3자 실험실 검사",
+      "desc": "샘플은 HPLC 및 질량 분석을 위해 독립 인증 실험실로 보내집니다."
+    },
+    "proc3": {
+      "title": "성적서 발급",
+      "desc": "검증된 결과는 다운로드 가능한 분석 성적서로 정리됩니다."
+    },
+    "ctaTitle": "맞춤 검사가 필요하신가요?",
+    "ctaDesc": "특정 요구사항에 맞춰 맞춤형 제3자 검사를 주선하거나 규제 준수를 위한 추가 문서를 제공할 수 있습니다.",
+    "contactUs": "문의"
+  },
+  "about": {
+    "title": "회사 소개",
+    "content": "AnkhPeptide는 초고순도 연구용 펩타이드 및 실험실 화합물의 선도적 공급업체입니다. 체외 연구 응용을 위해 전 세계 연구자, 실험실 및 제약 회사에 고품질 펩타이드를 제공합니다.",
+    "mission": "당사의 사명은 경쟁력 있는 가격으로 고순도 펩타이드 화합물에 대한 안정적인 접근을 연구자에게 제공하는 것입니다.",
+    "missionTitle": "우리의 사명",
+    "stats": {
+      "purity": "순도 검증 완료",
+      "countries": "배송 국가 수",
+      "products": "제품",
+      "response": "응답 시간"
+    },
+    "forResearchers": "연구자용",
+    "forResearchersDesc": "체외 연구용 고순도 펩타이드 화합물에 대한 안정적인 접근을 제공하여 과학 발전을 돕습니다.",
+    "forLaboratories": "실험실용",
+    "forLaboratoriesDesc": "일관된 품질과 포괄적인 문서로 실험실 워크플로우와 규제 준수 요구를 지원합니다.",
+    "whyTitle": "AnkhPeptide를 선택해야 하는 이유",
+    "valQA": {
+      "title": "품질 보증",
+      "desc": "모든 배치는 출하 전에 HPLC 및 질량 분석을 통한 엄격한 제3자 검사를 거칩니다."
+    },
+    "valISO": {
+      "title": "ISO 표준",
+      "desc": "제조 파트너는 ISO 인증 품질 관리 시스템을 통해 운영되며 일관성을 보장합니다."
+    },
+    "valGlobal": {
+      "title": "글로벌 도달 범위",
+      "desc": "전 세계 50개 이상 국가의 연구자, 실험실, 제약 회사에 안정적인 배송을 제공합니다."
+    },
+    "valService": {
+      "title": "믿을 수 있는 서비스",
+      "desc": "전담 지원 팀이 제품 문의와 기술 질문에 신속한 지원을 제공합니다."
+    },
+    "processTitle": "우리의 품질 프로세스",
+    "proc1": {
+      "title": "원자재 검증",
+      "desc": "모든 입고 원자재는 제조에 사용되기 전에 검증되고 문서화됩니다."
+    },
+    "proc2": {
+      "title": "제조 표준",
+      "desc": "펩타이드는 ISO 인증 시설에서 엄격한 품질 관리 조건으로 합성됩니다."
+    },
+    "proc3": {
+      "title": "제3자 검사",
+      "desc": "모든 배치는 HPLC 및 질량 분석을 통한 순도 검증을 위해 독립 인증 실험실로 보내집니다."
+    },
+    "proc4": {
+      "title": "분석 성적서",
+      "desc": "각 출시 제품에는 시험 결과 페이지에서 다운로드할 수 있는 포괄적인 분석 성적서가 포함됩니다."
+    },
+    "ctaTitle": "시작할 준비가 되셨나요?",
+    "ctaDesc": "연구용 펩타이드의 포괄적인 카탈로그를 둘러보거나 대량 가격 및 맞춤 합성 문의는 팀에 연락하세요.",
+    "contactUs": "문의"
+  },
+  "b2b": {
+    "title": "기업 파트너십",
+    "subtitle": "연구 기관 및 제약 회사를 위한 대량 주문 및 맞춤 합성",
+    "contact": "대량 가격 문의",
+    "servicesTitle": "B2B 서비스",
+    "svBulk": {
+      "title": "대량 주문",
+      "desc": "대량 주문에 경쟁력 있는 가격을 제공하며, 제품당 10개 이상부터 볼륨 할인이 적용됩니다."
+    },
+    "svCustom": {
+      "title": "맞춤 합성",
+      "desc": "5개에서 100개 이상의 아미노산으로 구성된 맞춤 펩타이드 서열과 스테이플 펩타이드, 고리형 구조 등 다양한 변형을 지원합니다."
+    },
+    "svChain": {
+      "title": "안정적인 공급망",
+      "desc": "보장된 재고와 함께 일관된 공급을 제공합니다. 장기 파트너에게는 우선 생산을 지원합니다."
+    },
+    "svPartner": {
+      "title": "B2B 파트너십",
+      "desc": "연구 기관, 제약 회사, 계약 연구 기관을 위한 맞춤형 솔루션을 제공합니다."
+    },
+    "benefitsTitle": "파트너십 혜택",
+    "ben0": "수량 기반 가격 등급",
+    "ben1": "전담 계정 관리",
+    "ben2": "우선 생산 일정",
+    "ben3": "자격을 갖춘 계정에 유연한 결제 조건",
+    "ben4": "맞춤 라벨링 및 포장 옵션",
+    "ben5": "기술 문서 지원",
+    "ben6": "규제 준수 지원",
+    "customTitle": "맞춤 요구사항이 있으신가요?",
+    "customDesc": "특정 펩타이드 서열, 순도 수준, 포장 구성을 아우르는 맞춤 요청도 접수합니다.",
+    "contactQuote": "맞춤 견적 문의",
+    "serveTitle": "서비스를 제공하는 대상",
+    "serveDesc": "저희 B2B 솔루션은 다양한 연구 기관과 제약 기업의 요구를 충족하도록 설계되었습니다.",
+    "mktInstitutions": {
+      "title": "연구 기관",
+      "desc": "체외(in-vitro) 연구를 수행하는 대학, 대학원 및 독립 연구소."
+    },
+    "mktPharma": {
+      "title": "제약 회사",
+      "desc": "전임상 연구를 위해 고순도 화합물이 필요한 신약 개발 팀."
+    },
+    "mktCRO": {
+      "title": "임상시험수탁기관(CRO)",
+      "desc": "고객 연구 프로젝트를 위해 신뢰할 수 있는 펩타이드 공급업체가 필요한 CRO."
+    },
+    "ctaDesc": "저희 B2B 팀이 요구사항 논의, 맞춤 견적 제공, 파트너십 기회 모색을 위해 준비되어 있습니다.",
+    "getInTouch": "문의하기",
+    "browseCatalog": "카탈로그 보기"
+  },
+  "contact": {
+    "title": "문의",
+    "subtitle": "제품 문의, 대량 주문 또는 기술 지원을 위해 문의하세요",
+    "lead": "제품 문의, 기술 지원 또는 파트너십 문의는 저희 팀에 연락해 주세요.",
+    "sendInquiry": "문의 보내기",
+    "info": "연락처 정보",
+    "email": "이메일",
+    "phone": "전화",
+    "address": "주소",
+    "responseTime": "응답 시간",
+    "responseText": "영업일 기준 24시간 이내에 모든 문의에 응답해 드립니다.",
+    "bulkOrders": "대량 주문",
+    "bulkText": "대량 주문 또는 맞춤 펩타이드 합성을 원하시면 문의에 수량과 일정을 명시해 주세요. 저희 팀이 12시간 이내에 상세 견적을 제공합니다."
+  },
+  "footer": {
+    "products": "제품",
+    "company": "회사",
+    "support": "지원",
+    "legal": "법률 정보",
+    "allProducts": "모든 제품",
+    "testResults": "검성 결과",
+    "about": "회사 소개",
+    "b2b": "기업 구매",
+    "contact": "문의",
+    "faq": "자주 묻는 질문",
+    "shipping": "배송 정보",
+    "quality": "품질 보증",
+    "privacy": "개인정보 처리방침",
+    "terms": "이용약관",
+    "disclaimer": "연구용으로만 사용. 인체 섭취 금지.",
+    "copyright": "모든 권리 보유."
+  },
+  "form": {
+    "contactName": "연락처 이름",
+    "email": "이메일",
+    "companyName": "회사 이름",
+    "phone": "전화",
+    "country": "국가/지역",
+    "product": "관심 제품",
+    "quantity": "수량",
+    "message": "메시지",
+    "submit": "문의 제출",
+    "submitting": "제출 중...",
+    "success": "문의해 주셔서 감사합니다. 24시간 이내에 답변드리겠습니다.",
+    "error": "문의 제출 중 오류가 발생했습니다. 다시 시도해 주세요.",
+    "errName": "연락처 이름을 입력해 주세요",
+    "errEmail": "유효한 이메일을 입력해 주세요",
+    "errCompany": "회사 이름을 입력해 주세요",
+    "errMessage": "메시지는 최소 10자 이상 입력해 주세요"
+  },
+  "meta": {
+    "title": "AnkhPeptide - 연구용 펩타이드 공급업체",
+    "description": "초고순도 연구용 펩타이드 및 실험실 화합물. 제3자 검사 99%+ 순도. EU 및 전 세계 배송."
+  }
+}

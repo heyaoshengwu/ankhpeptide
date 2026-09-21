@@ -1,0 +1,248 @@
+{
+  "nav": {
+    "products": "Produits",
+    "testResults": "Résultats",
+    "about": "À propos",
+    "b2b": "B2B",
+    "contact": "Contact"
+  },
+  "language": {
+    "select": "Choisir la langue"
+  },
+  "hero": {
+    "title": "Fournisseur de peptides de recherche",
+    "subtitle": "Peptides de recherche ultra-purs et composés de laboratoire pour la recherche in-vitro. Testés par des tiers à 99%+ de pureté. Expédition UE et mondiale.",
+    "viewProducts": "Voir les produits",
+    "getQuote": "Demander un devis",
+    "disclaimer": "Pour la recherche en laboratoire uniquement. Pas pour un usage humain."
+  },
+  "features": {
+    "highPurity": {
+      "title": "Pureté 99%+ vérifiée",
+      "description": "Chaque lot est testé par des tiers avec vérification HPLC et spectrométrie de masse. Certificats disponibles pour tous les produits."
+    },
+    "globalShipping": {
+      "title": "Expédition mondiale",
+      "description": "Expédition rapide et fiable vers l'UE et les destinations mondiales. Logistique en chaîne du froid pour les composés sensibles."
+    },
+    "qualityAssurance": {
+      "title": "Assurance qualité",
+      "description": "Fabrication certifiée ISO. Traçabilité complète des matières premières au produit final. Rapports de qualité inclus."
+    }
+  },
+  "product": {
+    "categories": {
+      "title": "Catégories de produits",
+      "peptides": "Peptides",
+      "glp1": "Analogue GLP-1",
+      "sarms": "SARMs",
+      "bioregulators": "Biorégulateurs",
+      "nootropics": "Nootropiques",
+      "ghAnalogs": "Analogue GH & Sécatagogues",
+      "myostatin": "Inhibiteurs de la myostatine",
+      "gonadotropins": "Gonadotrophines",
+      "injectables": "Injectables",
+      "nasal": "Sprays nasaux",
+      "pellets": "Granulés & Pilules",
+      "researchSupplies": "Fournitures de recherche"
+    },
+    "catalog": {
+      "title": "Catalogue produits",
+      "subtitle": "Parcourez notre gamme complète de peptides et composés de recherche"
+    },
+    "filters": "Filtres",
+    "search": "Rechercher",
+    "searchPlaceholder": "Rechercher des produits...",
+    "application": "Application",
+    "purity": "Pureté",
+    "noProducts": "Aucun produit disponible.",
+    "specifications": "Spécifications",
+    "technicalDocuments": "Documents techniques",
+    "literature": "Littérature",
+    "productNotFound": "Produit introuvable",
+    "productNotFoundDesc": "Le produit recherché n'existe pas.",
+    "moleculeHint": "Structure 3D interactive - faites glisser pour pivoter, faites défiler pour zoomer"
+  },
+  "testResults": {
+    "title": "Résultats des tests",
+    "subtitle": "Voir les rapports de laboratoire tiers pour tous nos produits",
+    "download": "Télécharger COA",
+    "badgeVerified": "Vérifié par un tiers",
+    "badgeHplc": "HPLC et spectrométrie de masse",
+    "badgePurity": "Standard de pureté 99 %+",
+    "purity": "Pureté",
+    "processTitle": "Notre processus de vérification",
+    "proc1": {
+      "title": "Collecte d'échantillons",
+      "desc": "Chaque lot est échantillonné dans notre installation de fabrication certifiée ISO avant sa sortie."
+    },
+    "proc2": {
+      "title": "Tests de laboratoire par un tiers",
+      "desc": "Les échantillons sont envoyés à des laboratoires indépendants accrédités pour analyse par HPLC et spectrométrie de masse."
+    },
+    "proc3": {
+      "title": "Émission du certificat",
+      "desc": "Les résultats vérifiés sont compilés dans des certificats d'analyse téléchargeables."
+    },
+    "ctaTitle": "Besoin de tests sur mesure ?",
+    "ctaDesc": "Nous pouvons organiser des tests tiers personnalisés pour des besoins spécifiques ou fournir une documentation supplémentaire pour le respect des réglementations.",
+    "contactUs": "Contact"
+  },
+  "about": {
+    "title": "À propos",
+    "content": "AnkhPeptide est un fournisseur leader de peptides de recherche ultra-purs et de composés de laboratoire. Nous approvisionnons chercheurs, laboratoires et sociétés pharmaceutiques du monde entier avec des peptides de haute qualité pour des applications de recherche in-vitro.",
+    "mission": "Notre mission est de fournir aux chercheurs un accès fiable à des composés peptidiques de haute pureté à des prix compétitifs.",
+    "missionTitle": "Notre mission",
+    "stats": {
+      "purity": "Pureté vérifiée",
+      "countries": "Pays de livraison",
+      "products": "Produits",
+      "response": "Délai de réponse"
+    },
+    "forResearchers": "Pour les chercheurs",
+    "forResearchersDesc": "Nous offrons un accès fiable à des composés peptidiques de haute pureté pour la recherche in vitro, favorisant le progrès scientifique.",
+    "forLaboratories": "Pour les laboratoires",
+    "forLaboratoriesDesc": "Une qualité constante et une documentation complète soutiennent les flux de travail en laboratoire et les exigences réglementaires.",
+    "whyTitle": "Pourquoi choisir AnkhPeptide ?",
+    "valQA": {
+      "title": "Assurance qualité",
+      "desc": "Chaque lot est soumis à des tests tiers rigoureux avec vérification par HPLC et spectrométrie de masse avant sa sortie."
+    },
+    "valISO": {
+      "title": "Normes ISO",
+      "desc": "Nos partenaires de fabrication opèrent sous des systèmes de gestion de la qualité certifiés ISO, garantissant la cohérence."
+    },
+    "valGlobal": {
+      "title": "Portée mondiale",
+      "desc": "Livraison fiable aux chercheurs, laboratoires et entreprises pharmaceutiques dans plus de 50 pays."
+    },
+    "valService": {
+      "title": "Service fiable",
+      "desc": "Une équipe d'assistance dédiée fournit une aide réactive pour les demandes de produits et les questions techniques."
+    },
+    "processTitle": "Notre processus qualité",
+    "proc1": {
+      "title": "Vérification des matières premières",
+      "desc": "Toutes les matières premières entrantes sont vérifiées et documentées avant utilisation en fabrication."
+    },
+    "proc2": {
+      "title": "Normes de fabrication",
+      "desc": "Les peptides sont synthétisés dans des conditions de contrôle qualité strictes dans des installations certifiées ISO."
+    },
+    "proc3": {
+      "title": "Tests par un tiers",
+      "desc": "Chaque lot est envoyé à des laboratoires indépendants accrédités pour la vérification de pureté par HPLC et spectrométrie de masse."
+    },
+    "proc4": {
+      "title": "Certificat d'analyse",
+      "desc": "Chaque sortie est accompagnée d'un certificat d'analyse complet téléchargeable sur notre page de résultats de tests."
+    },
+    "ctaTitle": "Prêt à commencer ?",
+    "ctaDesc": "Parcourez notre catalogue complet de peptides de recherche ou contactez notre équipe pour des prix de gros et des demandes de synthèse sur mesure.",
+    "contactUs": "Contact"
+  },
+  "b2b": {
+    "title": "Partenariats B2B",
+    "subtitle": "Commandes en gros et synthèse personnalisée pour institutions de recherche et sociétés pharmaceutiques",
+    "contact": "Contactez-nous pour les prix de gros",
+    "servicesTitle": "Nos services B2B",
+    "svBulk": {
+      "title": "Commandes en gros",
+      "desc": "Prix compétitifs pour les commandes en grandes quantités. Remises sur volume dès 10+ unités par produit."
+    },
+    "svCustom": {
+      "title": "Synthèse sur mesure",
+      "desc": "Séquences peptidiques sur mesure de 5 à plus de 100 acides aminés avec diverses modifications, y compris les peptides agrafés et les structures cycliques."
+    },
+    "svChain": {
+      "title": "Chaîne d'approvisionnement fiable",
+      "desc": "Approvisionnement constant avec disponibilité du stock garantie. Fabrication prioritaire pour les partenaires de long terme."
+    },
+    "svPartner": {
+      "title": "Partenariats B2B",
+      "desc": "Des solutions sur mesure pour les instituts de recherche, les entreprises pharmaceutiques et les organisations de recherche sous contrat."
+    },
+    "benefitsTitle": "Avantages du partenariat",
+    "ben0": "Grilles de prix selon le volume",
+    "ben1": "Gestion de compte dédiée",
+    "ben2": "Planification de production prioritaire",
+    "ben3": "Conditions de paiement flexibles pour les comptes éligibles",
+    "ben4": "Options d'étiquetage et d'emballage personnalisées",
+    "ben5": "Support documentaire technique",
+    "ben6": "Assistance en conformité réglementaire",
+    "customTitle": "Besoin sur mesure ?",
+    "customDesc": "Nous satisfaisons également les demandes personnalisées concernant des séquences peptidiques, des niveaux de pureté et des configurations d'emballage spécifiques.",
+    "contactQuote": "Contacter pour un devis sur mesure",
+    "serveTitle": "Qui nous servons",
+    "serveDesc": "Nos solutions B2B sont conçues pour répondre aux besoins de diverses organisations de recherche et pharmaceutiques.",
+    "mktInstitutions": {
+      "title": "Instituts de recherche",
+      "desc": "Universités, collèges et laboratoires de recherche indépendants menant des études in vitro."
+    },
+    "mktPharma": {
+      "title": "Entreprises pharmaceutiques",
+      "desc": "Équipes de développement de médicaments nécessitant des composés de haute pureté pour la recherche préclinique."
+    },
+    "mktCRO": {
+      "title": "Organisations de recherche sous contrat",
+      "desc": "CRO ayant besoin de fournisseurs de peptides fiables pour les projets de recherche de leurs clients."
+    },
+    "ctaDesc": "Notre équipe B2B est prête à discuter de vos besoins, fournir des devis personnalisés et explorer des opportunités de partenariat.",
+    "getInTouch": "Contactez-nous",
+    "browseCatalog": "Parcourir le catalogue"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Contactez-nous pour les demandes de produits, les commandes en gros ou le support technique",
+    "lead": "Contactez notre équipe pour toute question sur nos produits, un support technique ou des opportunités de partenariat.",
+    "sendInquiry": "Envoyez-nous votre demande",
+    "info": "Coordonnées",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "address": "Adresse",
+    "responseTime": "Délai de réponse",
+    "responseText": "Nous répondons généralement à toutes les demandes sous 24 heures en jours ouvrés.",
+    "bulkOrders": "Commandes en gros",
+    "bulkText": "Pour les commandes en gros ou les demandes de synthèse de peptides sur mesure, veuillez préciser vos quantités et délais. Notre équipe vous fournira un devis détaillé sous 12 heures."
+  },
+  "footer": {
+    "products": "Produits",
+    "company": "Entreprise",
+    "support": "Support",
+    "legal": "Légal",
+    "allProducts": "Tous les produits",
+    "testResults": "Résultats des tests",
+    "about": "À propos",
+    "b2b": "B2B",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "shipping": "Infos livraison",
+    "quality": "Assurance qualité",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "disclaimer": "Pour recherche uniquement. Pas pour consommation humaine.",
+    "copyright": "Tous droits réservés."
+  },
+  "form": {
+    "contactName": "Nom du contact",
+    "email": "E-mail",
+    "companyName": "Nom de l'entreprise",
+    "phone": "Téléphone",
+    "country": "Pays",
+    "product": "Produit d'intérêt",
+    "quantity": "Quantité",
+    "message": "Message",
+    "submit": "Envoyer la demande",
+    "submitting": "Envoi en cours...",
+    "success": "Merci pour votre demande. Nous vous répondrons sous 24 heures.",
+    "error": "Une erreur est survenue lors de l'envoi de votre demande. Veuillez réessayer.",
+    "errName": "Le nom du contact est requis",
+    "errEmail": "Un e-mail valide est requis",
+    "errCompany": "Le nom de l'entreprise est requis",
+    "errMessage": "Le message doit contenir au moins 10 caractères"
+  },
+  "meta": {
+    "title": "AnkhPeptide - Fournisseur de peptides de recherche",
+    "description": "Peptides de recherche ultra-purs et composés de laboratoire pour la recherche in-vitro. Testés par des tiers à 99%+ de pureté. Expédition UE et mondiale."
+  }
+}

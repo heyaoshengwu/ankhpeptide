@@ -1,0 +1,248 @@
+{
+  "nav": {
+    "products": "Sản phẩm",
+    "testResults": "Kết quả kiểm tra",
+    "about": "Về chúng tôi",
+    "b2b": "B2B",
+    "contact": "Liên hệ"
+  },
+  "language": {
+    "select": "Chọn ngôn ngữ"
+  },
+  "hero": {
+    "title": "Nhà cung cấp Peptide nghiên cứu",
+    "subtitle": "Peptide nghiên cứu siêu tinh khiết và hợp chất phòng thí nghiệm cho nghiên cứu in-vitro. Được kiểm tra bởi bên thứ ba với độ tinh khiết 99%+. Giao hàng EU và toàn thế giới.",
+    "viewProducts": "Xem sản phẩm",
+    "getQuote": "Nhận báo giá",
+    "disclaimer": "Chỉ dùng cho nghiên cứu phòng thí nghiệm. Không dùng cho người."
+  },
+  "features": {
+    "highPurity": {
+      "title": "Độ tinh khiết 99%+ được xác minh",
+      "description": "Mỗi lô được kiểm tra bởi bên thứ ba với xác minh HPLC và phổ khối. Chứng chỉ có sẵn cho tất cả sản phẩm."
+    },
+    "globalShipping": {
+      "title": "Vận chuyển toàn cầu",
+      "description": "Vận chuyển nhanh chóng, đáng tin cậy đến EU và các điểm đến trên toàn thế giới. Hậu cần chuỗi lạnh cho các hợp chất nhạy cảm."
+    },
+    "qualityAssurance": {
+      "title": "Đảm bảo chất lượng",
+      "description": "Sản xuất được chứng nhận ISO. Truy xuất nguồn gốc đầy đủ từ nguyên liệu thô đến sản phẩm cuối cùng. Báo cáo chất lượng được bao gồm."
+    }
+  },
+  "product": {
+    "categories": {
+      "title": "Danh mục sản phẩm",
+      "peptides": "Peptide",
+      "glp1": "Chất tương tự GLP-1",
+      "sarms": "SARMs",
+      "bioregulators": "Chất điều biến sinh học",
+      "nootropics": "Chất tăng cường nhận thức",
+      "ghAnalogs": "Chất tương tự GH",
+      "myostatin": "Chất ức chế myostatin",
+      "gonadotropins": "Gonadotropin",
+      "injectables": "Tiêm",
+      "nasal": "Xịt mũi",
+      "pellets": "Viên nén",
+      "researchSupplies": "Vật tư nghiên cứu"
+    },
+    "catalog": {
+      "title": "Danh mục sản phẩm",
+      "subtitle": "Khám phá các peptide và hợp chất nghiên cứu toàn diện của chúng tôi"
+    },
+    "filters": "Bộ lọc",
+    "search": "Tìm kiếm",
+    "searchPlaceholder": "Tìm kiếm sản phẩm...",
+    "application": "Ứng dụng",
+    "purity": "Độ tinh khiết",
+    "noProducts": "Không có sản phẩm nào.",
+    "specifications": "Thông số kỹ thuật",
+    "technicalDocuments": "Tài liệu kỹ thuật",
+    "literature": "Tài liệu tham khảo",
+    "productNotFound": "Không tìm thấy sản phẩm",
+    "productNotFoundDesc": "Sản phẩm bạn đang tìm không tồn tại.",
+    "moleculeHint": "Cấu trúc 3D tương tác - kéo để xoay, cuộn để phóng to"
+  },
+  "testResults": {
+    "title": "Kết quả kiểm tra",
+    "subtitle": "Xem báo cáo phòng thí nghiệm bên thứ ba cho tất cả sản phẩm",
+    "download": "Tải xuống COA",
+    "badgeVerified": "Được xác minh bởi bên thứ ba",
+    "badgeHplc": "HPLC và phổ khối",
+    "badgePurity": "Tiêu chuẩn độ tinh khiết 99%+",
+    "purity": "Độ tinh khiết",
+    "processTitle": "Quy trình xác minh của chúng tôi",
+    "proc1": {
+      "title": "Lấy mẫu",
+      "desc": "Mỗi lô được lấy mẫu tại cơ sở sản xuất đạt chứng nhận ISO trước khi xuất xưởng."
+    },
+    "proc2": {
+      "title": "Kiểm nghiệm phòng thí nghiệm bên thứ ba",
+      "desc": "Mẫu được gửi đến phòng thí nghiệm độc lập được công nhận để phân tích HPLC và phổ khối."
+    },
+    "proc3": {
+      "title": "Cấp chứng nhận",
+      "desc": "Các kết quả đã xác minh được tổng hợp thành Giấy chứng nhận phân tích để tải xuống."
+    },
+    "ctaTitle": "Cần kiểm nghiệm tùy chỉnh?",
+    "ctaDesc": "Chúng tôi có thể sắp xếp kiểm nghiệm bên thứ ba tùy chỉnh cho các yêu cầu cụ thể hoặc cung cấp tài liệu bổ sung để tuân thủ quy định.",
+    "contactUs": "Liên hệ"
+  },
+  "about": {
+    "title": "Về chúng tôi",
+    "content": "AnkhPeptide là nhà cung cấp hàng đầu về peptide nghiên cứu siêu tinh khiết và hợp chất phòng thí nghiệm. Chúng tôi cung cấp peptide chất lượng cao cho các nhà nghiên cứu, phòng thí nghiệm và công ty dược phẩm trên toàn thế giới cho các ứng dụng nghiên cứu in-vitro.",
+    "mission": "Sứ mệnh của chúng tôi là cung cấp cho các nhà nghiên cứu quyền truy cập đáng tin cậy vào các hợp chất peptide tinh khiết cao với giá cạnh tranh.",
+    "missionTitle": "Sứ mệnh của chúng tôi",
+    "stats": {
+      "purity": "Độ tinh khiết đã xác minh",
+      "countries": "Quốc gia giao hàng",
+      "products": "Sản phẩm",
+      "response": "Thời gian phản hồi"
+    },
+    "forResearchers": "Dành cho nhà nghiên cứu",
+    "forResearchersDesc": "Chúng tôi cung cấp quyền tiếp cận đáng tin cậy các hợp chất peptide siêu tinh khiết cho nghiên cứu in-vitro, thúc đẩy tiến bộ khoa học.",
+    "forLaboratories": "Dành cho phòng thí nghiệm",
+    "forLaboratoriesDesc": "Chất lượng ổn định và tài liệu toàn diện hỗ trợ quy trình vận hành phòng thí nghiệm và các yêu cầu tuân thủ quy định.",
+    "whyTitle": "Tại sao chọn AnkhPeptide?",
+    "valQA": {
+      "title": "Đảm bảo chất lượng",
+      "desc": "Mọi lô hàng đều trải qua kiểm tra bên thứ ba nghiêm ngặt với HPLC và phổ khối trước khi xuất xưởng."
+    },
+    "valISO": {
+      "title": "Tiêu chuẩn ISO",
+      "desc": "Các đối tác sản xuất của chúng tôi vận hành theo hệ thống quản lý chất lượng được chứng nhận ISO, đảm bảo tính nhất quán."
+    },
+    "valGlobal": {
+      "title": "Phạm vi toàn cầu",
+      "desc": "Giao hàng đáng tin cậy đến các nhà nghiên cứu, phòng thí nghiệm và công ty dược tại hơn 50 quốc gia."
+    },
+    "valService": {
+      "title": "Dịch vụ đáng tin cậy",
+      "desc": "Đội ngũ hỗ trợ tận tâm cung cấp hỗ trợ nhanh chóng cho các thắc mắc về sản phẩm và kỹ thuật."
+    },
+    "processTitle": "Quy trình chất lượng của chúng tôi",
+    "proc1": {
+      "title": "Xác minh nguyên liệu thô",
+      "desc": "Mọi nguyên liệu thô nhập vào đều được xác minh và ghi lại trước khi đưa vào sản xuất."
+    },
+    "proc2": {
+      "title": "Tiêu chuẩn sản xuất",
+      "desc": "Peptide được tổng hợp trong điều kiện kiểm soát chất lượng nghiêm ngặt tại các cơ sở đạt chứng nhận ISO."
+    },
+    "proc3": {
+      "title": "Kiểm nghiệm bên thứ ba",
+      "desc": "Mỗi lô được gửi đến các phòng thí nghiệm độc lập được công nhận để xác minh độ tinh khiết bằng HPLC và phổ khối."
+    },
+    "proc4": {
+      "title": "Giấy chứng nhận phân tích",
+      "desc": "Mỗi lô xuất xưởng kèm Giấy chứng nhận phân tích đầy đủ, tải xuống được trên trang kết quả kiểm nghiệm."
+    },
+    "ctaTitle": "Sẵn sàng để bắt đầu?",
+    "ctaDesc": "Xem danh mục toàn diện các peptide nghiên cứu của chúng tôi hoặc liên hệ để được báo giá số lượng lớn và tổng hợp tùy chỉnh.",
+    "contactUs": "Liên hệ"
+  },
+  "b2b": {
+    "title": "Đối tác B2B",
+    "subtitle": "Đơn hàng sỉ và tổng hợp tùy chỉnh cho các viện nghiên cứu và công ty dược phẩm",
+    "contact": "Liên hệ để được báo giá sỉ",
+    "servicesTitle": "Dịch vụ B2B của chúng tôi",
+    "svBulk": {
+      "title": "Đơn hàng số lượng lớn",
+      "desc": "Giá cạnh tranh cho đơn hàng số lượng lớn. Chiết khấu theo số lượng bắt đầu từ 10+ đơn vị mỗi sản phẩm."
+    },
+    "svCustom": {
+      "title": "Tổng hợp tùy chỉnh",
+      "desc": "Trình tự peptide tùy chỉnh từ 5 đến hơn 100 axit amin với nhiều biến thể, bao gồm peptide dạng kẹp và cấu trúc mạch vòng."
+    },
+    "svChain": {
+      "title": "Chuỗi cung ứng đáng tin cậy",
+      "desc": "Nguồn cung ổn định với hàng tồn kho đảm bảo. Ưu tiên sản xuất cho đối tác dài hạn."
+    },
+    "svPartner": {
+      "title": "Quan hệ đối tác B2B",
+      "desc": "Giải pháp riêng cho các viện nghiên cứu, công ty dược phẩm và tổ chức nghiên cứu theo hợp đồng."
+    },
+    "benefitsTitle": "Lợi ích hợp tác",
+    "ben0": "Bậc giá theo số lượng",
+    "ben1": "Quản lý tài khoản chuyên trách",
+    "ben2": "Lập lịch sản xuất ưu tiên",
+    "ben3": "Điều kiện thanh toán linh hoạt cho tài khoản đủ điều kiện",
+    "ben4": "Tùy chọn ghi nhãn và đóng gói riêng",
+    "ben5": "Hỗ trợ tài liệu kỹ thuật",
+    "ben6": "Hỗ trợ tuân thủ quy định",
+    "customTitle": "Có yêu cầu riêng không?",
+    "customDesc": "Chúng tôi cũng đáp ứng các yêu cầu đặc biệt về trình tự peptide, mức độ tinh khiết và cấu hình đóng gói cụ thể.",
+    "contactQuote": "Liên hệ để được báo giá riêng",
+    "serveTitle": "Chúng tôi phục vụ ai",
+    "serveDesc": "Các giải pháp B2B của chúng tôi được thiết kế để đáp ứng nhu cầu của nhiều tổ chức nghiên cứu và dược phẩm.",
+    "mktInstitutions": {
+      "title": "Viện nghiên cứu",
+      "desc": "Các trường đại học, cao đẳng và phòng thí nghiệm nghiên cứu độc lập thực hiện các nghiên cứu in-vitro."
+    },
+    "mktPharma": {
+      "title": "Công ty dược phẩm",
+      "desc": "Các đội ngũ phát triển thuốc cần hợp chất siêu tinh khiết cho nghiên cứu tiền lâm sàng."
+    },
+    "mktCRO": {
+      "title": "Tổ chức nghiên cứu theo hợp đồng (CRO)",
+      "desc": "Các CRO cần nhà cung cấp peptide đáng tin cậy cho các dự án nghiên cứu của khách hàng."
+    },
+    "ctaDesc": "Đội ngũ B2B của chúng tôi sẵn sàng trao đổi yêu cầu của bạn, cung cấp báo giá riêng và khám phá cơ hội hợp tác.",
+    "getInTouch": "Liên hệ với chúng tôi",
+    "browseCatalog": "Xem danh mục"
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "subtitle": "Liên hệ với chúng tôi để biết thông tin sản phẩm, đơn hàng sỉ hoặc hỗ trợ kỹ thuật",
+    "lead": "Liên hệ với đội ngũ của chúng tôi để hỏi về sản phẩm, hỗ trợ kỹ thuật hoặc cơ hội hợp tác.",
+    "sendInquiry": "Gửi yêu cầu cho chúng tôi",
+    "info": "Thông tin liên hệ",
+    "email": "Email",
+    "phone": "Điện thoại",
+    "address": "Địa chỉ",
+    "responseTime": "Thời gian phản hồi",
+    "responseText": "Chúng tôi thường phản hồi mọi yêu cầu trong vòng 24 giờ vào các ngày làm việc.",
+    "bulkOrders": "Đơn hàng số lượng lớn",
+    "bulkText": "Đối với đơn hàng số lượng lớn hoặc yêu cầu tổng hợp peptide tùy chỉnh, vui lòng ghi rõ số lượng và tiến độ trong yêu cầu của bạn. Đội ngũ của chúng tôi sẽ cung cấp báo giá chi tiết trong vòng 12 giờ."
+  },
+  "footer": {
+    "products": "Sản phẩm",
+    "company": "Công ty",
+    "support": "Hỗ trợ",
+    "legal": "Pháp lý",
+    "allProducts": "Tất cả sản phẩm",
+    "testResults": "Kết quả kiểm tra",
+    "about": "Về chúng tôi",
+    "b2b": "B2B",
+    "contact": "Liên hệ",
+    "faq": "Câu hỏi thường gặp",
+    "shipping": "Thông tin vận chuyển",
+    "quality": "Đảm bảo chất lượng",
+    "privacy": "Quyền riêng tư",
+    "terms": "Điều khoản",
+    "disclaimer": "Chỉ dùng cho nghiên cứu. Không dùng cho tiêu dùng человека.",
+    "copyright": "Bảo lưu mọi quyền."
+  },
+  "form": {
+    "contactName": "Tên liên hệ",
+    "email": "Email",
+    "companyName": "Tên công ty",
+    "phone": "Điện thoại",
+    "country": "Quốc gia",
+    "product": "Sản phẩm quan tâm",
+    "quantity": "Số lượng",
+    "message": "Tin nhắn",
+    "submit": "Gửi yêu cầu",
+    "submitting": "Đang gửi...",
+    "success": "Cảm ơn bạn đã gửi yêu cầu. Chúng tôi sẽ phản hồi trong vòng 24 giờ.",
+    "error": "Đã xảy ra lỗi khi gửi yêu cầu của bạn. Vui lòng thử lại.",
+    "errName": "Vui lòng nhập tên liên hệ",
+    "errEmail": "Vui lòng nhập email hợp lệ",
+    "errCompany": "Vui lòng nhập tên công ty",
+    "errMessage": "Tin nhắn phải có ít nhất 10 ký tự"
+  },
+  "meta": {
+    "title": "AnkhPeptide - Nhà cung cấp Peptide nghiên cứu",
+    "description": "Peptide nghiên cứu siêu tinh khiết và hợp chất phòng thí nghiệm cho nghiên cứu in-vitro. Được kiểm tra bởi bên thứ ba với độ tinh khiết 99%+. Giao hàng EU và toàn thế giới."
+  }
+}

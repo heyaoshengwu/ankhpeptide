@@ -1,0 +1,43 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: apeptide-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: apeptide
+      POSTGRES_PASSWORD: apeptide_pass
+      POSTGRES_DB: apeptide
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U apeptide"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  app:
+    build: .
+    container_name: apeptide-app
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      DATABASE_URL: "postgresql://apeptide:apeptide_pass@postgres:5432/apeptide"
+      NEXT_PUBLIC_ALGOLIA_APP_ID: ""
+      NEXT_PUBLIC_ALGOLIA_SEARCH_KEY: ""
+      ALGOLIA_ADMIN_KEY: ""
+      MAKE_WEBHOOK_URL: ""
+      NEXT_PUBLIC_SITE_URL: "http://localhost:3000"
+      SITE_URL: "http://localhost:3000"
+      ADMIN_PASSWORD: "admin"
+      NODE_ENV: "production"
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+volumes:
+  pgdata:

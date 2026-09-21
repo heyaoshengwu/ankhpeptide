@@ -1,0 +1,248 @@
+{
+  "nav": {
+    "products": "Mga Produk",
+    "testResults": "Mga Resulta ng Pagsubok",
+    "about": "Tungkol Sa Amin",
+    "b2b": "B2B",
+    "contact": "Makipag-ugnayan"
+  },
+  "language": {
+    "select": "Pumili ng Wika"
+  },
+  "hero": {
+    "title": "Tagatustos ng Peptide sa Pananaliksik",
+    "subtitle": "Ultra-pure na peptide sa pananaliksik at mga compound sa laboratoryo para sa pananaliksik in-vitro. Sinubok ng ikatlong partido sa 99%+ purity. EU & pandaigdigang pagpapadala.",
+    "viewProducts": "Tingnan ang Mga Produk",
+    "getQuote": "Kumuha ng Quote",
+    "disclaimer": "Para sa laboratoryo lang. Hindi para sa paggamit ng tao."
+  },
+  "features": {
+    "highPurity": {
+      "title": "99%+ Purity na Napatunayan",
+      "description": "Ang bawat batch ay sinubok ng ikatlong partido na may HPLC at mass spectrometry verification. Available ang mga sertipiko para sa lahat ng produkto."
+    },
+    "globalShipping": {
+      "title": "Pandaigdigang Pagpapadala",
+      "description": "Mabilis, maaasahang pagpapadala sa EU at mga destinasyon sa buong mundo. Cold-chain logistics para sa mga sensitibong compound."
+    },
+    "qualityAssurance": {
+      "title": "Quality Assurance",
+      "description": "ISO certified na manufacturing. Full traceability mula sa raw materials hanggang sa final product. Kasama ang quality reports."
+    }
+  },
+  "product": {
+    "categories": {
+      "title": "Mga Kategorya ng Produkto",
+      "peptides": "Mga Peptide",
+      "glp1": "Mga Analog ng GLP-1",
+      "sarms": "SARMs",
+      "bioregulators": "Mga Bioregulator",
+      "nootropics": "Mga Nootropics",
+      "ghAnalogs": "Mga Analog ng GH",
+      "myostatin": "Mga Inhibitor ng Myostatin",
+      "gonadotropins": "Mga Gonadotropin",
+      "injectables": "Mga Injectable",
+      "nasal": "Mga Spray sa Ilong",
+      "pellets": "Mga Pellet & Pills",
+      "researchSupplies": "Mga Kagamitan sa Pananaliksik"
+    },
+    "catalog": {
+      "title": "Katalogo ng Produkto",
+      "subtitle": "Tumingin ng aming komprehensibong hanay ng mga peptide at compound sa pananaliksik"
+    },
+    "filters": "Mga Filter",
+    "search": "Maghanap",
+    "searchPlaceholder": "Maghanap ng produkto...",
+    "application": "Aplikasyon",
+    "purity": "Kadalisayan",
+    "noProducts": "Walang magagamit na produkto.",
+    "specifications": "Mga Pagtutukoy",
+    "technicalDocuments": "Mga Dokumentong Teknikal",
+    "literature": "Mga Literatura",
+    "productNotFound": "Hindi nahanap ang produkto",
+    "productNotFoundDesc": "Ang produktong hinahanap mo ay hindi umiiral.",
+    "moleculeHint": "Interaktibong 3D - i-drag para iikot, i-scroll para mag-zoom"
+  },
+  "testResults": {
+    "title": "Mga Resulta ng Pagsubok",
+    "subtitle": "Tingnan ang mga ulat ng laboratoryo ng ikatlong partido para sa lahat ng aming produkto",
+    "download": "I-download ang COA",
+    "badgeVerified": "Na-verify ng Third-Party",
+    "badgeHplc": "HPLC at Mass Spectrometry",
+    "badgePurity": "99%+ Purity Standard",
+    "purity": "Kadalisayan",
+    "processTitle": "Ang Aming Verification Process",
+    "proc1": {
+      "title": "Sample Collection",
+      "desc": "Ang bawat batch ay nise-sample sa aming ISO-certified manufacturing facility bago ilabas."
+    },
+    "proc2": {
+      "title": "Third-Party Lab Testing",
+      "desc": "Ang mga sample ay ipinapadala sa independent accredited laboratories para sa HPLC at mass spectrometry analysis."
+    },
+    "proc3": {
+      "title": "Pagbibigay ng Certificate",
+      "desc": "Ang verified results ay nakabuo ng Certificates of Analysis na available for download."
+    },
+    "ctaTitle": "Kailangan ng custom testing?",
+    "ctaDesc": "Maaari kaming mag-ayos ng custom third-party testing para sa specific requirements o magbigay ng karagdagang dokumentasyon para sa regulatory compliance.",
+    "contactUs": "Makipag-ugnayan"
+  },
+  "about": {
+    "title": "Tungkol Sa Amin",
+    "content": "Ang AnkhPeptide ay isang nangungunang tagatustos ng ultra-pure na peptide sa pananaliksik at mga compound sa laboratoryo. Nagbibigay kami ng mga de-kalidad na peptide sa mga researcher, laboratoryo, at kompanya ng pharma sa buong mundo para sa mga application ng pananaliksik in-vitro.",
+    "mission": "Ang aming misyon ay magbigay sa mga researcher ng maaasahang access sa mga compound ng peptide na may mataas na purity sa mga competitive na presyo.",
+    "missionTitle": "Ang Aming Misyon",
+    "stats": {
+      "purity": "Napatunayang Kadalisayan",
+      "countries": "Mga Bansang Pinadalhan",
+      "products": "Mga Produk",
+      "response": "Oras ng Pagtugon"
+    },
+    "forResearchers": "Para sa mga Mananaliksik",
+    "forResearchersDesc": "Nagbibigay kami ng maaasahang access sa mga high-purity peptide compound para sa in-vitro research, sumusuporta sa pag-unlad ng agham.",
+    "forLaboratories": "Para sa mga Laboratoryo",
+    "forLaboratoriesDesc": "Ang pare-parehong kalidad at kumpletong dokumentasyon ay sumusuporta sa mga workflow ng laboratoryo at mga kinakailangan sa regulatory compliance.",
+    "whyTitle": "Bakit pumili ng AnkhPeptide?",
+    "valQA": {
+      "title": "Quality Assurance",
+      "desc": "Ang bawat batch ay sumasailalim sa mahigpit na third-party testing na may HPLC at mass spectrometry verification bago ilabas."
+    },
+    "valISO": {
+      "title": "ISO Standards",
+      "desc": "Ang aming mga manufacturing partner ay nagpapatakbo sa ilalim ng ISO-certified quality management systems na tinitiyak ang consistency."
+    },
+    "valGlobal": {
+      "title": "Pandaigdigang Reach",
+      "desc": "Maaasahang pagpapadala sa mga mananaliksik, laboratoryo, at pharmaceutical companies sa mahigit 50 bansa."
+    },
+    "valService": {
+      "title": "Maaasahang Serbisyo",
+      "desc": "Ang dedikadong support team ay nagbibigay ng mabilis na tulong para sa mga katanungan tungkol sa produkto at teknikal."
+    },
+    "processTitle": "Ang Aming Quality Process",
+    "proc1": {
+      "title": "Verification ng Raw Materials",
+      "desc": "Ang lahat ng papasok na raw materials ay nabe-verify at nadi-dokumento bago gamitin sa manufacturing."
+    },
+    "proc2": {
+      "title": "Manufacturing Standards",
+      "desc": "Ang mga peptide ay nisi-synthesize sa ilalim ng mahigpit na quality control sa ISO-certified facilities."
+    },
+    "proc3": {
+      "title": "Third-Party Testing",
+      "desc": "Ang bawat batch ay ipinapadala sa independent accredited laboratories para sa purity verification sa pamamagitan ng HPLC at mass spectrometry."
+    },
+    "proc4": {
+      "title": "Certificate of Analysis",
+      "desc": "Ang bawat release ay may kasamang kumpletong Certificate of Analysis na available for download sa aming test results page."
+    },
+    "ctaTitle": "Handa nang magsimula?",
+    "ctaDesc": "I-browse ang aming kumpletong catalog ng research peptides o makipag-ugnayan sa aming koponan para sa bulk pricing at custom synthesis inquiries.",
+    "contactUs": "Makipag-ugnayan"
+  },
+  "b2b": {
+    "title": "Mga Pakikipagsosyo sa B2B",
+    "subtitle": "Mga bulk order at custom synthesis para sa mga institusyon ng pananaliksik at kompanya ng pharma",
+    "contact": "Makipag-ugnayan para sa bulk pricing",
+    "servicesTitle": "Aming B2B Services",
+    "svBulk": {
+      "title": "Bulk Orders",
+      "desc": "Mapagkumpitensyang presyo para sa malalaking order. Volume discounts simula sa 10+ units bawat produkto."
+    },
+    "svCustom": {
+      "title": "Custom Synthesis",
+      "desc": "Custom peptide sequences mula 5 hanggang 100+ amino acids na may iba't ibang modifikasyon, kasama ang stapled peptides at cyclic structures."
+    },
+    "svChain": {
+      "title": "Maaasahang Supply Chain",
+      "desc": "Konsistent na supply na may garantisadong stock availability. Priority manufacturing para sa long-term partners."
+    },
+    "svPartner": {
+      "title": "B2B Partnerships",
+      "desc": "Mga tailored solution para sa research institutions, pharmaceutical companies, at contract research organizations."
+    },
+    "benefitsTitle": "Mga Benepisyo ng Partnership",
+    "ben0": "Volume-based pricing tiers",
+    "ben1": "Dedikadong account management",
+    "ben2": "Priority production scheduling",
+    "ben3": "Flexible payment terms para sa qualified accounts",
+    "ben4": "Custom labeling at packaging options",
+    "ben5": "Technical documentation support",
+    "ben6": "Regulatory compliance assistance",
+    "customTitle": "May custom requirements ka?",
+    "customDesc": "Inaaccommodate rin namin ang mga custom request para sa specific peptide sequences, purity levels, at packaging configurations.",
+    "contactQuote": "Makipag-ugnayan para sa custom quote",
+    "serveTitle": "Kung Sino ang Pinaglilingkuran Namin",
+    "serveDesc": "Ang aming B2B solutions ay dinisenyo upang matugunan ang mga pangangailangan ng iba't ibang research at pharmaceutical organizations.",
+    "mktInstitutions": {
+      "title": "Research Institutions",
+      "desc": "Mga unibersidad, kolehiyo, at independent research labs na nagsasagawa ng in-vitro studies."
+    },
+    "mktPharma": {
+      "title": "Pharmaceutical Companies",
+      "desc": "Mga drug development team na nangangailangan ng high-purity compounds para sa preclinical research."
+    },
+    "mktCRO": {
+      "title": "Contract Research Organizations",
+      "desc": "CROs na nangangailangan ng maaasahang peptide suppliers para sa client research projects."
+    },
+    "ctaDesc": "Ang aming B2B team ay handa talakayin ang iyong mga kinakailangan, magbigay ng custom quotes, at mag-explore ng partnership opportunities.",
+    "getInTouch": "Makipag-ugnayan",
+    "browseCatalog": "I-browse ang Catalog"
+  },
+  "contact": {
+    "title": "Makipag-ugnayan",
+    "subtitle": "Makipag-ugnayan sa amin para sa mga inquiry ng produkto, bulk orders, o technical support",
+    "lead": "Makipag-ugnayan sa aming koponan para sa mga tanong tungkol sa produkto, teknikal na suporta, o mga pagkakataon sa pakikipagsosyo.",
+    "sendInquiry": "Ipadala sa amin ang iyong katanungan",
+    "info": "Impormasyon ng Pakikipag-ugnayan",
+    "email": "Email",
+    "phone": "Telepono",
+    "address": "Address",
+    "responseTime": "Oras ng Pagtugon",
+    "responseText": "Karaniwang tumutugon kami sa lahat ng katanungan sa loob ng 24 oras tuwing araw ng trabaho.",
+    "bulkOrders": "Bulk Orders",
+    "bulkText": "Para sa bulk orders o custom peptide synthesis, mangyaring tukuyin ang dami at oras sa iyong katanungan. Magbibigay ang aming koponan ng detalyadong quote sa loob ng 12 oras."
+  },
+  "footer": {
+    "products": "Mga Produkto",
+    "company": "Kompanya",
+    "support": "Suporta",
+    "legal": "Legal",
+    "allProducts": "Lahat ng Mga Produkto",
+    "testResults": "Mga Resulta ng Pagsubok",
+    "about": "Tungkol Sa Amin",
+    "b2b": "B2B",
+    "contact": "Makipag-ugnayan",
+    "faq": "Mga Karaniwang Tanong",
+    "shipping": "Impormasyon sa Pagpapadala",
+    "quality": "Quality Assurance",
+    "privacy": "Privacy",
+    "terms": "Mga Tuntunin",
+    "disclaimer": "Para sa paggamit sa pananaliksik lamang. Hindi para sa pagkonsumo ng tao.",
+    "copyright": "Lahat ng karapatan ay nakareserba."
+  },
+  "form": {
+    "contactName": "Pangalan ng Contact",
+    "email": "Email",
+    "companyName": "Pangalan ng Kumpanya",
+    "phone": "Telepono",
+    "country": "Bansa",
+    "product": "Produktong Interes",
+    "quantity": "Dami",
+    "message": "Mensahe",
+    "submit": "Isumite ang Katanungan",
+    "submitting": "Nagpapadala...",
+    "success": "Salamat sa iyong katanungan. Tutugon kami sa loob ng 24 oras.",
+    "error": "May error sa pagsumite ng iyong katanungan. Mangyaring subukang muli.",
+    "errName": "Kinakailangan ang pangalan ng contact",
+    "errEmail": "Kinakailangan ang wastong email",
+    "errCompany": "Kinakailangan ang pangalan ng kumpanya",
+    "errMessage": "Ang mensahe ay dapat na hindi bababa sa 10 character"
+  },
+  "meta": {
+    "title": "AnkhPeptide - Tagatustos ng Peptide sa Pananaliksik",
+    "description": "Ultra-pure na peptide sa pananaliksik at mga compound sa laboratoryo para sa pananaliksik in-vitro. Sinubok ng ikatlong partido sa 99%+ purity. EU & pandaigdigang pagpapadala."
+  }
+}

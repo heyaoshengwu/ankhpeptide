@@ -1,0 +1,105 @@
+{
+  "pages": {
+    "faq": {
+      "subtitle": "Mga madalas itanong tungkol sa aming mga produkto at serbisyo.",
+      "items": [
+        { "q": "Para saan ginagamit ang inyong mga produkto?", "a": "Ang lahat ng aming mga produkto ay para lamang sa mga layunin ng pananaliksik sa laboratoryo. Idinisenyo ang mga ito para sa in-vitro na pananaliksik, mga eksperimento sa biochemical, at mga siyentipikong pagsisiyasat. Wala sa aming mga produkto ang para sa paggamit ng tao, pagkonsumo, o klinikal na aplikasyon." },
+        { "q": "Paano ko itago ang mga peptide?", "a": "Karamihan sa mga peptide ay dapat itago sa -20°C o mas mababa sa freezer. Pagkatapos muling buuin, karaniwang dapat itago ang mga peptide sa 4°C at gamitin sa loob ng inirerekomendang panahon. Palaging sumangguni sa partikular na dokumentasyon ng produkto para sa mga tagubilin sa pag-iimbak." },
+        { "q": "Ano ang inyong minimum na dami ng order?", "a": "Nag-aalok kami ng flexible na pag-order nang walang mahigpit na minimum na dami para sa karamihan ng mga produkto. Gayunpaman, nagsisimula ang mga benepisyo sa presyong pakyawan sa 10+ unit na order bawat produkto. Makipag-ugnayan sa aming sales team para sa mga partikular na pangangailangan." },
+        { "q": "Nagpapadala ba kayo sa ibang bansa?", "a": "Oo, nagpapadala kami sa mahigit 50 bansa sa buong mundo. Nag-iiba-iba ang mga gastos at oras ng paghahatid batay sa destinasyon. Gumagamit kami ng mapagkakatiwalaang serbisyo sa pagpapadala at maaaring mag-ayos ng espesyal na paghawak para sa mga compound na sensitibo sa temperatura." },
+        { "q": "Paano ko mapapatunayan ang kadalisayan ng produkto?", "a": "Bawat batch ay may kasamang Sertipiko ng Pagsusuri (COA) mula sa mga third-party na laboratoryo na nagkukumpirma ng mga antas ng kadalisayan. Kasama sa mga COA ang mga resulta ng HPLC at mass spectrometry. Maaari mong i-download ang mga COA mula sa aming pahina ng Mga Resulta ng Pagsusuri." },
+        { "q": "Anong mga paraan ng pagbabayad ang tinatanggap ninyo?", "a": "Tumatanggap kami ng iba't ibang paraan ng pagbabayad kabilang ang bank transfer, credit card (kung magagamit), at cryptocurrency (para sa mga piling order). Makipag-ugnayan sa amin para sa mga opsyon sa pagbabayad na angkop sa inyong lugar." },
+        { "q": "Sertipikado ba ng GMP ang inyong mga produkto?", "a": "Ang aming mga kasosyo sa paggawa ay nagpapatakbo sa ilalim ng sertipikadong ISO na mga sistema ng pamamahala ng kalidad. Maaari kaming magbigay ng dokumentasyon tungkol sa mga pamantayan ng produksyon kapag hiniling para sa mga partikular na produkto." },
+        { "q": "Maaari ba akong mag-order ng custom na peptide?", "a": "Oo, nag-aalok kami ng mga serbisyo sa synthesis ng custom na peptide. Maaari kaming gumawa ng mga sequence na 5 hanggang 100+ amino acid na may iba't ibang mga modipikasyon. Makipag-ugnayan sa aming team kasama ang iyong mga pangangailangan para sa quote at timeline." }
+      ],
+      "ctaText": "May mga tanong pa ba? Ang aming team ay narito upang tulungan ka.",
+      "contact": "Makipag-ugnayan sa Amin"
+    },
+    "shipping": {
+      "subtitle": "Impormasyon tungkol sa aming mga paraan ng pagpapadala, destinasyon, at oras ng paghahatid.",
+      "cards": [
+        { "title": "Mga Destinasyon ng Pagpapadala", "description": "Nagpapadala kami sa lahat ng EU bansa at pandaigdigang destinasyon kabilang ang Hilagang Amerika, Asya, Australia, at Timog Amerika. Ang pagpapadala ay magagamit sa mahigit 50 bansa." },
+        { "title": "Mga Oras ng Paghahatid", "description": "Paghahatid sa EU: 3-7 araw ng trabaho. Pandagdag internasyonal: 7-14 araw ng trabaho. Ang mga opsyon sa express shipping ay magagamit para sa mga apurahang order." },
+        { "title": "Pagbabalot", "description": "Ang lahat ng mga papadala ay maingat na binabalot na may sapat na proteksyon. Ang mga compound na sensitibo sa temperatura ay ipinapadala gamit ang mga materyales ng cold chain upang matiyak ang katatagan." },
+        { "title": "Logistics ng Cold Chain", "description": "Para sa mga sensitibong peptide at compound, gumagamit kami ng mga paraan ng pagpapadala ng cold chain kabilang ang mga gel pack at insulated packaging upang mapanatili ang pinakamainam na temperatura habang nasa biyahe." }
+      ],
+      "costsTitle": "Mga Gastos sa Pagpapadala",
+      "costsText1": "Kinakalkula ang mga gastos sa pagpapadala batay sa destinasyon, timbang, at kung kinakailangan ba ang cold chain handling. Ang mga huling gastos sa pagpapadala ay ipapakita sa checkout bago ang kumpirmasyon ng order.",
+      "costsText2": "Para sa mga bulk order o espesyal na kinakailangan sa pagpapadala, makipag-ugnayan lamang sa aming team para sa custom na quote.",
+      "processingTitle": "Pagproseso ng Order",
+      "processingText": "Karaniwang pinoproseso at ipinapadala ang mga order sa loob ng 1-2 araw ng trabaho. Tatanggap ka ng impormasyon sa pagsubaybay sa pamamagitan ng email sa sandaling maipadala ang iyong order."
+    },
+    "quality": {
+      "subtitle": "Ang aming pangako sa katiyakan ng kalidad at pagpapatunay ng produkto.",
+      "points": [
+        { "title": "Produksyon na Sertipikado ng ISO", "description": "Ang aming mga kasosyo sa paggawa ay nagpapatakbo sa ilalim ng sertipikadong ISO na mga sistema ng pamamahala ng kalidad, na tinitiyak ang pare-parehong kalidad at pagsunod sa mga internasyonal na pamantayan." },
+        { "title": "Pagsusuri ng Third-Party", "description": "Ang bawat batch ay sumasailalim sa mahigpit na pagsusuri sa mga independiyenteng akreditadong laboratoryo. Gumagamit kami ng HPLC at mass spectrometry upang patunayan ang kadalisayan." },
+        { "title": "Kumpletong Traceability", "description": "Kumpletong dokumentasyon mula sa pagkuha ng mga hilaw na materyales hanggang sa produksyon at paglabas ng huling produkto. Ang bawat batch ay maaaring masubaybayan pabalik sa mga pinagmumulan nitong materyales." },
+        { "title": "Pamantayan sa Kadalisayan na 99%+", "description": "Ginagarantiya namin ang minimum na 99% kadalisayan para sa lahat ng aming mga produktong peptide, na pinatunayan ng third-party na pagsusuri sa laboratoryo at dokumentado sa mga Sertipiko ng Pagsusuri." }
+      ],
+      "coaTitle": "Sertipiko ng Pagsusuri",
+      "coaIntro": "Ang bawat batch ng produkto ay may kasamang komprehensibong Sertipiko ng Pagsusuri (COA) na naglalaman ng:",
+      "coaList": [
+        "Pagpapatunay ng kadalisayan sa pamamagitan ng HPLC",
+        "Kumpirmasyon ng mass spectrometry",
+        "Hitsura at mga pisikal na katangian",
+        "Pagsusuri ng nilalaman ng tubig",
+        "Numero ng batch at petsa ng produksyon"
+      ],
+      "commitmentTitle": "Pangako sa Kalidad",
+      "commitmentText": "Kami ay naninindigan sa kalidad ng aming mga produkto. Kung mayroon kang anumang alalahanin tungkol sa kalidad o dokumentasyon ng isang produkto, makipag-ugnayan lamang sa amin kaagad. Nakatuon kami sa pagtiyak ng kumpletong kasiyahan ng customer."
+    },
+    "privacy": {
+      "subtitle": "Kung paano namin kinokolekta, ginagamit, at pinapangalagaan ang iyong impormasyon.",
+      "updated": "Huling na-update: Mayo 2026",
+      "sections": [
+        { "title": "Impormasyong Kinokolekta Namin", "body": "Kinokolekta namin ang impormasyong direktang ibinibigay mo sa amin, tulad ng kapag lumikha ka ng account, gumawa ng order, nag-subscribe sa aming newsletter, o nakipag-ugnayan sa amin para sa suporta. Maaaring kasama rito ang pangalan, email, numero ng telepono, pangalan ng kumpanya, address ng billing, at address ng pagpapadala." },
+        { "title": "Paano Namin Ginagamit ang Iyong Impormasyon", "body": "Ginagamit namin ang nakolektang impormasyon upang iproseso at tuparin ang mga order, makipag-ugnayan sa iyo tungkol sa mga produkto at serbisyo, magbigay ng suporta sa customer, at magpadala sa iyo ng mga pang-promosyong komunikasyon (sa iyong pahintulot kung kinakailangan)." },
+        { "title": "Pagbabahagi ng Impormasyon", "body": "Hindi namin ibinebenta, ipinagpapalit, o inililipat ang iyong personal na impormasyon sa mga third party nang walang pahintulot mo, maliban kung kinakailangan upang maibigay ang aming mga serbisyo (tulad ng mga kumpanya ng pagpapadala at mga tagaproseso ng pagbabayad) o ayon sa kinakailangan ng batas." },
+        { "title": "Seguridad ng Data", "body": "Nagpapatupad kami ng mga naaangkop na hakbang sa seguridad upang protektahan ang iyong personal na impormasyon mula sa hindi awtorisadong pag-access, pagbabago, pagsisiwalat, o pagkasira. Gayunpaman, walang paraan ng pagpapadala sa Internet ang 100% ligtas." },
+        { "title": "Cookies at Pagsubaybay", "body": "Gumagamit kami ng cookies at katulad na mga teknolohiya sa pagsubaybay upang mapabuti ang karanasan sa pagba-browse, suriin ang trapiko sa site, at maunawaan kung saan nanggagaling ang mga bisita. Maaari mong kontrolin ang cookies sa pamamagitan ng mga setting ng iyong browser." },
+        { "title": "Iyong Mga Karapatan", "body": "Depende sa iyong lokasyon, maaaring mayroon kang mga partikular na karapatan tungkol sa iyong personal na impormasyon, kabilang ang karapatang ma-access, itama, o burahin ang iyong data. Makipag-ugnayan sa amin upang gamitin ang mga karapatang ito." },
+        { "title": "Pagsunod sa GDPR (Mga Customer sa EU)", "body": "Para sa mga customer sa European Union, sumusunod kami sa General Data Protection Regulation (GDPR). Pinoproseso lamang namin ang personal na data sa mga legal na batayan at nagbibigay ng buong karapatan ng data subject." },
+        { "title": "Makipag-ugnayan sa Amin", "body": "Kung mayroon kang mga tanong tungkol sa Patakaran sa Privacy na ito, makipag-ugnayan lamang sa amin sa privacy@ankhpeptide.com." }
+      ]
+    },
+    "terms": {
+      "subtitle": "Mga tuntunin at kondisyon sa paggamit ng aming mga serbisyo.",
+      "updated": "Huling na-update: Mayo 2026",
+      "sections": [
+        { "title": "Pagtanggap sa mga Tuntunin", "body": "Sa pamamagitan ng pag-access o paggamit ng aming website at mga serbisyo, sumasang-ayon kang sumailalim sa mga Tuntunin ng Serbisyo na ito. Kung hindi ka sumasang-ayon sa mga tuntuning ito, mangyaring huwag gamitin ang aming mga serbisyo." },
+        { "title": "Mga Produkto at Nilalayong Paggamit", "body": "Ang lahat ng produkto na ibinebenta ng AnkhPeptide ay para lamang sa mga layunin ng pananaliksik sa laboratoryo. Ang mga produktong ito ay hindi gamot, produktong medikal, o kosmetiko at hindi nilalayon para sa paggamit ng tao, pagsusuri, o paggamot. Sa pagbili ng aming mga produkto, kinukumpirma mo na ikaw ay isang kwalipikadong mananaliksik o propesyonal." },
+        { "title": "Mga Order at Pagbabayad", "body": "Ang lahat ng mga order ay napapailalim sa availability at kumpirmasyon. Maaaring magbago ang mga presyo nang walang abiso. Ipinagkakapit namin ang karapatang tanggihan o kanselahin ang anumang order para sa anumang dahilan. Dapat matanggap ang buong pagbabayad bago iproseso ang order." },
+        { "title": "Pagpapadala at Paghahatid", "body": "Ang mga oras ng pagpapadala ay mga pagtatantya lamang at hindi ginagarantiyahan. Ang panganib ng pagkawala at pagmamay-ari ng mga produkto ay lumilipat sa bumibili kapag naihatid sa kumpanya ng pagpapadala. Hindi kami mananagot sa mga pagkaantala na dulot ng customs o mga kumpanya ng pagpapadala." },
+        { "title": "Mga Pagbabalik at Refund", "body": "Dahil sa katangian ng aming mga produkto, hindi namin maaaring tanggapin ang mga pagbabalik ng mga produkto na nabuksan o nagamit na. Kung nakatanggap ka ng sirang o depektong produkto, makipag-ugnayan lamang sa amin sa loob ng 14 na araw upang mag-ayos ng kapalit o refund." },
+        { "title": "Limitasyon ng Pananagutan", "body": "Ang AnkhPeptide ay hindi mananagot para sa anumang hindi direkta, incidental, espesyal, consequential, o punitive na pinsala na nagmumula sa paggamit ng aming mga produkto o serbisyo. Ang aming kabuuang pananagutan ay hindi lalampas sa halagang binayaran para sa partikular na produkto." },
+        { "title": "Pagtatatwa sa Pananaliksik", "body": "Ang AnkhPeptide ay nagbibigay ng mga produkto lamang para sa mga layunin ng pananaliksik sa laboratoryo. Hindi inirerekomenda, sinasang-ayunan, o hinihikayat ng kumpanya ang paggamit ng mga produktong ito para sa anumang partikular na aplikasyon. Ang mga gumagamit ay responsable sa pagtiyak ng pagsunod sa mga naaangkop na batas at regulasyon." },
+        { "title": "Intellectual Property", "body": "Ang lahat ng nilalaman sa website na ito, kabilang ang teksto, graphics, logo, at mga larawan, ay pag-aari ng AnkhPeptide at protektado ng mga batas sa intellectual property." },
+        { "title": "Namamahalang Batas", "body": "Ang mga Tuntunin ng Serbisyo na ito ay mapapamahalaan at i-interpret ayon sa mga naaangkop na batas, nang hindi isinasaalang-alang ang mga prinsipyo ng salungatan ng mga batas." },
+        { "title": "Mga Pagbabago sa mga Tuntunin", "body": "Ipinagkakapit namin ang karapatang baguhin ang mga tuntuning ito anumang oras. Ang patuloy na paggamit ng aming mga serbisyo pagkatapos ng mga pagbabago ay bumubuo ng pagtanggap sa mga binagong tuntunin." },
+        { "title": "Impormasyon sa Pakikipag-ugnayan", "body": "Para sa mga katanungan tungkol sa mga Tuntunin ng Serbisyo na ito, makipag-ugnayan lamang sa amin sa legal@ankhpeptide.com." }
+      ]
+    },
+    "disclaimer": {
+      "subtitle": "Mahalagang impormasyon tungkol sa nilalayong paggamit ng aming mga produkto.",
+      "alertTitle": "Pananaliksik Lamang",
+      "alertText": "Ang lahat ng produkto na ibinebenta ng AnkhPeptide ay mahigpit na para lamang sa mga layunin ng pananaliksik sa laboratoryo. Hindi ito nilalayon para sa paggamit ng tao, pagkonsumo, o pangangasiwa.",
+      "sections": [
+        { "title": "Nilalayong Paggamit ng Produkto", "body": "Ang mga produktong ibinibigay ng AnkhPeptide ay idinisenyo nang eksklusibo para sa in-vitro na pananaliksik at eksperimentasyon sa laboratoryo. Ang mga compound na ito ay nilalayon para gamitin ng mga kwalipikadong mananaliksik, mga propesyonal sa laboratoryo, at mga siyentipikong imbestigador sa mga kontroladong kapaligiran ng laboratoryo." },
+        { "title": "Hindi Para sa Pagkonsumo ng Tao", "body": "Ang aming mga produkto ay hindi gamot, pamparmasyu ta, pampagkain na additive, o kosmetiko. Hindi ito nasuri ng anumang regulatory authority (kabilang ang FDA, EMA, o mga katulad na ahensya) para sa kaligtasan o bisa sa mga tao. Wala sa aming mga produkto ang dapat lunukin, iturok, o gamitin sa anumang paraan na maaaring magresulta sa exposure sa tao." },
+        { "title": "Mga Kinakailangan sa Kwalipikasyon", "body": "Sa pamamagitan ng pagbili mula sa aming website, kinukumpirma at ginagarantiya mo na ikaw ay:" },
+        { "title": "Pananagutan", "body": "Ang AnkhPeptide ay hindi mananagot para sa anumang maling paggamit ng aming mga produkto. Ang mga gumagamit ay may buong responsibilidad na tiyakin na ang mga produkto ay ginagamit ayon sa lahat ng naaangkop na batas, regulasyon, at mga alituntunin sa kaligtasan." },
+        { "title": "Pagpapatunay ng Third-Party na Pagsusuri", "body": "Bagama't nagbibigay kami ng mga third-party na Sertipiko ng Pagsusuri na nagkukumpirma ng mga antas ng kadalisayan, ang mga pagpapatunay na ito ay ginagawa lamang para sa mga layunin ng dokumentasyon ng pananaliksik at hindi bumubuo ng pag-apruba para sa paggamit ng tao." },
+        { "title": "Mga Pagbabago sa Pagtatatwa na Ito", "body": "Ipinagkakapit namin ang karapatang baguhin ang pagtatatwa na ito anumang oras. Ang patuloy na paggamit ng aming website at mga serbisyo pagkatapos ng mga pagbabago ay bumubuo ng pagtanggap sa mga binagong tuntunin." }
+      ],
+      "qualificationList": [
+        "Isang kwalipikadong mananaliksik o propesyonal sa laboratoryo",
+        "Kumikilos sa loob ng isang angkop na institusyon ng pananaliksik o edukasyon",
+        "Gumagamit ng mga produkto ayon sa lahat ng naaangkop na batas at regulasyon",
+        "Sinusunod ang mga angkop na protokol sa kaligtasan ng laboratoryo"
+      ],
+      "ctaText": "Kung mayroon kang mga tanong tungkol sa pagtatatwa na ito, makipag-ugnayan lamang sa amin bago bumili.",
+      "contact": "Makipag-ugnayan sa Amin"
+    }
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "nav": {
+    "products": "Products",
+    "testResults": "Test Results",
+    "about": "About",
+    "b2b": "B2B",
+    "contact": "Contact"
+  },
+  "language": {
+    "select": "Select Language"
+  },
+  "hero": {
+    "title": "Research Peptide Supplier",
+    "subtitle": "Ultra-pure research peptides and laboratory compounds for in-vitro research use. Third-party tested at 99%+ purity. EU & worldwide shipping.",
+    "viewProducts": "View Products",
+    "getQuote": "Get Quote",
+    "disclaimer": "For laboratory research purposes only. Not for human use."
+  },
+  "features": {
+    "highPurity": {
+      "title": "99%+ Purity Verified",
+      "description": "Every batch is third-party tested with HPLC and mass spectrometry verification. Certificates available for all products."
+    },
+    "globalShipping": {
+      "title": "Worldwide Shipping",
+      "description": "Fast, reliable shipping to EU and worldwide destinations. Cold-chain logistics for sensitive compounds."
+    },
+    "qualityAssurance": {
+      "title": "Quality Assured",
+      "description": "ISO certified manufacturing. Full traceability from raw materials to final product. Quality reports included."
+    }
+  },
+  "product": {
+    "categories": {
+      "title": "Product Categories",
+      "peptides": "Peptides",
+      "glp1": "GLP-1 Analogs",
+      "sarms": "SARMs",
+      "bioregulators": "Bioregulators",
+      "nootropics": "Nootropics",
+      "ghAnalogs": "GH Analogs & Secretagogues",
+      "myostatin": "Myostatin Inhibitors",
+      "gonadotropins": "Gonadotropins",
+      "injectables": "Injectables",
+      "nasal": "Nasal Sprays",
+      "pellets": "Pellets & Pills",
+      "researchSupplies": "Research Supplies"
+    },
+    "catalog": {
+      "title": "Product Catalog",
+      "subtitle": "Browse our comprehensive range of research peptides and compounds"
+    },
+    "filters": "Filters",
+    "search": "Search",
+    "searchPlaceholder": "Search products...",
+    "application": "Application",
+    "purity": "Purity",
+    "noProducts": "No products available.",
+    "specifications": "Specifications",
+    "technicalDocuments": "Technical Documents",
+    "literature": "Literature",
+    "productNotFound": "Product Not Found",
+    "productNotFoundDesc": "The product you are looking for does not exist.",
+    "moleculeHint": "Interactive 3D structure - drag to rotate, scroll to zoom"
+  },
+  "testResults": {
+    "title": "Test Results",
+    "subtitle": "View third-party laboratory reports for all our products",
+    "download": "Download COA",
+    "badgeVerified": "Third-Party Verified",
+    "badgeHplc": "HPLC & Mass Spectrometry",
+    "badgePurity": "99%+ Purity Standard",
+    "purity": "Purity",
+    "processTitle": "Our Verification Process",
+    "proc1": {
+      "title": "Sample Collection",
+      "desc": "Each batch is sampled at our ISO certified manufacturing facility before release."
+    },
+    "proc2": {
+      "title": "Third-Party Lab Testing",
+      "desc": "Samples are sent to independent accredited laboratories for HPLC and mass spectrometry analysis."
+    },
+    "proc3": {
+      "title": "Certificate Issuance",
+      "desc": "Verified results are compiled into Certificates of Analysis available for download."
+    },
+    "ctaTitle": "Need Custom Testing?",
+    "ctaDesc": "We can arrange custom third-party testing for specific requirements or provide additional documentation for regulatory compliance.",
+    "contactUs": "Contact"
+  },
+  "about": {
+    "title": "About Us",
+    "content": "AnkhPeptide is a leading supplier of ultra-pure research peptides and laboratory compounds. We supply researchers, laboratories, and pharmaceutical companies worldwide with high-quality peptides for in-vitro research applications.",
+    "mission": "Our mission is to provide researchers with reliable access to high-purity peptide compounds at competitive prices.",
+    "missionTitle": "Our Mission",
+    "stats": {
+      "purity": "Purity Verified",
+      "countries": "Countries Shipped",
+      "products": "Products",
+      "response": "Response Time"
+    },
+    "forResearchers": "For Researchers",
+    "forResearchersDesc": "We provide reliable access to high-purity peptide compounds for in-vitro research applications, enabling scientific advancement.",
+    "forLaboratories": "For Laboratories",
+    "forLaboratoriesDesc": "Consistent quality and comprehensive documentation support laboratory workflows and regulatory compliance requirements.",
+    "whyTitle": "Why Choose AnkhPeptide?",
+    "valQA": {
+      "title": "Quality Assurance",
+      "desc": "Every batch undergoes rigorous third-party testing with HPLC and mass spectrometry verification before release."
+    },
+    "valISO": {
+      "title": "ISO Standards",
+      "desc": "Our manufacturing partners operate under ISO certified quality management systems ensuring consistency."
+    },
+    "valGlobal": {
+      "title": "Global Reach",
+      "desc": "Reliable shipping to researchers, labs, and pharmaceutical companies in 50+ countries worldwide."
+    },
+    "valService": {
+      "title": "Reliable Service",
+      "desc": "Dedicated support team provides responsive assistance for product inquiries and technical questions."
+    },
+    "processTitle": "Our Quality Process",
+    "proc1": {
+      "title": "Raw Material Verification",
+      "desc": "All incoming raw materials are verified and documented before use in manufacturing."
+    },
+    "proc2": {
+      "title": "Manufacturing Standards",
+      "desc": "Peptides are synthesized under strict quality control conditions in ISO certified facilities."
+    },
+    "proc3": {
+      "title": "Third-Party Testing",
+      "desc": "Every batch is sent to independent accredited laboratories for purity verification via HPLC and mass spectrometry."
+    },
+    "proc4": {
+      "title": "Certificate of Analysis",
+      "desc": "Each release includes a comprehensive Certificate of Analysis available for download on our test results page."
+    },
+    "ctaTitle": "Ready to Get Started?",
+    "ctaDesc": "Browse our comprehensive catalog of research peptides or contact our team for bulk pricing and custom synthesis inquiries.",
+    "contactUs": "Contact"
+  },
+  "b2b": {
+    "title": "B2B Partnerships",
+    "subtitle": "Bulk orders and custom synthesis for research institutions and pharmaceutical companies",
+    "contact": "Contact us for bulk pricing",
+    "servicesTitle": "Our B2B Services",
+    "svBulk": {
+      "title": "Bulk Orders",
+      "desc": "Competitive pricing for large quantity orders. Volume discounts starting at 10+ units per product."
+    },
+    "svCustom": {
+      "title": "Custom Synthesis",
+      "desc": "Custom peptide sequences from 5 to 100+ amino acids with various modifications including stapled peptides and cyclic structures."
+    },
+    "svChain": {
+      "title": "Reliable Supply Chain",
+      "desc": "Consistent supply with guaranteed stock availability. Priority manufacturing for long-term partners."
+    },
+    "svPartner": {
+      "title": "B2B Partnerships",
+      "desc": "Tailored solutions for research institutions, pharmaceutical companies, and contract research organizations."
+    },
+    "benefitsTitle": "Partnership Benefits",
+    "ben0": "Volume-based pricing tiers",
+    "ben1": "Dedicated account management",
+    "ben2": "Priority production scheduling",
+    "ben3": "Flexible payment terms for qualified accounts",
+    "ben4": "Custom labeling and packaging options",
+    "ben5": "Technical documentation support",
+    "ben6": "Regulatory compliance assistance",
+    "customTitle": "Custom Requirements?",
+    "customDesc": "We also accommodate custom requests for specific peptide sequences, purity levels, and packaging configurations.",
+    "contactQuote": "Contact for Custom Quote",
+    "serveTitle": "Who We Serve",
+    "serveDesc": "Our B2B solutions are designed to meet the needs of various research and pharmaceutical organizations.",
+    "mktInstitutions": {
+      "title": "Research Institutions",
+      "desc": "Universities, colleges, and independent research labs conducting in-vitro studies."
+    },
+    "mktPharma": {
+      "title": "Pharmaceutical Companies",
+      "desc": "Drug development teams requiring high-purity compounds for preclinical research."
+    },
+    "mktCRO": {
+      "title": "Contract Research Organizations",
+      "desc": "CROs needing reliable peptide suppliers for client research projects."
+    },
+    "ctaDesc": "Our B2B team is ready to discuss your requirements, provide custom quotes, and explore partnership opportunities.",
+    "getInTouch": "Get in Touch",
+    "browseCatalog": "Browse Catalog"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch for product inquiries, bulk orders, or technical support",
+    "lead": "Get in touch with our team for product inquiries, technical support, or partnership opportunities.",
+    "sendInquiry": "Send us an inquiry",
+    "info": "Contact Information",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "responseTime": "Response Time",
+    "responseText": "We typically respond to all inquiries within 24 hours during business days.",
+    "bulkOrders": "Bulk Orders",
+    "bulkText": "For bulk orders or custom peptide synthesis requests, please specify your quantity and timeline in your inquiry. Our team will provide a detailed quote within 12 hours."
+  },
+  "footer": {
+    "products": "Products",
+    "company": "Company",
+    "support": "Support",
+    "legal": "Legal",
+    "allProducts": "All Products",
+    "testResults": "Test Results",
+    "about": "About Us",
+    "b2b": "B2B",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "shipping": "Shipping Info",
+    "quality": "Quality Assurance",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "disclaimer": "Research use only. Not for human consumption.",
+    "copyright": "All rights reserved."
+  },
+  "form": {
+    "contactName": "Contact Name",
+    "email": "Email",
+    "companyName": "Company Name",
+    "phone": "Phone",
+    "country": "Country",
+    "product": "Product Interest",
+    "quantity": "Quantity",
+    "message": "Message",
+    "submit": "Submit Inquiry",
+    "submitting": "Submitting...",
+    "success": "Thank you for your inquiry. We will respond within 24 hours.",
+    "error": "There was an error submitting your inquiry. Please try again.",
+    "errName": "Contact name is required",
+    "errEmail": "Valid email is required",
+    "errCompany": "Company name is required",
+    "errMessage": "Message must be at least 10 characters"
+  },
+  "meta": {
+    "title": "AnkhPeptide - Research Peptide Supplier",
+    "description": "Ultra-pure research peptides and laboratory compounds for in-vitro research use. Third-party tested at 99%+ purity. EU & worldwide shipping."
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "nav": {
+    "products": "Produk",
+    "testResults": "Keputusan ujian",
+    "about": "Tentang kami",
+    "b2b": "B2B",
+    "contact": "Hubungi"
+  },
+  "language": {
+    "select": "Pilih bahasa"
+  },
+  "hero": {
+    "title": "Pembekal Peptida Penyelidikan",
+    "subtitle": "Peptida penyelidikan ultra tulen dan sebatian makmal untuk kajian in-vitro. Diuji pihak ketiga pada 99%+ kemurnian. Penghantaran EU & seluruh dunia.",
+    "viewProducts": "Lihat produk",
+    "getQuote": "Dapatkan sebut harga",
+    "disclaimer": "Untuk makmal sahaja. Tidak untuk penggunaan manusia."
+  },
+  "features": {
+    "highPurity": {
+      "title": "Kemurnian 99%+ Disahkan",
+      "description": "Setiap batch diuji oleh pihak ketiga dengan pengesahan HPLC dan spektrometri jisim. Sijil tersedia untuk semua produk."
+    },
+    "globalShipping": {
+      "title": "Penghantaran Seluruh Dunia",
+      "description": "Penghantaran cepat dan boleh dipercayai ke EU dan destinasi seluruh dunia. Logistik rantaian sejuk untuk sebatian sensitif."
+    },
+    "qualityAssurance": {
+      "title": "Jaminan Kualiti",
+      "description": "Pengeluaran bersijil ISO. Kebolehjejakan lengkap dari bahan mentah hingga produk akhir. Laporan kualiti disertakan."
+    }
+  },
+  "product": {
+    "categories": {
+      "title": "Kategori Produk",
+      "peptides": "Peptida",
+      "glp1": "Analog GLP-1",
+      "sarms": "SARMs",
+      "bioregulators": "Bioregulator",
+      "nootropics": "Nootropik",
+      "ghAnalogs": "Analog GH",
+      "myostatin": "Perencat Myostatin",
+      "gonadotropins": "Gonadotropin",
+      "injectables": "Suntikan",
+      "nasal": " semburan hidung",
+      "pellets": "Pelet & pil",
+      "researchSupplies": "Bekalan kajian"
+    },
+    "catalog": {
+      "title": "Katalog Produk",
+      "subtitle": "Terokai pelbagai lengkap peptida dan sebatian kajian kami"
+    },
+    "filters": "Penapis",
+    "search": "Cari",
+    "searchPlaceholder": "Cari produk...",
+    "application": "Aplikasi",
+    "purity": "Ketulenan",
+    "noProducts": "Tiada produk tersedia.",
+    "specifications": "Spesifikasi",
+    "technicalDocuments": "Dokumen teknik",
+    "literature": "Rujukan",
+    "productNotFound": "Produk tidak dijumpai",
+    "productNotFoundDesc": "Produk yang anda cari tidak wujud.",
+    "moleculeHint": "Struktur 3D interaktif - seret untuk putar, tatal untuk zum"
+  },
+  "testResults": {
+    "title": "Keputusan Ujian",
+    "subtitle": "Lihat laporan makmal pihak ketiga untuk semua produk kami",
+    "download": "Muat turun COA",
+    "badgeVerified": "Disahkan pihak ketiga",
+    "badgeHplc": "HPLC dan spektrometri jisim",
+    "badgePurity": "Piawaian ketulenan 99%+",
+    "purity": "Ketulenan",
+    "processTitle": "Proses pengesahan kami",
+    "proc1": {
+      "title": "Pengumpulan sampel",
+      "desc": "Setiap kelompok disampel di kemudahan pembuatan bertauliah ISO kami sebelum dilepaskan."
+    },
+    "proc2": {
+      "title": "Ujian makmal pihak ketiga",
+      "desc": "Sampel dihantar ke makmal bertauliah bebas untuk analisis HPLC dan spektrometri jisim."
+    },
+    "proc3": {
+      "title": "Penerbitan sijil",
+      "desc": "Keputusan yang disahkan disusun menjadi Sijil analisis yang tersedia untuk muat turun."
+    },
+    "ctaTitle": "Perlukan ujian tersuai?",
+    "ctaDesc": "Kami boleh mengatur ujian pihak ketiga tersuai untuk keperluan tertentu atau menyediakan dokumentasi tambahan untuk pematuhan peraturan.",
+    "contactUs": "Hubungi"
+  },
+  "about": {
+    "title": "Tentang kami",
+    "content": "AnkhPeptide adalah pembekal terkemuka peptida Penyelidikan ultra tulen dan sebatian makmal. Kami membekalkan peptida berkualiti tinggi kepada penyelidik, makmal dan syarikat farmaseutikal di seluruh dunia untuk aplikasi kajian in-vitro.",
+    "mission": "Misi kami adalah untuk menyediakan penyelidik dengan akses yang boleh dipercayai kepada sebatian peptida kemurnian tinggi pada harga yang kompetitif.",
+    "missionTitle": "Misi kami",
+    "stats": {
+      "purity": "Ketulenan disahkan",
+      "countries": "Negara dihantar",
+      "products": "Produk",
+      "response": "Masa respons"
+    },
+    "forResearchers": "Untuk penyelidik",
+    "forResearchersDesc": "Kami menyediakan akses yang boleh dipercayai kepada sebatian peptida berketulenan tinggi untuk aplikasi penyelidikan in-vitro, menyokong kemajuan saintifik.",
+    "forLaboratories": "Untuk makmal",
+    "forLaboratoriesDesc": "Kualiti konsisten dan dokumentasi menyeluruh menyokong aliran kerja makmal dan keperluan pematuhan peraturan.",
+    "whyTitle": "Kenapa pilih AnkhPeptide?",
+    "valQA": {
+      "title": "Jaminan kualiti",
+      "desc": "Setiap kelompok menjalani ujian pihak ketiga yang ketat dengan pengesahan HPLC dan spektrometri jisim sebelum dilepaskan."
+    },
+    "valISO": {
+      "title": "Piawaian ISO",
+      "desc": "Rakan pembuatan kami beroperasi di bawah sistem pengurusan kualiti bertauliah ISO yang menjamin konsistensi."
+    },
+    "valGlobal": {
+      "title": "Jangkauan global",
+      "desc": "Penghantaran boleh dipercayai kepada penyelidik, makmal dan syarikat farmaseutikal di lebih 50 negara."
+    },
+    "valService": {
+      "title": "Perkhidmatan boleh dipercayai",
+      "desc": "Pasukan sokongan khusus menyediakan bantuan responsif untuk pertanyaan produk dan soalan teknikal."
+    },
+    "processTitle": "Proses kualiti kami",
+    "proc1": {
+      "title": "Pengesahan bahan mentah",
+      "desc": "Semua bahan mentah yang masuk disahkan dan didokumenkan sebelum digunakan dalam pembuatan."
+    },
+    "proc2": {
+      "title": "Piawaian pembuatan",
+      "desc": "Peptida disintesis dalam keadaan kawalan kualiti yang ketat di kemudahan bertauliah ISO."
+    },
+    "proc3": {
+      "title": "Ujian pihak ketiga",
+      "desc": "Setiap kelompok dihantar ke makmal bertauliah bebas untuk pengesahan ketulenan melalui HPLC dan spektrometri jisim."
+    },
+    "proc4": {
+      "title": "Sijil analisis",
+      "desc": "Setiap keluaran termasuk Sijil analisis menyeluruh yang tersedia untuk muat turun di halaman keputusan ujian kami."
+    },
+    "ctaTitle": "Bersedia untuk bermula?",
+    "ctaDesc": "Semak imbas katalog menyeluruh peptida penyelidikan kami atau hubungi pasukan kami untuk harga pukal dan permintaan sintesis tersuai.",
+    "contactUs": "Hubungi"
+  },
+  "b2b": {
+    "title": "Kerjasama B2B",
+    "subtitle": "Pesanan pukal dan sintesis tersuai untuk institusi kajian dan syarikat farmaseutikal",
+    "contact": "Hubungi kami untuk harga pukal",
+    "servicesTitle": "Perkhidmatan B2B kami",
+    "svBulk": {
+      "title": "Tempahan pukal",
+      "desc": "Harga kompetitif untuk pesanan kuantiti besar. Diskaun volum bermula dari 10+ unit setiap produk."
+    },
+    "svCustom": {
+      "title": "Sintesis tersuai",
+      "desc": "Jujukan peptida tersuai dari 5 hingga 100+ asid amino dengan pelbagai pengubahsuaian termasuk peptida berstapled dan struktur kitaran."
+    },
+    "svChain": {
+      "title": "Rantaian bekalan boleh dipercayai",
+      "desc": "Bekalan konsisten dengan ketersediaan stok terjamin. Pengeluaran keutamaan untuk rakan jangka panjang."
+    },
+    "svPartner": {
+      "title": "Perkongsian B2B",
+      "desc": "Penyelesaian tersuai untuk institusi penyelidikan, syarikat farmaseutikal dan organisasi penyelidikan kontrak."
+    },
+    "benefitsTitle": "Faedah perkongsian",
+    "ben0": "Tier harga berdasarkan volum",
+    "ben1": "Pengurusan akaun khusus",
+    "ben2": "Jadual pengeluaran keutamaan",
+    "ben3": "Syarat pembayaran fleksibel untuk akaun layak",
+    "ben4": "Pilihan pelabelan dan pembungkusan tersuai",
+    "ben5": "Sokongan dokumentasi teknikal",
+    "ben6": "Bantuan pematuhan peraturan",
+    "customTitle": "Keperluan tersuai?",
+    "customDesc": "Kami juga melayan permintaan tersuai untuk jujukan peptida tertentu, tahap ketulenan dan konfigurasi pembungkusan.",
+    "contactQuote": "Hubungi untuk sebut harga tersuai",
+    "serveTitle": "Siapa yang kami layani",
+    "serveDesc": "Penyelesaian B2B kami direka untuk memenuhi keperluan pelbagai organisasi penyelidikan dan farmaseutikal.",
+    "mktInstitutions": {
+      "title": "Institusi penyelidikan",
+      "desc": "Universiti, kolej dan makmal penyelidikan bebas yang menjalankan kajian in-vitro."
+    },
+    "mktPharma": {
+      "title": "Syarikat farmaseutikal",
+      "desc": "Pasukan pembangunan ubat yang memerlukan sebatian berketulenan tinggi untuk penyelidikan praklinikal."
+    },
+    "mktCRO": {
+      "title": "Organisasi penyelidikan kontrak",
+      "desc": "CRO yang memerlukan pembekal peptida boleh dipercayai untuk projek penyelidikan pelanggan."
+    },
+    "ctaDesc": "Pasukan B2B kami bersedia membincangkan keperluan anda, memberikan sebut harga tersuai dan meneroka peluang kerjasama.",
+    "getInTouch": "Hubungi kami",
+    "browseCatalog": "Lihat katalog"
+  },
+  "contact": {
+    "title": "Hubungi",
+    "subtitle": "Hubungi kami untuk pertanyaan produk, pesanan pukal atau sokongan teknikal",
+    "lead": "Hubungi pasukan kami untuk pertanyaan produk, sokongan teknikal atau peluang kerjasama.",
+    "sendInquiry": "Hantar pertanyaan kepada kami",
+    "info": "Maklumat perhubungan",
+    "email": "E-mel",
+    "phone": "Telefon",
+    "address": "Alamat",
+    "responseTime": "Masa respons",
+    "responseText": "Kami biasanya membalas semua pertanyaan dalam 24 jam pada hari bekerja.",
+    "bulkOrders": "Tempahan pukal",
+    "bulkText": "Untuk tempahan pukal atau permintaan sintesis peptida tersuai, sila nyatakan kuantiti dan jangka masa dalam pertanyaan anda. Pasukan kami akan memberikan sebut harga terperinci dalam 12 jam."
+  },
+  "footer": {
+    "products": "Produk",
+    "company": "Syarikat",
+    "support": " sokongan",
+    "legal": "Guaman",
+    "allProducts": "Semua Produk",
+    "testResults": "Keputusan Ujian",
+    "about": "Tentang kami",
+    "b2b": "B2B",
+    "contact": "Hubungi",
+    "faq": "Soalan Lazim",
+    "shipping": "Maklumat penghantaran",
+    "quality": "Jaminan Kualiti",
+    "privacy": "Privasi",
+    "terms": "Syarat",
+    "disclaimer": "Untuk kajian sahaja. Bukan untuk penggunaan manusia.",
+    "copyright": " Hak cipta terpelihara."
+  },
+  "form": {
+    "contactName": "Nama hubungan",
+    "email": "E-mel",
+    "companyName": "Nama syarikat",
+    "phone": "Telefon",
+    "country": "Negara",
+    "product": "Produk diminati",
+    "quantity": "Kuantiti",
+    "message": "Mesej",
+    "submit": "Hantar pertanyaan",
+    "submitting": "Menghantar...",
+    "success": "Terima kasih atas pertanyaan anda. Kami akan membalas dalam 24 jam.",
+    "error": "Terdapat ralat semasa menghantar pertanyaan anda. Sila cuba lagi.",
+    "errName": "Nama hubungan diperlukan",
+    "errEmail": "E-mel sah diperlukan",
+    "errCompany": "Nama syarikat diperlukan",
+    "errMessage": "Mesej mestilah sekurang-kurangnya 10 aksara"
+  },
+  "meta": {
+    "title": "AnkhPeptide - Pembekal Peptida Penyelidikan",
+    "description": "Peptida penyelidikan ultra tulen dan sebatian makmal untuk kajian in-vitro. Diuji pihak ketiga pada 99%+ kemurnian. Penghantaran EU & seluruh dunia."
+  }
+}
