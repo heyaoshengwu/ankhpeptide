@@ -2,7 +2,7 @@
 
 - GitHub repo: `heyaoshengwu/ankhpeptide`
 - Source: `root@139.180.223.181:/opt/apeptide`
-- Synced at: 2026-10-08T23:50:21+08:00
+- Synced at: 2026-10-09T00:00:22+08:00
 - Is raw-material site: **yes**
 
 ## Common excludes (all sites)
