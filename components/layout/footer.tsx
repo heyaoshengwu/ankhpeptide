@@ -69,9 +69,15 @@ export function Footer() {
                 <Mail className="w-4 h-4" />
                 <span>sales@ankhpeptide.com</span>
               </div>
-              <div className="flex items-center gap-2 text-sm text-slate-400">
-                <MapPin className="w-4 h-4" />
-                <span>European Union</span>
+              <div className="flex items-start gap-2 text-sm text-slate-400">
+                <MapPin className="w-4 h-4 mt-0.5 shrink-0" />
+                <span>
+                  Molengraaffsingel 12
+                  <br />
+                  2629 JD Delft
+                  <br />
+                  The Netherlands
+                </span>
               </div>
               <div className="flex items-center gap-2 text-sm text-slate-400">
                 <Clock className="w-4 h-4" />

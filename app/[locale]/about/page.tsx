@@ -63,16 +63,22 @@ export default async function AboutPage({ params }: PageProps) {
   return (
     <>
       {/* Hero Section */}
-      <Section className="bg-gradient-to-b from-slate-50 to-white">
-        <Container>
+      <Section className="relative overflow-hidden bg-slate-900">
+        <img
+          src="/photos/cand/rd_30.jpg"
+          alt="Scientist operating analytical laboratory equipment"
+          className="absolute inset-0 h-full w-full object-cover"
+        />
+        <div className="absolute inset-0 bg-gradient-to-b from-slate-900/85 via-slate-900/75 to-slate-900/85" />
+        <Container className="relative z-10">
           <div className="mx-auto max-w-4xl text-center">
-            <div className="inline-flex items-center justify-center w-16 h-16 mb-6 bg-primary-100 rounded-full">
-              <FlaskConical className="w-8 h-8 text-primary-600" />
+            <div className="inline-flex items-center justify-center w-16 h-16 mb-6 bg-white/10 rounded-full backdrop-blur">
+              <FlaskConical className="w-8 h-8 text-white" />
             </div>
-            <h1 className="mb-4 text-4xl font-bold tracking-tight text-slate-900 md:text-5xl">
+            <h1 className="mb-4 text-4xl font-bold tracking-tight text-white md:text-5xl drop-shadow">
               {t('about.title')}
             </h1>
-            <p className="text-lg text-slate-600 max-w-2xl mx-auto">
+            <p className="text-lg text-slate-200 max-w-2xl mx-auto">
               {t('about.content')}
             </p>
           </div>
@@ -94,15 +100,21 @@ export default async function AboutPage({ params }: PageProps) {
       </Section>
 
       {/* Mission Section */}
-      <Section className="bg-white">
-        <Container>
+      <Section className="relative overflow-hidden bg-slate-900">
+        <img
+          src="/photos/cand/rd_31.jpg"
+          alt="Laboratory team running quality control testing on analytical instruments"
+          className="absolute inset-0 h-full w-full object-cover"
+        />
+        <div className="absolute inset-0 bg-gradient-to-b from-slate-900/85 via-slate-900/75 to-slate-900/85" />
+        <Container className="relative z-10">
           <div className="max-w-3xl mx-auto text-center">
-            <h2 className="text-3xl font-bold mb-6">{t('about.missionTitle')}</h2>
-            <p className="text-lg text-slate-600 mb-8">
+            <h2 className="text-3xl font-bold mb-6 text-white">{t('about.missionTitle')}</h2>
+            <p className="text-lg text-slate-200 mb-8">
               {t('about.mission')}
             </p>
             <div className="grid gap-6 md:grid-cols-2">
-              <Card>
+              <Card className="bg-white/95 backdrop-blur">
                 <CardContent className="pt-6">
                   <h3 className="font-semibold mb-2 text-slate-900">{t('about.forResearchers')}</h3>
                   <p className="text-sm text-slate-600">
@@ -110,7 +122,7 @@ export default async function AboutPage({ params }: PageProps) {
                   </p>
                 </CardContent>
               </Card>
-              <Card>
+              <Card className="bg-white/95 backdrop-blur">
                 <CardContent className="pt-6">
                   <h3 className="font-semibold mb-2 text-slate-900">{t('about.forLaboratories')}</h3>
                   <p className="text-sm text-slate-600">
